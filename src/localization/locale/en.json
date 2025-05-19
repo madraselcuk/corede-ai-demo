@@ -1,0 +1,2045 @@
+{
+  "nav": {
+    "home": {
+      "title": "Home",
+      "desc": "Home page"
+    },
+    "landing": {
+      "title": "Landing",
+      "blog": {
+        "title": "Blog",
+        "desc": "Blog page",
+        "blog": {
+          "title": "Blog",
+          "list": "Blog List",
+          "listDesc": "Blog list page",
+          "create": "Blog Create",
+          "createDesc": "Blog create page"
+        },
+        "author": {
+          "title": "Author",
+          "desc": "Author page",
+          "list": "Author List",
+          "listDesc": "Author list page",
+          "create": "Author Create",
+          "createDesc": "Author create page"
+        },
+        "blogCategory": {
+          "title": "Blog Category",
+          "desc": "Blog category page",
+          "list": "Blog Category List",
+          "listDesc": "Blog category list page",
+          "create": "Blog Category Create",
+          "createDesc": "Blog category create page",
+          "update": "Blog Category Update",
+          "updateDesc": "Blog category update page",
+          "delete": "Blog Category Delete",
+          "deleteDesc": "Blog category delete page"
+        },
+        "blogTargetCategory": {
+          "title": "Blog Target Category",
+          "desc": "Blog target category page",
+          "list": "Blog Target Category List",
+          "listDesc": "Blog target category list page",
+          "create": "Blog Target Category Create",
+          "createDesc": "Blog target category create page",
+          "update": "Blog Target Category Update",
+          "updateDesc": "Blog target category update page",
+          "delete": "Blog Target Category Delete",
+          "deleteDesc": "Blog target category delete page"
+        }
+      },
+      "form": {
+        "title": "Form",
+        "desc": "Form page",
+        "contactForm": {
+          "title": "Contact Form",
+          "desc": "Contact form page",
+          "list": "Contact Form List",
+          "listDesc": "Contact form list page",
+          "create": "Contact Form Create",
+          "createDesc": "Contact form create page"
+        },
+        "subscriptionForm": {
+          "title": "Subscription Form",
+          "desc": "Subscription form page",
+          "list": "Subscription Form List",
+          "listDesc": "Subscription form list page",
+          "create": "Subscription Form Create",
+          "createDesc": "Subscription form create page"
+        }
+      },
+      "faq": {
+        "title": "Faq",
+        "desc": "Faq page",
+        "faq": {
+          "title": "Faq",
+          "list": "Faq List",
+          "listDesc": "Faq list page",
+          "create": "Faq Create",
+          "createDesc": "Faq create page"
+        },
+        "faqCategory": {
+          "title": "Faq Category",
+          "list": "Faq Category List",
+          "listDesc": "Faq category list page",
+          "create": "Faq Category Create",
+          "createDesc": "Faq category create page"
+        }
+      },
+      "helpCenter": {
+        "title": "Help Center",
+        "desc": "Help Center page",
+        "helpCenter": {
+          "title": "Help Center",
+          "list": "Help Center List",
+          "listDesc": "Help Center list page",
+          "create": "Help Center Create",
+          "createDesc": "Help Center create page"
+        },
+        "helpCenterCategory": {
+          "title": "Help Center Category",
+          "list": "Help Center Category List",
+          "listDesc": "Help Center category list page",
+          "create": "Help Center Category Create",
+          "createDesc": "Help Center category create page"
+        }
+      },
+      "webinar": {
+        "title": "Webinar",
+        "desc": "Webinar page",
+        "webinar": {
+          "title": "Webinar",
+          "list": "Webinar List",
+          "listDesc": "Webinar list page",
+          "create": "Webinar Create",
+          "createDesc": "Webinar create page"
+        }
+      }
+    },
+    "task": {
+      "title": "Task Management",
+      "task": {
+        "title": "Task",
+        "desc": "Task page",
+        "list": "Task List",
+        "listDesc": "Task list page",
+        "create": "Task Create",
+        "createDesc": "Task create page"
+      },
+      "project": {
+        "title": "Project",
+        "desc": "Project page",
+        "dashboard": "Project Dashboard",
+        "list": "Project List",
+        "listDesc": "Project list page",
+        "create": "Project Create",
+        "createDesc": "Project create page"
+      }
+    },
+    "user": {
+      "title": "User",
+      "desc": "User page",
+      "user": {
+        "title": "User",
+        "desc": "User page",
+        "list": "User List",
+        "listDesc": "User list page",
+        "create": "User Create",
+        "createDesc": "User create page"
+      },
+      "organization": {
+        "title": "Organization",
+        "desc": "Organization page",
+        "list": "Organization List",
+        "listDesc": "Organization list page",
+        "create": "Organization Create",
+        "createDesc": "Organization create page"
+      }
+    },
+    "notification": {
+      "title": "Notification",
+      "desc": "Notification page",
+      "notification": {
+        "title": "Notification",
+        "desc": "Notification page",
+        "list": "Notification List",
+        "listDesc": "Notification list page",
+        "create": "Notification Create",
+        "createDesc": "Notification create page",
+        "update": "Notification Update",
+        "updateDesc": "Notification update page",
+        "delete": "Notification Delete",
+        "deleteDesc": "Notification delete page"
+      },
+      "notificationHistory": {
+        "title": "Notification History",
+        "desc": "Notification history page",
+        "list": "Notification History List",
+        "listDesc": "Notification history list page",
+        "detail": "Notification History Detail",
+        "detailDesc": "Notification history detail page"
+      }
+    },
+    "dashboard": {
+      "dashboard": "Dashboard",
+      "ecommerce": "Ecommerce",
+      "analytic": "Analytic",
+      "project": "Project",
+      "marketing": "Marketing"
+    },
+    "concepts": "Concepts",
+    "conceptsAi": {
+      "ai": "AI",
+      "chat": "Chat",
+      "image": "Image",
+      "aiDesc": "AI tools and resources",
+      "chatDesc": "AI-powered chat systems",
+      "imageDesc": "AI image processing"
+    },
+    "conceptsCustomers": {
+      "customers": "Customer",
+      "customerList": "List",
+      "customerEdit": "Edit",
+      "customerCreate": "Create",
+      "customerDetails": "Details",
+      "customersDesc": "Customer management",
+      "customerListDesc": "List of all customers",
+      "customerEditDesc": "Edit customer info",
+      "customerCreateDesc": "Add a new customer",
+      "customerDetailsDesc": "Detailed customer info"
+    },
+    "conceptsProducts": {
+      "products": "Products",
+      "productList": "List",
+      "productEdit": "Edit",
+      "productCreate": "Create",
+      "productsDesc": "Product inventory management",
+      "productListDesc": "All products listed",
+      "productEditDesc": "Edit product details",
+      "productCreateDesc": "Add new product"
+    },
+    "conceptsProjects": {
+      "projects": "Projects",
+      "projectList": "List",
+      "projectDetails": "Details",
+      "projectTasks": "Tasks",
+      "projectIssue": "Issue",
+      "scrumBoard": "Scrum Board",
+      "projectsDesc": "Manage and track projects",
+      "scrumBoardDesc": "Manage your scrum workflow",
+      "projectListDesc": "Organize all projects",
+      "projectDetailsDesc": "Project detailed information",
+      "projectTasksDesc": "Manage project tasks",
+      "projectIssueDesc": "Resolve project issues"
+    },
+    "conceptsOrders": {
+      "orders": "Orders",
+      "orderList": "List",
+      "orderEdit": "Edit",
+      "orderDetails": "Details",
+      "orderCreate": "Create",
+      "ordersDesc": "Customer orders management",
+      "orderListDesc": "View all customer orders",
+      "orderEditDesc": "Edit order details",
+      "orderCreateDesc": "Create new order",
+      "orderDetailsDesc": "Detailed order information"
+    },
+    "conceptsAccount": {
+      "account": "Account",
+      "settings": "Settings",
+      "activityLog": "Activity log",
+      "pricing": "Pricing",
+      "rolesPermissions": "Roles & Permissions",
+      "accountDesc": "Account settings and info",
+      "settingsDesc": "Configure your settings",
+      "activityLogDesc": "View recent activities",
+      "rolesPermissionsDesc": "Manage roles & permissions",
+      "pricingDesc": "View pricing plans"
+    },
+    "conceptsHelpCenter": {
+      "helpCenter": "Help Center",
+      "supportHub": "Support Hub",
+      "article": "Article",
+      "editArticle": "Edit Article",
+      "manageArticle": "Manage Article",
+      "faq": "FAQ",
+      "helpCenterDesc": "Support and articles",
+      "supportHubDesc": "Central support hub",
+      "articleDesc": "Read support articles",
+      "editArticleDesc": "Modify article content",
+      "manageArticleDesc": "Article management"
+    },
+    "calendar": "Calendar",
+    "fileManager": "File Manager",
+    "mail": "Mail",
+    "chat": "Chat",
+    "uiComponents": "UI Components",
+    "calendarDesc": "Schedule and events",
+    "fileManagerDesc": "File management",
+    "mailDesc": "Manage your emails",
+    "chatDesc": "Chat with friends",
+    "uiComponentsCommon": {
+      "common": "Common",
+      "grid": "Grid",
+      "button": "Button",
+      "typography": "Typography",
+      "icons": "Icons",
+      "commonDesc": "Common UI elements",
+      "buttonDesc": "Interactive buttons",
+      "gridDesc": "Layout grid system",
+      "typographyDesc": "Text styling tools",
+      "iconsDesc": "Visual icon set"
+    },
+    "uiComponentsFeedback": {
+      "feedback": "Feedback",
+      "alert": "Alert",
+      "dialog": "Dialog",
+      "drawer": "Drawer",
+      "progress": "Progress",
+      "skeleton": "Skeleton",
+      "spinner": "Spinner",
+      "toast": "Toast",
+      "feedbackDesc": "User feedback components",
+      "alertDesc": "Notification alerts",
+      "dialogDesc": "Modal dialog boxes",
+      "drawerDesc": "Sidebar drawers",
+      "progressDesc": "Progress indicators",
+      "skeletonDesc": "Loading skeletons",
+      "spinnerDesc": "Loading spinners",
+      "toastDesc": "Toast notifications"
+    },
+    "uiComponentsDataDisplay": {
+      "dataDisplay": "Data Display",
+      "avatar": "Avatar",
+      "badge": "Badge",
+      "calendar": "Calendar",
+      "cards": "Cards",
+      "table": "Table",
+      "tag": "Tag",
+      "timeline": "Timeline",
+      "tooltip": "Tooltip",
+      "dataDisplayDesc": "Components for showing data",
+      "avatarDesc": "User profile pictures",
+      "badgeDesc": "Status indicators",
+      "calendarDesc": "Date selectors",
+      "cardsDesc": "Content cards",
+      "tableDesc": "Data tables",
+      "tagDesc": "Label tags",
+      "timelineDesc": "Event timelines",
+      "tooltipDesc": "Hover tooltips"
+    },
+    "uiComponentsForms": {
+      "forms": "Forms",
+      "checkbox": "Checkbox",
+      "datePicker": "Date Picker",
+      "formControl": "Form Control",
+      "input": "Input",
+      "inputGroup": "Input Group",
+      "radio": "Radio",
+      "segment": "Segment",
+      "select": "Select",
+      "switcher": "Switcher",
+      "timeInput": "Time Input",
+      "upload": "Upload",
+      "formsDesc": "Form elements",
+      "checkboxDesc": "Tickable checkboxes",
+      "datePickerDesc": "Select dates",
+      "formControlDesc": "Form control elements",
+      "inputDesc": "Text inputs",
+      "inputGroupDesc": "Grouped inputs",
+      "radioDesc": "Radio buttons",
+      "segmentDesc": "Input segments",
+      "selectDesc": "Dropdown selects",
+      "switcherDesc": "Toggle switches",
+      "timeInputDesc": "Time inputs",
+      "uploadDesc": "File uploaders"
+    },
+    "uiComponentsNavigation": {
+      "navigation": "Navigation",
+      "dropdown": "Dropdown",
+      "menu": "Menu",
+      "pagination": "Pagination",
+      "steps": "Steps",
+      "tabs": "Tabs",
+      "navigationDesc": "Navigation elements",
+      "dropdownDesc": "Dropdown menus",
+      "menuDesc": "Menu navigation",
+      "paginationDesc": "Pagination controls",
+      "stepsDesc": "Sequential steps",
+      "tabsDesc": "Tab navigation"
+    },
+    "uiComponentsGraph": {
+      "graph": "Graph",
+      "charts": "Charts",
+      "maps": "Maps",
+      "graphDesc": "Graphical elements",
+      "chartsDesc": "Various charts",
+      "mapsDesc": "Geographic maps"
+    },
+    "pages": {
+      "pages": "Pages",
+      "welcome": "Welcome",
+      "accessDenied": "Access Denied"
+    },
+    "authentication": {
+      "authentication": "Authentication",
+      "signIn": "Sign In",
+      "signInSimple": "Simple",
+      "signInSide": "Side",
+      "signInSplit": "Split",
+      "signUp": "Sign Up",
+      "signUpSimple": "Simple",
+      "signUpSide": "Side",
+      "signUpSplit": "Split",
+      "forgotPassword": "Forgot Password",
+      "forgotPasswordSimple": "Simple",
+      "forgotPasswordSide": "Side",
+      "forgotPasswordSplit": "Split",
+      "resetPassword": "Reset Password",
+      "resetPasswordSimple": "Simple",
+      "resetPasswordSide": "Side",
+      "resetPasswordSplit": "Split",
+      "otpVerification": "Otp Verification",
+      "otpVerificationSimple": "Simple",
+      "otpVerificationSide": "Side",
+      "otpVerificationSplit": "Split"
+    },
+    "guide": {
+      "guide": "Guide",
+      "documentation": "Documentation",
+      "sharedComponentDoc": "Shared Component",
+      "utilsDoc": "Utilities",
+      "changeLog": "Changelog"
+    },
+    "aiAgents": {
+      "title": "AI Agents",
+      "hero": {
+        "title": "Automate Your Processes with Corede.AI",
+        "description": "See how our AI agents can automate your processes with a live demo, and get your questions answered by our experts.",
+        "requestDemoButton": "Request a Free Demo"
+      },
+      "overview": {
+        "title": "Overview & Benefits",
+        "description": "COREDE.AI \"AI Agents\" solutions improve your business's critical processes by simultaneously optimizing operational costs, decision-making speed, and team efficiency."
+      },
+      "contentAutomation": {
+        "title": "Content Automation",
+        "feature1Title": "Content Generation:",
+        "feature1Description": "Provides precise article, post, or email body generation with predefined templates and toning.",
+        "feature2Title": "Curation & Summarization:",
+        "feature2Description": "Analyzes and summarizes long texts, selecting and reorganizing the most relevant sections.",
+        "feature3Title": "Language & Style Adjustment:",
+        "feature3Description": "Creates automatic adaptation of language level, structure, and keyword strategy according to the target audience.",
+        "feature4Title": "SEO Integration:",
+        "feature4Description": "Increases search visibility with keyword suggestions and title optimization.",
+        "description": "By performing automatic content generation and curation; creates and optimizes all text-based outputs from blog posts to social media shares, from product descriptions to newsletters with AI support."
+      },
+      "messagingAutomation": {
+        "title": "Messaging Automation",
+        "description": "Smart bots that provide 24/7, automatic response and interaction in email, chat, and social media messaging channels.",
+        "feature1Title": "Chat Bots:",
+        "feature1Description": "Real-time user chat on your website; instantly answers frequently asked questions.",
+        "feature2Title": "Mail Bots:",
+        "feature2Description": "Personalized email flows; creates follow-ups based on trigger events.",
+        "feature3Title": "Multi-Channel Support:",
+        "feature3Description": "Integrated with platforms such as WhatsApp, Messenger, Telegram, provides management from a single panel.",
+        "feature4Title": "Analytics & Reporting:",
+        "feature4Description": "Helps you get feedback on response rates, satisfaction scores, and most frequently raised issues."
+      },
+      "voiceAutomation": {
+        "title": "Voice Automation",
+        "description": "IVR systems and speech-based assistants that handle and direct customer calls; reduce call volume and increase self-service rates.",
+        "feature1Title": "Voice Assistants:",
+        "feature1Description": "Provides voice command detection and response generation support with Natural Language Processing (NLP).",
+        "feature2Title": "IVR Systems:",
+        "feature2Description": "Provides multi-layered menu and speech-based routing, transferring to a live operator when necessary.",
+        "feature3Title": "Voice Analysis & Sentiment Detection:",
+        "feature3Description": "Analyzes the emotional state in the conversation flow to flag critical calls.",
+        "feature4Title": "Automatic Recording & Transcript:",
+        "feature4Description": "Converts call records into text to create call analytics."
+      },
+      "whyAiAgents": {
+        "title": "Why Ai Agents?",
+        "feature1": "Continuous Operation: Maintains your operations without requiring 24/7 live support.",
+        "feature2": "Flexible Integration: Easily connects to your existing CRM, ERP, or data warehouse infrastructure.",
+        "feature3": "Scalability: Quickly adds new agents to distribute workload as needed.",
+        "aiDecisionAgents": {
+          "title": "AI Decision-Making Agents",
+          "description": "Smart agents that automatically detect and provide suggestions and guidance for your complex decision processes in light of your data.",
+          "bullet1": "Minimizes human errors.",
+          "bullet2": "Shortens the decision-making cycle by up to 40%.",
+          "bullet3": "Improves performance over time with continuous learning."
+        },
+        "dataVisualization": {
+          "title": "Data Visualization",
+          "description": "Brings business intelligence data together with interactive graphics and dashboards, allowing all stakeholders to easily monitor the current situation.",
+          "bullet1": "Eliminates information gaps in decision processes.",
+          "bullet2": "Offers up to 50% visibility increase in critical indicators."
+        }
+      },
+      "getOffer": {
+        "headline": "GET AN OFFER",
+        "title": "Get an Offer for Your Project Right Now",
+        "description": "Fill out a short form to immediately receive our detailed proposal tailored to the scope and scale of your work.",
+        "requestOfferButton": "Request an Offer",
+        "faqButton": "Frequently Asked Questions"
+      },
+      "featuredSectors": {
+        "title": "Featured Sectors",
+        "demoTitle": "Automotive Demo",
+        "demoDescription": "Vehicle maintenance process automatic planning and inventory management system predicts real-time malfunctions from sensor data to detect potential problems in advance, automatically creates necessary orders with spare parts need analyses, and manages maintenance processes without interruption by planning service appointments. This reduces failure-related downtime by 35% while achieving a 20% reduction in costs related to excess inventory."
+      }
+    }
+  },
+  "enums": {
+    "language_name": "Language",
+    "language": {
+      "en": "English",
+      "tr": "Turkish",
+      "de": "De",
+      "fr": "Fr",
+      "es": "Es",
+      "it": "It",
+      "pt": "Pt",
+      "ru": "Ru"
+    },
+    "gender_name": "Gender",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    }
+  },
+  "common": {
+    "entityCreateSuccessTitle": "{{entity}} created successfully",
+    "entityCreateSuccessMessage": "{{entity}} created successfully",
+    "entityCreateErrorTitle": "{{entity}} creation failed",
+    "entityCreateErrorMessage": "{{entity}} creation failed",
+    "entityUpdateSuccessTitle": "{{entity}} updated successfully",
+    "entityUpdateSuccessMessage": "{{entity}} updated successfully",
+    "entityUpdateErrorTitle": "{{entity}} update failed",
+    "entityUpdateErrorMessage": "{{entity}} update failed",
+    "entityDeleteSuccessTitle": "{{entity}} deleted successfully",
+    "entityDeleteSuccessMessage": "{{entity}} deleted successfully",
+    "entityDeleteErrorTitle": "{{entity}} deletion failed",
+    "entityDeleteErrorMessage": "{{entity}} deletion failed",
+    "noData": "No data",
+    "invalidFormFieldMessage": "Invalid value",
+    "selectPlaceholder": "Select an option",
+    "selectGender": "Select a gender",
+    "searchPlaceholder": "Search...",
+    "noResultPlaceholder": "No result",
+    "unknownError": "Unknown error",
+    "error": "Error",
+    "from": "From",
+    "to": "To",
+    "apply": "Apply",
+    "code": "Code",
+    "name": "Name",
+    "requiredNameMessage": "Name is required",
+    "surname": "Surname",
+    "email": "Email",
+    "legalName": "Legal Name",
+    "website": "Website",
+    "phone": "Phone",
+    "invalidEmailMessage": "Email is invalid",
+    "requiredEmailMessage": "Email is required",
+    "password": "Password",
+    "passwordAgain": "Password Again",
+    "invalidPasswordMessage": "Password is invalid",
+    "requiredPasswordMessage": "Password is required",
+    "invalidPasswordAgainMessage": "Password inputs do not match",
+    "language": "Language",
+    "selectLanguage": "Select a language",
+    "country": "Country",
+    "selectCountry": "Select a country",
+    "countrySelectionIsRequired": "Please select a country",
+    "state": "State",
+    "selectState": "Select a state",
+    "stateSelectionIsRequired": "Please select a state",
+    "city": "City",
+    "selectCity": "Select a city",
+    "phoneNumber": "Phone Number",
+    "invalidPhoneNumberMessage": "Phone number is invalid",
+    "birthDate": "Birth Date",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "deleteEntity": "Delete Item",
+    "deleteEntitySuccessTitle": "Deleted Successfully",
+    "deletedEntitySuccessfully": "Item deleted successfully",
+    "deleteEntityErrorTitle": "Deletion Failed",
+    "deletedEntityFailed": "Failed to delete item",
+    "deleteEntityDescription": "Are you sure you want to delete",
+    "thisEntity": "this item",
+    "loading": "Loading",
+    "createdAt": "Created At",
+    "connectionError": "Connection error occurred. Please try again later.",
+    "submit": "Submit",
+    "title": "Title",
+    "description": "Description",
+    "content": "Content",
+    "type": "Type",
+    "quota": "Quota",
+    "lastApplicationDate": "Last Application Date",
+    "startDate": "Start Date",
+    "duration": "Duration",
+    "participationLink": "Participation Link",
+    "status": "Status",
+    "socialLinks": "Social Links",
+    "submitting": "Submitting...",
+    "icon": "Icon",
+    "subscription": "Subscription",
+    "create": "Create",
+    "createNew": "Create New",
+    "preferences": "Preferences",
+    "success": "Success",
+    "successfullyCreated": "Successfully created",
+    "page": "Page",
+    "reference": "Reference",
+    "url": "URL",
+    "news": "News",
+    "blog": "Blog",
+    "products": "Products",
+    "offers": "Offers",
+    "subscribe": "Subscribe",
+    "fullName": "Full Name",
+    "subject": "Subject",
+    "message": "Message",
+    "source": "Source",
+    "userType": "User Type",
+    "newsTopic": "News Topic",
+    "blogTopic": "Blog Topic",
+    "productTopic": "Product Topic",
+    "offerTopic": "Offer Topic",
+    "subscribed": "Subscribed",
+    "notSubscribed": "Not Subscribed",
+    "update": "Update",
+    "successfullyUpdated": "Successfully updated",
+    "yes": "Yes",
+    "no": "No",
+    "helpCenter": "Help Center",
+    "helpCenterCategory": "Help Center Category",
+    "translations": "Translations",
+    "enterTranslation": "Enter {{language}} translation",
+    "selectLanguageFirst": "Select a language first",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "x": "X",
+    "createdBy": "Created By",
+    "lastUpdated": "Last Updated",
+    "statusHistory": "Status History",
+    "note": "Note",
+    "updatedAt": "Updated At",
+    "prevStatus": "Previous Status",
+    "newStatus": "New Status",
+    "back": "Back",
+    "cancel": "Cancel",
+    "user": "User",
+    "relatedUser": "Related User",
+    "today": "Today",
+    "last3Days": "Last 3 Days",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "pickDateRange": "Pick a date range",
+    "dateRangePlaceholder": "Select date range",
+    "reset": "Reset",
+    "columns": "Columns",
+    "question": "Question",
+    "answer": "Answer",
+    "readingTime": "Reading Time",
+    "category": "Category"
+  },
+  "auth": {
+    "login": "Login",
+    "loginSuccess": "Login Successfully",
+    "loginFailed": "Login failed.",
+    "backToLogin": "Back to Login",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "signOutSuccess": "Sign Out Successfully",
+    "signOutFailed": "Sign Out failed",
+    "signUp": "Sign up",
+    "signupSuccess": "Signup Successfully",
+    "signupFailed": "Signup failed",
+    "signupSuccessfulTitle": "Sign up successfully!",
+    "signupSuccessfulDescription": "Please check your email to confirm your account.",
+    "signupVerifySuccessfulDescription": "Your account has been successfully verified!",
+    "forgotPassword": "Forgot password?",
+    "requestResetPasswordSuccess": "Request Reset Password Successfully",
+    "requestResetPasswordFailed": "Reset password request failed",
+    "rememberPassword": "Remember your password?",
+    "didNotReceiveCode": "Didn't receive the code?",
+    "resendCode": "Resend code",
+    "confirmRegistrationSuccess": "Confirm registration successfully",
+    "confirmRegistrationFailed": "Confirm registration failed",
+    "confirmRegistrationByUserSuccess": "Confirm registration successfully",
+    "confirmRegistrationByUserFailed": "Confirm registration failed",
+    "resetPasswordFailed": "Reset password failed",
+    "resetPasswordSuccess": "Reset password successfully",
+    "resetPasswordAfterRequestFailed": "Reset password after request failed",
+    "oldPassword": "Old Password",
+    "confirmPassword": "Confirm Password",
+    "confirmTwoFactorLoginFailed": "2FA failed",
+    "twoFactVerifyTitle": "Two-Factor Verification",
+    "twoFactVerifyDescription": "Please enter the code sent to your email.",
+    "resendConfirmationTitle": "Resend Confirmation Code",
+    "resendConfirmationDescription": "Please enter your email address to receive the confirmation code.",
+    "resendConfirmation": "Resend Confirmation",
+    "goToSignIn": "Go to sign in",
+    "invalidCode": "Code is invalid.",
+    "somethingWentWrong": "Something went wrong!",
+    "signinText": "Let's sign in.",
+    "emailAddress": "Email address",
+    "emailInputPlaceholder": "Enter your email address",
+    "password": "Password",
+    "passwordInputPlaceholder": "Enter your password",
+    "continueWith": "or continue with",
+    "noAccount": "Don't have an account?",
+    "logoAlt": "logo",
+    "growYourBusiness": "All You Need to Grow Your",
+    "business": "Business",
+    "bgPattern": "background pattern",
+    "manageYourBusiness": "Manage your business efficiently, increase your sales, reach potential customers, and empower yourself by joining the community.",
+    "quote1": "Your most unhappy customers are your greatest source of learning.",
+    "quoteName1": "Bill Gates",
+    "quoteCompany1": "Microsoft",
+    "quoteImage1": "Bill-Gates",
+    "quote2": "Customer service should not be a department. It should be the entire company.",
+    "quoteName2": "Tony Hsieh",
+    "quoteCompany2": "Zappos",
+    "quoteImage2": "Tony-Hsieh",
+    "quote3": "The sole reason we are in business is to make life less difficult for our clients.",
+    "quoteName3": "Matthew Odgers",
+    "quoteCompany3": "Odgers Law Group",
+    "quoteImage3": "Matthew-Odgers",
+    "quote4": "If you are not taking care of your customer, your competitor will.",
+    "quoteName4": "Bob Hooey",
+    "quoteCompany4": "Ideaman",
+    "quoteImage4": "Bob-Hooey",
+    "quote5": "In sales, a referral is the key to the door of resistance.",
+    "quoteName5": "Bo Bennett",
+    "quoteCompany5": "Archieboy",
+    "quoteImage5": "Bo-Bennett",
+    "quote6": "Always do your best. What you plant now, you will harvest later.",
+    "quoteName6": "Og Mandino",
+    "quoteCompany6": "Author",
+    "quoteImage6": "Og-Mandino",
+    "quote7": "One of the greatest gifts you can give to anyone is the gift of your attention.",
+    "quoteName7": "Jim Rohn",
+    "quoteCompany7": "Author",
+    "quoteImage7": "Jim-Rohn",
+    "quote8": "Do what you do so well that they will want to see it again and bring their friends.",
+    "quoteName8": "Walt Disney",
+    "quoteCompany8": "Disney",
+    "quoteImage8": "Walt-Disney",
+    "passwordResetSuccess": "Your password has been reset successfully!",
+    "resetPasswordTitle": "Reset Password",
+    "enterNewPassword": "Please enter your new password.",
+    "passwordAgain": "Password Again",
+    "resetPassword": "Reset Password",
+    "alreadyHaveAccount": "Already have an account?",
+    "forgotPasswordTitle": "Forgot Password",
+    "resetPasswordInstructions": "You can reset your password by entering your email address.",
+    "userConfirmedSuccess": "User confirmed successfully!",
+    "emailConfirmationTitle": "Email Confirmation",
+    "enterOtp": "Please enter the OTP sent to your email.",
+    "submit": "Submit",
+    "resendCodeTitle": "Resend Confirmation Code",
+    "resendCodeDescription": "Didn't receive the code?",
+    "enterEmailToResend": "Please enter your email address to receive the confirmation code.",
+    "email": "Email",
+    "close": "Close",
+    "send": "Send",
+    "letsRegister": "Let's register you in.",
+    "name": "Name",
+    "surname": "Surname",
+    "iAccept": "I accept the",
+    "and": "and",
+    "with": "and",
+    "termsAndConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "explicitConsent": "Explicit Consent Policy",
+    "kvkkPolicy": "KVKK Information Policy",
+    "orContinueWith": "or continue with",
+    "createPassword": "Create Password",
+    "createPasswordTitle": "Create Password",
+    "resendConfirmationSuccessTitle": "Resend Confirmation Code Successfully",
+    "resendConfirmationSuccessText": "Please check your email to confirm your account.",
+    "resendConfirmationRequiredTitle": "Resend Confirmation Required",
+    "resendConfirmationRequiredText": "Please check your email for the confirmation code. If you haven't received it, you can request a new one.",
+    "resentCodeSuccess": "Resent code successfully",
+    "acceptAllPolicies": "Please accept all policies!",
+    "alreadyRegisteredError": "You are already registered! Please login.",
+    "userNotFoundError": "User not found!",
+    "proposal": "Proposal",
+    "estimate": "Estimate",
+    "invoice": "Invoice",
+    "startDate": "Start Date",
+    "expireDate": "Expire Date",
+    "deadline": "Deadline",
+    "proposalInformation": "Proposal Information",
+    "estimateInformation": "Estimate Information",
+    "invoiceInformation": "Invoice Information",
+    "billTo": "Bill To",
+    "bankName": "Bank Name",
+    "country": "Country",
+    "iban": "IBAN",
+    "currency": "Currency",
+    "productDescription": "Product Description",
+    "qty": "QTY",
+    "rate": "Rate",
+    "tax": "Tax",
+    "amount": "Amount",
+    "projectTimeline": "Project Timeline",
+    "timeline": "Timeline",
+    "accept": "Accept",
+    "decline": "Decline",
+    "download": "Download",
+    "comments": "Comments",
+    "documents": "Documents",
+    "uploadDocument": "Upload a document",
+    "addDocument": "Add Document",
+    "estimateAccepted": "Estimate accepted",
+    "estimateDeclined": "Estimate declined",
+    "proposalAccepted": "Proposal accepted",
+    "proposalDeclined": "Proposal declined",
+    "invoiceAccepted": "Invoice accepted",
+    "invoiceDeclined": "Invoice declined",
+    "declineReason": "Decline Reason",
+    "declineReasonPlaceholder": "Please enter the reason for decline",
+    "backToHomePage": "Back to Home Page",
+    "checkYourInbox": "Check your inbox",
+    "resetPasswordAfterSuccess1": "We've send a link to your e-mail address. Please check your inbox.",
+    "resetPasswordAfterSuccess2": "We'll send a link to your e-mail address to reset your password. The link expires in 30 minutes.",
+    "signInNow": "Sign In Now",
+    "signInSubtitle": "Let's start to discover next step in your future",
+    "signUpNow": "Sign Up Now",
+    "signUpSubtitle": "Let's start to discover next step in your future",
+    "dontHaveAnAccount": "Don't have an account yet?",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "continueWithLinkedIn": "Continue with LinkedIn",
+    "continueWithGoogle": "Continue with Google",
+    "orSignUpWithEmail": "or sign up with e-mail",
+    "orSignInWithEmail": "or sign in with e-mail",
+    "welcomeToInternIF": "Welcome to InternIF",
+    "verifyYourEmail": "Verify your E-mail",
+    "confirmationIsSuccessful1": "Let's start to discover next step in your future",
+    "confirmationIsSuccessful2": "We've sent 6-character code to ellenrose@gmail.com. The code expires shortly, so please enter it soon.",
+    "confirmationIsSuccessful3": "Congratulations! You're ready to discover your new world.",
+    "letsGetStarted": "Let's get started",
+    "changePassword": "Change Password",
+    "changingPassword": "Changing Password",
+    "auth_nav_title": "Authentication",
+    "nav_signIn": "Sign In",
+    "nav_sub_signIn": "Sign In",
+    "nav_signUp": "Sign Up",
+    "nav_sub_signUp": "Sign Up",
+    "nav_forgetPassword": "Forgot Password",
+    "nav_sub_forgetPassword": "Forgot Password",
+    "nav_resetPassword": "Reset Password",
+    "nav_sub_resetPassword": "Reset Password",
+    "twoFactorLoginFailed": "2FA failed"
+  },
+  "user": {
+    "enums": {
+      "roleType_name": "Role Type",
+      "roleType": {
+        "default": "Default",
+        "organizationDefault": "Organization Default",
+        "cocrmDefault": "COCRM Default"
+      },
+      "permissionAction_name": "Permission Action",
+      "permissionAction": {
+        "read": "Read",
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "manage": "Manage"
+      },
+      "permissionCategory_name": "Permission Category",
+      "permissionCategory": {
+        "admin": "Admin",
+        "user": "User",
+        "content": "Content",
+        "system": "System"
+      }
+    },
+    "myAccount": "My Account",
+    "myProfile": "My Profile",
+    "profilePicture": "Profile Picture",
+    "profile": "Profile",
+    "name": "Name",
+    "surname": "Surname",
+    "birthDate": "Birth Date",
+    "gender": "Gender",
+    "update": "Update",
+    "changeImage": "Change Image",
+    "removeImage": "Remove Image",
+    "allowedImageTypes": "Allowed image types: jpg, jpeg, png",
+    "selectImage": "Click to select image",
+    "change": "Change",
+    "updateProfileSuccess": "Profile updated successfully",
+    "updateProfileSuccessDescription": "Profile information updated successfully",
+    "updateProfilePictureSuccess": "Profile picture updated successfully",
+    "country": "Country",
+    "countries": "Countries",
+    "selectCountry": "Select Country",
+    "city": "City",
+    "cities": "Cities",
+    "selectCity": "Select City",
+    "phoneNumber": "Phone Number",
+    "signatureImage": "Signature Image",
+    "noUserFound": "No User found",
+    "question": "Question",
+    "answer": "Answer",
+    "readingTime": "Reading Time",
+    "userSearchByNamePlaceholder": "Search by name",
+    "userListDateRangePlaceholder": "Filter by date range",
+    "category": "Category",
+    "userCategorySearchPlaceholder": "Search by category name",
+    "userCategoryListDateRangePlaceholder": "Filter by date range",
+    "selectUserCategory": "Select User Category",
+    "errorLoadingUserDetail": "Error loading User details",
+    "errorLoadingUserCategoryDetail": "Error loading User category details",
+    "createSuccessTitle": "User created successfully",
+    "createSuccessMessage": "User created successfully",
+    "createErrorTitle": "User creation failed",
+    "createErrorMessage": "User creation failed"
+  },
+  "blog": {
+    "blog": "Blog",
+    "title": "Title",
+    "content": "Content",
+    "description": "Description",
+    "image": "Image",
+    "readingTime": "Reading Time",
+    "tags": "Tags",
+    "references": "References",
+    "relatedVideo": "Related Video",
+    "nav_title": "Blog",
+    "nav_sub_blogBoard": "Blog Board",
+    "nav_sub_blogList": "Blog List",
+    "nav_sub_blogCategoryList": "Blog Category List",
+    "nav_sub_blogTargetCategoryList": "Blog Target Category List",
+    "nav_sub_authorList": "Author List",
+    "bio": "Bio",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "x": "X",
+    "blogTargetCategory": "Blog Target Category",
+    "blogTargetCategories": "Blog Target Categories",
+    "createCreateBlogTargetCategory": "Create Blog Target Category",
+    "updateBlogTargetCategory": "Update Blog Target Category",
+    "deleteBlogTargetCategory": "Delete Blog Target Category",
+    "viewBlogTargetCategory": "View Blog Target Category",
+    "listBlogTargetCategory": "List Blog Target Categories",
+    "selectBlogTargetCategory": "Select Blog Target Category",
+    "selectTags": "Select Tags",
+    "selectReferences": "Select References",
+    "selectAuthor": "Select Author",
+    "selectTargetCategory": "Select Target Category",
+    "selectCategory": "Select Category",
+    "authorCreatedSuccessfully": "The Author is created successfully",
+    "authorUpdatedSuccessfully": "The Author is updated successfully",
+    "blogCategoryCreatedSuccessfully": "The Blog Category is created successfully",
+    "blogCategoryUpdatedSuccessfully": "Blog Category is updated successfully",
+    "blogCategoryDeletedSuccessfully": "Blog Category is deleted successfully",
+    "blogTargetCategoryCreatedSuccessfully": "Blog Target Category created successfully",
+    "blogTargetCategoryUpdatedSuccessfully": "Blog Target Category updated successfully",
+    "searchByNamePlaceholder": "Search by author name",
+    "noAuthorFound": "No author found",
+    "authorDetail": "Author Detail",
+    "author": "Author",
+    "authorCreate": "Create Author",
+    "icon": "Icon",
+    "createCategory": "Create Category",
+    "noCategoryFound": "No category found",
+    "blogCategory": "Blog Category",
+    "translatedName": "Translated Name",
+    "parentCategory": "Parent Category",
+    "targetCategory": "Target Category",
+    "searchPlaceholder": "Search by blog title",
+    "deleteBlogCategory": "Delete Blog Category",
+    "blogCategoryDeleteDescription": "Are you sure you want to delete",
+    "thisBlogCategory": "this Blog Category",
+    "authorDeletedSuccessfully": "The Author is deleted successfully",
+    "deleteAuthor": "Delete Author",
+    "authorDeleteDescription": "Are you sure you want to delete",
+    "thisAuthor": "this Author",
+    "blogDeletedSuccessfully": "The Blog is deleted successfully",
+    "deleteBlog": "Delete Blog",
+    "blogDeleteDescription": "Are you sure you want to delete",
+    "thisBlog": "this Blog",
+    "blogTargetCategoryDeletedSuccessfully": "Blog Target Category is deleted successfully",
+    "blogTargetCategoryDeleteDescription": "Are you sure you want to delete",
+    "thisBlogTargetCategory": "this Blog Target Category",
+    "blogCreateError": "Failed to create blog",
+    "createBlogSuccess": "Blog created successfully",
+    "createBlogError": "Failed to create blog",
+    "errorLoadingBlogDetails": "Error loading blog details",
+    "errorLoadingBlogs": "Error loading blogs",
+    "slug": "Slug",
+    "blogUpdateError": "Failed to update blog",
+    "blogUpdateSuccess": "Blog updated successfully",
+    "tryAgainLater": "Please try again later",
+    "toRead": "to read",
+    "viewed": "viewed",
+    "similarBlogs": "Similar Blogs",
+    "clearFilters": "Clear Filters"
+  },
+  "form": {
+    "enums": {
+      "contactFormType_name": "Contact Form Type",
+      "contactFormType": {
+        "contact": "Contact",
+        "request": "Request",
+        "waitlist": "Waitlist"
+      },
+      "contactFormSource_name": "Contact Form Source",
+      "contactFormSource": {
+        "web": "Web",
+        "leadPlus": "Lead Plus",
+        "marketing": "Marketing",
+        "window": "Window",
+        "community": "Community"
+      },
+      "contactFormStatus_name": "Contact Form Status",
+      "contactFormStatus": {
+        "new": "New",
+        "inProgress": "In Progress",
+        "awaitingResponse": "Awaiting Response",
+        "escalated": "Escalated",
+        "closed": "Closed",
+        "spam": "Spam"
+      },
+      "subscriptionFormCreateUserType_name": "Subscription Form User Type",
+      "subscriptionFormCreateUserType": {
+        "individual": "Individual",
+        "business": "Business"
+      },
+      "subscriptionFormUserType_name": "Subscription Form User Type",
+      "subscriptionFormUserType": {
+        "anonymous": "Anonymous",
+        "individual": "Individual",
+        "business": "Business"
+      },
+      "subscriptionFormStatus_name": "Subscription Form Status",
+      "subscriptionFormStatus": {
+        "subscribed": "Subscribed",
+        "unsubscribed": "Unsubscribed"
+      }
+    },
+    "contactForm": "Contact Form",
+    "contactFormCreate": "Create Contact Form",
+    "contactFormCreated": "Contact form sent successfully",
+    "contactFormError": "Contact form could not be sent",
+    "contactFormType": "Contact Form Type",
+    "contactFormSource": "Contact Form Source",
+    "contactFormDetail": "Contact Form Details",
+    "noContactFormFound": "Contact form not found",
+    "contactFormUpdatedSuccessfully": "Contact form updated successfully",
+    "escalatedUser": "Escalated User",
+    "responsibleUser": "Responsible User",
+    "contactFormUpdate": "Update Contact Form",
+    "contactFormListSearchPlaceholder": "Search by Email",
+    "contactFormListDateRangePlaceholder": "Filter by Created Date",
+    "subscriptionForm": "Subscription Form",
+    "subscriptionFormCreate": "Create Subscription Form",
+    "subscriptionFormCreated": "Subscription form sent successfully",
+    "subscriptionFormError": "Subscription form could not be sent",
+    "subscriptionFormType": "Subscription Form Type",
+    "subscriptionFormSource": "Subscription Form Source",
+    "subscriptionFormDetail": "Subscription Form Details",
+    "noSubscriptionFormFound": "Subscription form not found",
+    "subscriptionFormUpdatedSuccessfully": "Subscription form updated successfully",
+    "subscriptionFormUpdate": "Update Subscription Form",
+    "newsTopicSubscribed": "News Topic",
+    "blogTopicSubscribed": "Blog Topic",
+    "productTopicSubscribed": "Product Topic",
+    "offerTopicSubscribed": "Offer Topic",
+    "subscriptionFormListSearchPlaceholder": "Search by Email",
+    "subscriptionFormListDateRangePlaceholder": "Filter by Created Date",
+    "sendContactForm": "Send Contact Form"
+  },
+  "webinar": {
+    "webinar": "Webinar",
+    "webinarCreate": "Create Webinar",
+    "webinarUpdatedSuccessfully": "Webinar updated successfully",
+    "noWebinarFound": "No webinar found",
+    "searchByNamePlaceholder": "Search by webinar name"
+  },
+  "helpCenter": {
+    "helpCenter": "Help Center",
+    "helpCenters": "Help Centers",
+    "create": "Create Help Center",
+    "update": "Update Help Center",
+    "delete": "Delete Help Center",
+    "view": "View Help Center",
+    "list": "List Help Centers",
+    "createdSuccessfully": "Help Center created successfully",
+    "updatedSuccessfully": "Help Center updated successfully",
+    "deleteConfirm": "Are you sure you want to delete this Help Center?",
+    "deletedSuccessfully": "Help Center deleted successfully",
+    "category": "Category",
+    "targetCategory": "Target Category",
+    "language": "Language",
+    "pleaseEnterTags": "Please enter tags",
+    "title": "Title",
+    "content": "Content",
+    "description": "Description",
+    "tags": "Tags",
+    "question": "Question",
+    "answer": "Answer",
+    "readingTime": "Reading Time",
+    "filters": "Filters",
+    "searchPlaceholder": "Search in Help Centers...",
+    "noHelpCentersFound": "No Help Centers found",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "createNew": "Create New Help Center",
+    "lastUpdated": "Last Updated",
+    "actions": "Actions",
+    "selectHelpCenterCategory": "Select Help Center Category",
+    "helpCenterCategory": "Help Center Category",
+    "helpCenterCategoryCreatedSuccessfully": "Help Center category created successfully",
+    "helpCenterCategoryUpdatedSuccessfully": "Help Center category updated successfully",
+    "helpCenterCategoryName": "Help Center Category Name",
+    "helpCenterCategorySearchByNamePlaceholder": "Search by Help Center Category Name",
+    "helpCenterSearchByQuestionPlaceholder": "Search by question",
+    "helpCenterListDateRangePlaceholder": "Filter by date range",
+    "helpCenterUpdatedSuccessfully": "Help Center updated successfully",
+    "helpCenterDeletedSuccessfully": "Help Center deleted successfully",
+    "helpCenterDeleteConfirm": "Are you sure you want to delete this Help Center?",
+    "helpCenterCreateSuccess": "Help Center created successfully",
+    "helpCenterUpdateSuccess": "Help Center updated successfully",
+    "helpCenterDetailTitle": "Help Center Details",
+    "helpCenterListTitle": "Help Center List",
+    "helpCenterCreateTitle": "Create Help Center",
+    "helpCenterUpdateTitle": "Update Help Center",
+    "helpCenterCategoryCreateTitle": "Create Help Center Category",
+    "helpCenterCategoryUpdateTitle": "Update Help Center Category",
+    "helpCenterCategoryDetailTitle": "Help Center Category Details",
+    "helpCenterCategoryListTitle": "Help Center Category List",
+    "helpCenterCreateFormTitle": "Create Help Center Form",
+    "helpCenterUpdateFormTitle": "Update Help Center Form",
+    "helpCenterCategoryCreateFormTitle": "Create Help Center Category Form",
+    "helpCenterCategoryUpdateFormTitle": "Update Help Center Category Form",
+    "helpCenterDeleteDialogTitle": "Delete Help Center",
+    "helpCenterCategoryDeleteDialogTitle": "Delete Help Center Category",
+    "helpCenterCategorySelectorLabel": "Help Center Category",
+    "helpCenterCategorySelectorPlaceholder": "Select a category",
+    "helpCenterCategorySelectorNoResults": "No categories found",
+    "helpCenterFormQuestionLabel": "Question",
+    "helpCenterFormAnswerLabel": "Answer",
+    "helpCenterFormReadingTimeLabel": "Reading Time",
+    "helpCenterFormSubmitButton": "Submit",
+    "helpCenterFormCancelButton": "Cancel",
+    "helpCenterFormLoadingMessage": "Loading...",
+    "helpCenterDetailQuestionLabel": "Question",
+    "helpCenterDetailAnswerLabel": "Answer",
+    "helpCenterDetailReadingTimeLabel": "Reading Time",
+    "helpCenterDetailCategoryLabel": "Category",
+    "helpCenterDetailLanguageLabel": "Language",
+    "createHelpCenter": "Create Help Center",
+    "updateHelpCenter": "Update Help Center",
+    "helpCenterDetail": "Help Center Detail",
+    "helpCenterDetails": "Help Center Details",
+    "helpCenterList": "Help Center List",
+    "createCategory": "Create Category",
+    "updateCategory": "Update Category",
+    "categoryDetail": "Category Detail",
+    "categoryDetails": "Category Details",
+    "categoryList": "Category List",
+    "categoryCreatedSuccessfully": "Category created successfully",
+    "categoryUpdatedSuccessfully": "Category updated successfully",
+    "categoryDeletedSuccessfully": "Category deleted successfully",
+    "errorLoadingHelpCenters": "Error loading Help Centers",
+    "errorLoadingCategoryDetails": "Error loading category details",
+    "errorLoadingHelpCenterDetails": "Error loading Help Center details",
+    "noHelpCenterFound": "No Help Center found",
+    "noCategoryFound": "No category found",
+    "failedToDeleteCategory": "Failed to delete category",
+    "deleteCategory": "Delete Category",
+    "deleteCategoryConfirmation": "Are you sure you want to delete {{name}}?",
+    "thisCategory": "this category",
+    "thisHelpCenter": "this Help Center"
+  },
+  "file": {
+    "file": "File",
+    "imageUploadFailed": "Image upload failed",
+    "invalidImageType": "Invalid image type. Please upload a valid image file",
+    "fileTooLarge": "File is too large. Please upload a smaller file",
+    "imageProcessingError": "Error processing image. Please try again",
+    "imageUploadError": "Failed to upload image"
+  },
+  "task": {
+    "task": "Task",
+    "nav_title": "Task Management",
+    "nav_sub_taskList": "Task List",
+    "nav_sub_projectList": "Project List",
+    "tasks": "Tasks",
+    "create": "Create Task",
+    "update": "Update Task",
+    "delete": "Delete Task",
+    "view": "View Task",
+    "list": "List Tasks",
+    "createdSuccessfully": "Task created successfully",
+    "updatedSuccessfully": "Task updated successfully",
+    "deleteConfirm": "Are you sure you want to delete this Task?",
+    "deletedSuccessfully": "Task deleted successfully",
+    "category": "Category",
+    "targetCategory": "Target Category",
+    "language": "Language",
+    "pleaseEnterTags": "Please enter tags",
+    "title": "Title",
+    "content": "Content",
+    "description": "Description",
+    "tags": "Tags",
+    "question": "Question",
+    "answer": "Answer",
+    "readingTime": "Reading Time",
+    "filters": "Filters",
+    "searchPlaceholder": "Search FAQs...",
+    "noFaqsFound": "No FAQs found",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "createNew": "Create New Task",
+    "lastUpdated": "Last Updated",
+    "actions": "Actions",
+    "selectTaskCategory": "Select Task Category",
+    "project": "Project",
+    "projectUpdatedSuccessfully": "Project updated successfully",
+    "projectName": "Project Name",
+    "projectSearchByNamePlaceholder": "Search by Project Name",
+    "projectSearchByQuestionPlaceholder": "Search by question",
+    "projectDeletedSuccessfully": "Project deleted successfully",
+    "taskDeleteConfirm": "Are you sure you want to delete this Task?",
+    "taskDeletedSuccessfully": "Task deleted successfully",
+    "thisTask": "this task",
+    "taskCreateSuccess": "Task created successfully",
+    "taskUpdateSuccess": "Task updated successfully",
+    "taskDetailTitle": "Task Details",
+    "taskListTitle": "Task List",
+    "taskCreateTitle": "Create Task",
+    "taskUpdateTitle": "Update Task",
+    "projectCreateTitle": "Create Project",
+    "projectUpdateTitle": "Update Project",
+    "projectDetailTitle": "Project Details",
+    "projectListTitle": "Project List"
+  },
+  "faq": {
+    "faq": "FAQ",
+    "faqListTitle": "FAQ List",
+    "faqCreateTitle": "Create FAQ",
+    "faqUpdateTitle": "Update FAQ",
+    "faqDetailTitle": "FAQ Detail",
+    "faqCategoryListTitle": "FAQ Category List",
+    "faqCategoryCreateTitle": "Create FAQ Category",
+    "faqCategoryUpdateTitle": "Update FAQ Category",
+    "faqCategoryCreatedSuccessfully": "FAQ Category created successfully",
+    "faqCategoryUpdatedSuccessfully": "FAQ Category updated successfully",
+    "noFaqFound": "No FAQ found",
+    "noFaqCategoryFound": "No FAQ Category found",
+    "faqCategory": "FAQ Category",
+    "faqCategoryDetailTitle": "FAQ Category",
+    "question": "Question",
+    "answer": "Answer",
+    "readingTime": "Reading Time",
+    "popular": "Popular",
+    "createdSuccessfully": "FAQ created successfully",
+    "updatedSuccessfully": "FAQ updated successfully",
+    "faqSearchByQuestionPlaceholder": "Search by question",
+    "faqListDateRangePlaceholder": "Filter by date range",
+    "category": "Category",
+    "faqCategorySearchPlaceholder": "Search by category name",
+    "faqCategoryListDateRangePlaceholder": "Filter by date range",
+    "selectFaqCategory": "Select FAQ Category",
+    "errorLoadingFaqDetail": "Error loading FAQ details",
+    "errorLoadingFaqCategoryDetail": "Error loading FAQ category details"
+  },
+
+  "notification": {
+    "enums": {
+      "notificationType_name": "Notification Type",
+      "notificationType": {
+        "authentication": "Authentication",
+        "user": "User",
+        "announcement": "Announcement",
+        "form": "Form",
+        "alert": "Alert",
+        "reminder": "Reminder",
+        "info": "Info",
+        "custom": "Custom"
+      },
+      "notificationChannelType_name": "Notification Channel Type",
+      "notificationChannelType": {
+        "email": "Email",
+        "sms": "SMS",
+        "push": "Push",
+        "web": "Web"
+      }
+    },
+    "notification": "Notification",
+    "notifications": "Notifications",
+    "create": "Create Notification",
+    "createDesc": "Create a new notification",
+    "createSuccess": "Notification created successfully",
+    "createError": "Failed to create notification",
+    "update": "Update Notification",
+    "updateDesc": "Update a notification",
+    "updateSuccess": "Notification updated successfully",
+    "updateError": "Failed to update notification",
+    "delete": "Delete Notification",
+    "deleteDesc": "Delete a notification",
+    "deleteSuccess": "Notification deleted successfully",
+    "deleteError": "Failed to delete notification",
+    "list": "List Notifications",
+    "listDesc": "List all notifications",
+    "listSuccess": "Notifications listed successfully",
+    "listError": "Failed to list notifications",
+    "listDateRangePlaceholder": "Filter by date range",
+    "channels": "Channels",
+    "domain": "Domain",
+    "email": "Email",
+    "sms": "SMS",
+    "push": "Push",
+    "web": "Web",
+    "createdSuccessfully": "Notification created successfully",
+    "notificationSearchByNamePlaceholder": "Search by notification name",
+    "notificationListDateRangePlaceholder": "Filter by date range",
+    "category": "Category",
+    "selectNotificationCategory": "Select Notification Category",
+    "errorLoadingNotificationDetail": "Error loading notification details",
+    "noNotificationFound": "No notification found",
+    "noNotificationHistoryFound": "No notification history found",
+    "notificationHistoryDetails": "Notification History Details",
+    "notificationHistoryDeliveryDetails": "Notification History Delivery Details",
+    "notificationHistoryTimestamps": "Notification History Timestamps",
+    "notificationHistoryResults": "Notification History Results",
+    "notificationHistoryVariables": "Notification History Variables",
+    "notificationName": "Notification Name",
+    "channelType": "Channel Type",
+    "isSentToTopic": "Is Sent to Topic",
+    "sentTopic": "Sent Topic",
+    "senderUser": "Sender User",
+    "sentUser": "Sent User"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "blog": "Blog",
+    "aboutUs": "About Us",
+    "aboutUsDesc": "Serving customers from across the globe",
+    "contactUs": "Contact Us",
+    "help": "Help",
+    "support": "Support",
+    "aiSolutions": "AI Solutions",
+    "aiForBusiness": "AI for Business",
+    "aiAgents": "AI Agents",
+    "getStarted": "Get Started",
+    "goToDashboard": "Go to Dashboard"
+  },
+  "subscription": {
+    "title": "Let's Shape the Future Together",
+    "description": "Ready to explore AI solutions tailored to your business? Contact us for inquiries, partnership opportunities, or to schedule a demo. We're here to support your journey toward digital transformation.",
+    "emailPlaceholder": "Your mail address",
+    "subscribeButton": "Subscribe"
+  },
+  "footer": {
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "cookiesPolicy": "Cookies Policy",
+    "salesAgreement": "Sales Agreement",
+    "refundPolicy": "Refund Policy",
+    "links": "LINKS",
+    "support": "SUPPORT",
+    "legal": "LEGAL",
+    "faq": "FAQ",
+    "language": "Language",
+    "companyDescription": "Corede AI is an innovative technology platform that takes your business to the future with artificial intelligence solutions.",
+    "copyright": "All rights reserved."
+  },
+  "meta": {
+    "global": {
+      "title": "Corede AI",
+      "description": "AI-based solutions for your business"
+    },
+    "pages": {
+      "home": {
+        "title": "Home METADATA",
+        "description": "Welcome to our homepage METADATA",
+        "content": "Homepage content will be placed here METADATA"
+      },
+      "aboutUs": {
+        "title": "About Us",
+        "description": "Learn more about our company, mission and team",
+        "content": "Discover our company's journey, meet our team, and learn about our mission and values."
+      },
+      "aiForBusiness": {
+        "title": "AI for Business",
+        "description": "Advanced AI solutions for enterprises",
+        "content": "Discover how our AI solutions can transform your business operations and improve productivity."
+      },
+      "aiSolutions": {
+        "title": "AI Solutions",
+        "description": "Innovative AI solutions for various needs",
+        "content": "Explore our range of AI solutions designed to meet the diverse needs of businesses and individuals."
+      },
+      "aiAgents": {
+        "title": "AI Agents",
+        "description": "Intelligent AI agents for automation",
+        "content": "Our AI agents are designed to automate repetitive tasks, enhance productivity, and provide intelligent assistance."
+      },
+      "contactUs": {
+        "title": "Contact Us",
+        "description": "Get in touch with our team",
+        "content": "Contact Us content will be placed here."
+      },
+      "cookiesPolicy": {
+        "title": "Cookies Policy",
+        "description": "This policy explains how we use cookies and similar technologies to enhance your experience on our website.",
+        "content": "Cookies Policy content will be placed here."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "description": "Find answers to your questions",
+        "content": "FAQ content will be placed here."
+      },
+      "helpCenter": {
+        "title": "Help Center",
+        "description": "Get help and support for your questions",
+        "content": "Help Center content will be placed here."
+      },
+      "privacyPolicy": {
+        "title": "Privacy Policy",
+        "description": "This policy explains how we use your data to enhance your experience on our website.",
+        "content": "Privacy Policy content will be placed here."
+      },
+      "refundPolicy": {
+        "title": "Refund Policy",
+        "description": "This policy explains how we handle refunds for our products and services.",
+        "content": "Refund Policy content will be placed here."
+      },
+      "salesAgreement": {
+        "title": "Sales Agreement",
+        "description": "This agreement outlines the terms and conditions for our sales and services.",
+        "content": "Sales Agreement content will be placed here."
+      },
+      "termsOfService": {
+        "title": "Terms of Service",
+        "description": "These terms and conditions outline the rules and regulations for the use of our website.",
+        "content": "Terms of Service content will be placed here."
+      },
+      "blog": {
+        "title": "Blog",
+        "description": "Read our latest articles and news",
+        "content": "Blog content will be placed here."
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "description": "Welcome to our homepage",
+      "content": "Home page content will be placed here.",
+      "hero": {
+        "upperTitle": "Welcome to Corede.AI",
+        "title": "Meet the Future of Technology",
+        "subtitle": "Empower Your Business with Cutting-Edge AI Solutions",
+        "description": "At Corede.AI, we accelerate your digital transformation with state-of-the-art artificial intelligence and automation solutions. Our robust technology and expert team provide trusted, innovative support every step of the way.",
+        "requestDemo": "Request a Demo",
+        "learnMore": "Learn More"
+      },
+      "aboutUs": {
+        "title": "Innovation, Trust, and Excellence",
+        "description": "Corede.AI is a leader in AI technology, delivering solutions that optimize processes and enhance decision-making. Our mission is to drive business growth through data-driven strategies and personalized innovation. With a team of seasoned experts and a strong track record, we bring reliability and professionalism to every project.",
+        "learnMore": "Learn More"
+      },
+      "ourSolutions": {
+        "aiAgentSolutions": {
+          "title": "AI Agent Solutions",
+          "titlePart1": "AI Agent",
+          "titlePart2": "Solutions",
+          "description": "Empower your operations with intelligent decision support, dynamic data visualization, and seamless automation. Our AI Agents provide actionable insights and streamline your workflow."
+        },
+        "dataVisualization": {
+          "title": "Data Visualization",
+          "titlePart1": "Data",
+          "titlePart2": "Visualization",
+          "description": "Transform complex data into clear, actionable insights with our data visualization tools. Our intuitive dashboards and interactive charts help you uncover patterns, track KPIs, and make data-driven decisions with confidence."
+        },
+        "messagingAutomation": {
+          "title": "Messaging Automation",
+          "titlePart1": "Messaging",
+          "titlePart2": "Automation",
+          "description": "Automate your communication workflows with smart messaging solutions. Our AI-driven platform ensures timely and personalized interactions that boost customer engagement and operational efficiency."
+        },
+        "decisionSupport": {
+          "title": "Decision Support",
+          "titlePart1": "Decision",
+          "titlePart2": "Support",
+          "description": "Make informed decisions with our AI-powered analytics. Get real-time insights, predictive models, and actionable recommendations that help you navigate complex business challenges with confidence."
+        },
+        "customSolutions": {
+          "title": "Custom Solutions",
+          "titlePart1": "Custom",
+          "titlePart2": "Solutions",
+          "description": "Tailored solutions designed specifically for your business needs. Our team works closely with you to develop and implement solutions that address your unique challenges and maximize your competitive advantage."
+        }
+      },
+      "whyChoose": {
+        "title": "Your Trusted Partner in Innovation",
+        "features": [
+          {
+            "title": "Expertise & Experience",
+            "description": "Our experts bring your vision to life with precision and excellence."
+          },
+          {
+            "title": "Tailored Approach",
+            "description": "We deliver unique solutions with our personalized approach to every project."
+          },
+          {
+            "title": "Cutting-Edge Technology",
+            "description": "We develop pioneering solutions using the latest technologies."
+          },
+          {
+            "title": "Proven Success",
+            "description": "Our success stories with our clients are our greatest reference."
+          }
+        ]
+      },
+      "testimonials": {
+        "header": {
+          "title": "Used by top teams across the globe",
+          "counter": "110k"
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Find answers to your questions",
+        "description": "Explore the section below for answers to the most common questions and more information.",
+        "questions": [
+          {
+            "question": "What are the core services offered by Corede AI?",
+            "answer": "At Corede AI, we offer AI agents, data visualization, messaging automation, decision support systems, and custom solutions tailored to your business."
+          },
+          {
+            "question": "Which industries are your AI solutions suitable for?",
+            "answer": "Our solutions are designed to be adaptable for various sectors including finance, healthcare, retail, manufacturing, logistics, and many more."
+          },
+          {
+            "question": "Are your services suitable for small businesses?",
+            "answer": "Yes, we offer scalable solutions for businesses of all sizes. We have special packages tailored to the needs and budgets of small businesses."
+          },
+          {
+            "question": "How can I start working with Corede AI?",
+            "answer": "You can contact us to request a free demo or schedule an evaluation meeting with our consultants."
+          },
+          {
+            "question": "How long does it take to integrate AI solutions?",
+            "answer": "Integration time varies depending on the complexity and scope of the project. Simple solutions can be implemented within a few weeks, while more comprehensive projects may take 2-3 months."
+          },
+          {
+            "question": "How is data security ensured?",
+            "answer": "We use the latest security protocols and encryption technologies, adhering to international standards for data privacy and security."
+          }
+        ],
+        "askButtonText": "Ask a Question",
+        "showMoreText": "Show More",
+        "hideText": "Hide",
+        "noQuestionsFound": "No questions found yet.",
+        "askYourOwnQuestion": "Ask your own question?",
+        "typeYourQuestion": "Type your question here...",
+        "cancel": "Cancel",
+        "submit": "Submit",
+        "viewQuestions": "View Questions",
+        "back": "Back"
+      }
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "Learn more about our company and mission",
+      "content": "About Us content will be placed here.",
+      "learnMore": "Learn More",
+      "ourMission": {
+        "title": "Our Mission, Vision & Values",
+        "description1": "Lorem ipsum dolor sit amet consectetur. Consectetur nulla mattis ut ut purus. Velit blandit diam varius elementum leo non cursus ut nunc. Morbi sapien quis tellus a. Cursus penatibus euismod suspendisse dui tellus maecenas egestas mi porttitor. Sit tempor suspendisse fusce tortor facilisis condimentum pharetra.",
+        "description2": "Mi viverra eu quis a tempor diam proin at mattis. Erat neque fringilla lacus velit ultricies fringilla integer amet. Ante pretium est varius egestas elementum malesuada in volutpat. Dolor fringilla lectus arcu sed. Elementum et facilisis at congue tellus ut. Eget enim duis accumsan risus at."
+      },
+      "companyHistory": {
+        "title": "Company History",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod.",
+        "title-1": "Lorem ipsum nunc",
+        "title-2": "Lorem ipsum nunc",
+        "title-3": "Lorem ipsum nunc",
+        "title-4": "Lorem ipsum nunc",
+        "content-1": "Lorem ipsum dolor sit amet consectetur. Adipiscing eu magna sit vitae eget nulla in gravida. Vestibulum magna et fermentum tempor diam. Duis amet arcu pellentesque.",
+        "content-2": "Lorem ipsum dolor sit amet consectetur. Egestas lectus et odio lectus lobortis et enim. Viverra massa iaculis dis id egestas fermentum fringilla urna. Pharetra scelerisque neque erat lacus at  urna. Elementum sociis hac proin ut aliquet aliquet faucibus felis. Orci porta ut est aliquam viverra orci donec nunc eu. Mauris volutpat vel dignissim pellentesque sociis velit faucibus. Vulputate commodo.",
+        "content-3": "Lorem ipsum dolor sit amet consectetur. Rhoncus in nascetur auctor  euismod ultricies ut tortor. Sagittis sed vitae arcu in ornare  posuere vel consectetur ut. Morbi dignissim consectetur quisque  amet. Sit faucibus adipiscing neque neque justo ut. Donec odio sed  neque semper aliquam tortor malesuada. Ut odio egestas diam et vitae  mauris cras urna. Donec venenatis sodales pellentesque aliquam donec  amet vel posuere. Tortor ac montes ut ac nam dolor urna. Lacus augue  ac sed a ornare morbi arcu feugiat aliquam. Ipsum mauris egestas  euismod convallis ac enim dictum.",
+        "content-4": "Lorem ipsum dolor sit amet consectetur. Pellentesque risus porttitor  lobortis in. Enim adipiscing eu tempus nunc vitae. Donec scelerisque  cursus vitae sit. Nec arcu dignissim neque integer elit.  Pellentesque ut pulvinar porta vel. Arcu a eu fringilla luctus vitae  dignissim at sed pellentesque. Gravida rhoncus eget nisl potenti  fringilla morbi. Ut quisque sagittis diam varius aenean. Sed vel  congue nec et euismod commodo aliquam placerat id. Venenatis nec  lectus tincidunt ornare sollicitudin justo accumsan nec in. Quis  ornare luctus dignissim integer et varius nunc. Feugiat quisque  faucibus dignissim id fermentum id sit diam. Sed in orci integer  urna posuere venenatis. In neque nec."
+      },
+      "theTeam": {
+        "title": "The Team",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      },
+      "mediaPress": {
+        "title": "Media & Press Coverage",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      }
+    },
+    "blog": {
+      "hero": {
+        "title": "Corede Blog",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      },
+      "filteredPosts": {
+        "allPosts": "All Posts",
+        "noPosts": "No posts found in this category."
+      },
+      "editorsChoice": {
+        "title": "Editor's Choice"
+      },
+      "allBlogs": {
+        "title": "All Blogs",
+        "viewAll": "View All"
+      },
+      "categories": {
+        "title": "Categories",
+        "noCategories": "No categories found."
+      },
+      "popularBlogs": {
+        "title": "Popular Blogs"
+      }
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "description": "Get in touch with our team",
+      "content": "Contact Us content will be placed here.",
+      "hero": {
+        "title": "Contact Us",
+        "description": "Please feel free to contact us with any questions or concerns.",
+        "button": "Contact Us"
+      },
+      "form": {
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Your Name and Surname",
+        "email": "Email Address",
+        "emailPlaceholder": "example@email.com",
+        "subject": "Subject",
+        "subjectPlaceholder": "Subject of your message",
+        "message": "Message",
+        "messagePlaceholder": "Write the message you want to send us...",
+        "submit": "Send Message",
+        "submitting": "Sending...",
+        "successMessage": "Your form has been successfully submitted. We will contact you as soon as possible."
+      },
+      "contactInfo": {
+        "email": {
+          "label": "Email",
+          "value": "info@example.com"
+        },
+        "phone": {
+          "label": "Phone",
+          "value": "+90 212 123 45 67"
+        },
+        "address": {
+          "label": "Address",
+          "value": "Istanbul, Turkey"
+        }
+      }
+    },
+    "help": {
+      "title": "Help",
+      "description": "Find help and support for your questions",
+      "content": "Help content will be placed here."
+    },
+    "support": {
+      "title": "Support",
+      "description": "Get support for our services",
+      "content": "Support content will be placed here."
+    },
+    "aiAgents": {
+      "title": "AI Agents",
+      "hero": {
+        "title": "Automate Your Processes with Corede.AI",
+        "description": "See how our AI agents can automate your processes with a live demo, and get your questions answered by our experts.",
+        "requestDemoButton": "Request a Free Demo"
+      },
+      "overview": {
+        "title": "Overview & Benefits",
+        "description": "COREDE.AI \"AI Agents\" solutions improve your business's critical processes by simultaneously optimizing operational costs, decision-making speed, and team efficiency.",
+        "statistics": {
+          "processAcceleration": {
+            "value": "48%+",
+            "label": "Process Acceleration"
+          },
+          "costSaving": {
+            "value": "35%+",
+            "label": "Cost Savings"
+          },
+          "infrastructure": {
+            "value": "24/7",
+            "label": "Available Infrastructure Service"
+          }
+        }
+      },
+      "contentAutomation": {
+        "title": "Content Automation",
+        "feature1Title": "Content Generation:",
+        "feature1Description": "Provides precise article, post, or email body generation with predefined templates and toning.",
+        "feature2Title": "Curation & Summarization:",
+        "feature2Description": "Analyzes and summarizes long texts, selecting and reorganizing the most relevant sections.",
+        "feature3Title": "Language & Style Adjustment:",
+        "feature3Description": "Creates automatic adaptation of language level, structure, and keyword strategy according to the target audience.",
+        "feature4Title": "SEO Integration:",
+        "feature4Description": "Increases search visibility with keyword suggestions and title optimization.",
+        "description": "By performing automatic content generation and curation; creates and optimizes all text-based outputs from blog posts to social media shares, from product descriptions to newsletters with AI support."
+      },
+      "messagingAutomation": {
+        "title": "Messaging Automation",
+        "description": "Smart bots that provide 24/7, automatic response and interaction in email, chat, and social media messaging channels.",
+        "feature1Title": "Chat Bots:",
+        "feature1Description": "Real-time user chat on your website; instantly answers frequently asked questions.",
+        "feature2Title": "Mail Bots:",
+        "feature2Description": "Personalized email flows; creates follow-ups based on trigger events.",
+        "feature3Title": "Multi-Channel Support:",
+        "feature3Description": "Integrated with platforms such as WhatsApp, Messenger, Telegram, provides management from a single panel.",
+        "feature4Title": "Analytics & Reporting:",
+        "feature4Description": "Helps you get feedback on response rates, satisfaction scores, and most frequently raised issues."
+      },
+      "voiceAutomation": {
+        "title": "Voice Automation",
+        "description": "IVR systems and speech-based assistants that handle and direct customer calls; reduce call volume and increase self-service rates.",
+        "feature1Title": "Voice Assistants:",
+        "feature1Description": "Provides voice command detection and response generation support with Natural Language Processing (NLP).",
+        "feature2Title": "IVR Systems:",
+        "feature2Description": "Provides multi-layered menu and speech-based routing, transferring to a live operator when necessary.",
+        "feature3Title": "Voice Analysis & Sentiment Detection:",
+        "feature3Description": "Analyzes the emotional state in the conversation flow to flag critical calls.",
+        "feature4Title": "Automatic Recording & Transcript:",
+        "feature4Description": "Converts call records into text to create call analytics."
+      },
+      "whyAiAgents": {
+        "title": "Why Ai Agents?",
+        "feature1": "Continuous Operation: Maintains your operations without requiring 24/7 live support.",
+        "feature2": "Flexible Integration: Easily connects to your existing CRM, ERP, or data warehouse infrastructure.",
+        "feature3": "Scalability: Quickly adds new agents to distribute workload as needed.",
+        "aiDecisionAgents": {
+          "title": "AI Decision-Making Agents",
+          "description": "Smart agents that automatically detect and provide suggestions and guidance for your complex decision processes in light of your data.",
+          "bullet1": "Minimizes human errors.",
+          "bullet2": "Shortens the decision-making cycle by up to 40%.",
+          "bullet3": "Improves performance over time with continuous learning."
+        },
+        "dataVisualization": {
+          "title": "Data Visualization",
+          "description": "Brings business intelligence data together with interactive graphics and dashboards, allowing all stakeholders to easily monitor the current situation.",
+          "bullet1": "Eliminates information gaps in decision processes.",
+          "bullet2": "Offers up to 50% visibility increase in critical indicators."
+        }
+      },
+      "getOffer": {
+        "headline": "GET AN OFFER",
+        "title": "Get an Offer for Your Project Right Now",
+        "description": "Fill out a short form to immediately receive our detailed proposal tailored to the scope and scale of your work.",
+        "requestOfferButton": "Request an Offer",
+        "faqButton": "Frequently Asked Questions"
+      },
+      "featuredSectors": {
+        "title": "Featured Sectors",
+
+        "section-1": "Automotive",
+        "section-1-description": "Vehicle maintenance process automatic planning and inventory management system predicts real-time malfunctions from sensor data to detect potential problems in advance, automatically creates necessary orders with spare parts need analyses, and manages maintenance processes without interruption by planning service appointments. This reduces failure-related downtime by 35% while achieving a 20% reduction in costs related to excess inventory.",
+        "section-2": "Healthcare",
+        "section-2-description": "Automated patient scheduling and appointment management system, using AI-driven analytics to optimize resource allocation and patient flow, reducing wait times and improving overall healthcare operations.",
+        "section-3": "Education",
+        "section-3-description": "Automated student enrollment and course management system, using AI-driven analytics to optimize resource allocation and student flow, reducing wait times and improving overall education operations.",
+        "section-4": "Retail",
+        "section-4-description": "Automated customer order and inventory management system, using AI-driven analytics to optimize resource allocation and customer flow, reducing wait times and improving overall retail operations.",
+        "section-5": "Manufacturing",
+        "section-5-description": "Automated production planning and inventory management system, using AI-driven analytics to optimize resource allocation and production flow, reducing wait times and improving overall manufacturing operations.",
+        "section-6": "Logistics",
+        "section-6-description": "Automated logistics planning and inventory management system, using AI-driven analytics to optimize resource allocation and logistics flow, reducing wait times and improving overall logistics operations.",
+        "section-7": "Telecommunications",
+        "section-7-description": "Automated telecommunications planning and inventory management system, using AI-driven analytics to optimize resource allocation and telecommunications flow, reducing wait times and improving overall telecommunications operations.",
+        "section-8": "Finance",
+        "section-8-description": "Automated finance planning and inventory management system, using AI-driven analytics to optimize resource allocation and finance flow, reducing wait times and improving overall finance operations.",
+        "section-9": "E-commerce",
+        "section-9-description": "Automated e-commerce planning and inventory management system, using AI-driven analytics to optimize resource allocation and e-commerce flow, reducing wait times and improving overall e-commerce operations."
+      }
+    },
+    "aiSolutions": {
+      "hero": {
+        "title": "Scalable, intelligence‑driven software—delivered with precision and measurable impact.",
+        "description": "",
+        "button-1": "Get a Demo",
+        "button-2": "Discuss Project",
+        "statistics": {
+          "statistic-1": "Average Time-to-Launch Reduced",
+          "statistic-2": "Cloud Availability",
+          "statistic-3": "2 Type II Compliant"
+        }
+      },
+      "whyAiPowered": {
+        "title": "Why\n \"AI‑Powered\"?",
+        "description": "AI is not just a feature added to the final product; it works in our development pipeline. Corede.AI uses big language models and predictive analytics at every step of the software lifecycle:",
+        "list-1": "AI Co‑Coding: With dual pilots powered by GPT, an average of 30% of lines of code are automatically generated; 25% fewer bugs caught in code reviews.",
+        "list-2": "Automated Testing & Security: Increases release quality with model-based test case generation, dynamic CVE scanning, and instant fix recommendations.",
+        "list-3": "Sprint Optimization: Shifts team focus to strategic innovation by entrusting backlog prioritization to predictive models.",
+        "feature-1": "Faster Iteration",
+        "feature-2": "Lower Technical Debt",
+        "feature-3": "Shortened Time to Market"
+      },
+      "aiPoweredSolutions": {
+        "title": "AI‑Powered Software Development Solutions",
+        "section-1-title": "Web Solutions",
+        "section-1-description": "Powered by scalable custom web applications, microservices architecture, and LLM-powered content. Provides rapid decision support with interactive dashboards, real-time analytics, and Slack/Teams integrations. Provides <1s LCP and high SEO compliance with landing pages, static generation, and edge caching. Offers full accessibility with AI-powered interfaces, natural language navigation, and personalized content.",
+        "section-2-title": "Mobile App Solutions",
+        "section-2-description": "Native mobile apps with Swift and Kotlin work offline with low latency and on-device ML. Cross-platform apps built with React Native or Flutter learn together across iOS and Android with shared AI SDK.",
+        "section-3-title": "E-Commerce Solutions",
+        "section-3-description": "Intelligent online stores increase profitability with dynamic pricing, inventory forecasting, and omnichannel POS integration. Personalized shopping experience is powered by visual search, instant recommendations, and GPT-powered segmentation."
+      },
+      "whyChoose": {
+        "title": "What Makes Us Different",
+        "feature-1": "Radical Professionalism",
+        "feature-2": "Time-Oriented Delivery",
+        "feature-3": "Finished Product Approach",
+        "description-1": "Senior engineers and certified AI architects; defined SLA and weekly progress reports",
+        "description-2": "Scalable and secure solutions that fit your users' needs",
+        "description-3": "Continuous feedback throughout the process until product completion"
+      },
+      "successStories": {
+        "title": "Success Stories",
+        "story-1": "TalentPulse (HR Tech) – AI-based resume screening and automated interview scheduling reduced time to hire from 35 days to 19 days; candidate satisfaction increased to 94%.",
+        "story-2": "BrightLearn (EdTech) – Adaptive learning engine increased course completion from 65% to 92%; instructor feedback time halved.",
+        "story-3": "PeopleFirst Consulting (HR Analytics) – Predictive turnover dashboards reduced annual employee turnover by 17%.",
+        "moreStory": "More Stories"
+      },
+      "technologiesUsed": {
+        "title": "Technologies Used",
+        "description": "Corede.AI uses the best practices in AI software development. This way, our customers can optimize their software development processes.",
+        "feature-1": "Programlama Dilleri",
+        "description-1": "TypeScript, Python, Kotlin, Swift",
+        "feature-2": "Web Çatısı",
+        "description-2": "React, Next.js, FastAPI",
+        "feature-3": "Mobil Çatısı",
+        "description-3": "React Native, Flutter",
+        "feature-4": "Bulut ve DevOps",
+        "description-4": "AWS (EKS, Lambda), Azure DevOps, Docker, Kubernetes",
+        "feature-5": "Veri ve AI",
+        "description-5": "PostgreSQL, Redis, Apache Kafka, OpenAI GPT‑4o, Hugging Face",
+        "feature-6": "Güvenlik ve Uyumluluk",
+        "description-6": "OAuth 2.0, OpenID Connect, SOC2, GDPR Onay SDK'sı"
+      }
+    },
+    "aiForBusiness": {
+      "hero": {
+        "title": "Empower your company with AI: Strategy, training and automation solutions on one page.",
+        "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in.",
+        "button-1": "Get a Demo",
+        "button-2": "Request a Quote"
+      },
+      "ourSolutions": {
+        "slide-1": {
+          "title": "Workshops",
+          "titlePart1": "Workshops",
+          "titlePart2": "",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        },
+        "slide-2": {
+          "title": "Standard Seminars",
+          "titlePart1": "Standard",
+          "titlePart2": "Seminars",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        },
+        "slide-3": {
+          "title": "Special Seminars",
+          "titlePart1": "Private",
+          "titlePart2": "Seminars",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        }
+      },
+      "aiTransformation": {
+        "title": "AI Transformation Consulting",
+        "section-1": {
+          "title": "Strategy & Implementation",
+          "item-1": "AI Readiness Assessment: Digital maturity, data infrastructure and competency analysis.",
+          "item-2": "Roadmap: Target OKR/KPI set, PoC → MVP → enterprise deployment plan.",
+          "item-3": "Implementation Management: Agile project management, change management and ROI monitoring."
+        },
+        "section-2": {
+          "title": "Business Process Automation",
+          "item-1": "End-to-end automation with RPA + LLM-powered decision engines.",
+          "item-2": "ERP/CRM integration connectors (SAP, Salesforce, MS Dynamics).",
+          "item-3": "Real-time performance monitoring dashboards and alert system."
+        },
+        "section-3": {
+          "title": "Training & Support",
+          "item-1": "Enterprise AI Center of Excellence setup.",
+          "item-2": "LMS-based continuing education, certification programs.",
+          "item-3": "Technical account manager and 24/7 support line."
+        }
+      },
+      "successStories": {
+        "title": "Success Stories",
+        "story-1": {
+          "title": "Retail Sector",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Auge interdum commodo massa urna nisl.",
+          "description": "The inaccuracy in demand forecasting was causing difficulties in inventory management. As a solution to this problem, an LLM-based inventory forecasting model was developed and with this model, 18% reduction in inventory costs was achieved."
+        },
+        "story-2": {
+          "title": "Finance Sector",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Auge interdum commodo massa urna nisl.",
+          "description": "The inaccuracy in demand forecasting was causing difficulties in inventory management. As a solution to this problem, an LLM-based inventory forecasting model was developed and thanks to this model, an 18% reduction in inventory costs was achieved."
+        },
+        "story-3": {
+          "title": "Logistics Sector",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Auge interdum commodo massa urna nisl.",
+          "description": "Inaccuracy in demand forecasting was causing difficulties in inventory management. As a solution to this problem, an LLM-based inventory forecasting model was developed and thanks to this model, 18% reduction in inventory costs was achieved."
+        }
+      }
+    },
+    "termsOfService": {
+      "title": "Terms of Service",
+      "description": "Read our terms of service",
+      "content": "Terms of Service content will be placed here."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "description": "Read our privacy policy",
+      "content": "Privacy Policy content will be placed here."
+    },
+    "cookiesPolicy": {
+      "title": "Cookies Policy",
+      "description": "Read our cookies policy",
+      "content": "Cookies Policy content will be placed here."
+    },
+    "salesAgreement": {
+      "title": "Sales Agreement",
+      "description": "Read our sales agreement",
+      "content": "Sales Agreement content will be placed here."
+    },
+    "refundPolicy": {
+      "title": "Refund Policy",
+      "description": "Read our refund policy",
+      "content": "Refund Policy content will be placed here."
+    },
+    "faq": {
+      "frequentlyAskedQuestions": "Frequently Asked Questions",
+      "generalQuestions": "General Questions",
+      "pricing": "Pricing",
+      "technicalQuestions": "Technical Questions",
+      "security": "Security",
+      "hero": {
+        "title": "Frequently Asked Questions",
+        "description": "Lorem ipsum dolor sit amet consectetur. Amet eget gravida amet amet  facilisis ullamcorper vitae id consequat. Faucibus dolor diam nulla  mauris. Eleifend turpis eu amet tincidunt.",
+        "button": "View Questions"
+      }
+    },
+    "helpCenter": {
+      "hero": {
+        "title": "Frequently Asked Questions",
+        "description": "Lorem ipsum dolor sit amet consectetur. Amet eget gravida amet amet  facilisis ullamcorper vitae id consequat. Faucibus dolor diam nulla  mauris. Eleifend turpis eu amet tincidunt.",
+        "button": "View Questions"
+      }
+    }
+  },
+  "menu": {
+    "aiAgents": {
+      "overviewAndBenefits": {
+        "title": "Overview & Benefits",
+        "descriptions": {
+          "description1": "AI Decision - Making Agents",
+          "description2": "Data Visualization"
+        }
+      },
+      "messagingAutomation": {
+        "title": "Messaging Automation",
+        "descriptions": {
+          "description1": "Chatbots",
+          "description2": "Mail Bots"
+        }
+      },
+      "voiceAutomation": {
+        "title": "Voice Automation",
+        "descriptions": {
+          "description1": "Voice Assistants",
+          "description2": "IVR Systems"
+        }
+      },
+      "contentAutomation": {
+        "title": "Content Automation",
+        "descriptions": {
+          "description1": "Content Generation",
+          "description2": "Content Curation"
+        }
+      },
+      "industryDemos": {
+        "title": "Industry Demos",
+        "descriptions": {
+          "description1": "Healthcare",
+          "description2": "E-commerce",
+          "description3": "Finance",
+          "description4": "Manufacture",
+          "description5": "Logistics",
+          "description6": "Retail",
+          "description7": "Telecommunications",
+          "description8": "Education",
+          "description9": "Automotive"
+        }
+      }
+    },
+    "aiForBusiness": {
+      "seminars": {
+        "title": "Seminars",
+        "descriptions": {
+          "description1": "Standard Seminars",
+          "description2": "Custom Seminars",
+          "description3": "Workshops"
+        }
+      },
+      "aiTransformationConsultancy": {
+        "title": "AI Transformation Consultancy",
+        "descriptions": {
+          "description1": "Strategy & Implementation",
+          "description2": "Business Process Automation",
+          "description3": "Training & Support"
+        }
+      },
+      "caseStudies": {
+        "title": "Case Studies"
+      }
+    },
+    "aiSolutions": {
+      "webSolutions": {
+        "title": "Web Solutions",
+        "descriptions": {
+          "description1": "Custom Web Applications",
+          "description2": "Dashboard Development",
+          "description3": "Fast Landing Pages",
+          "description4": "AI-Enhanced User Interfaces"
+        }
+      },
+      "eCommerceSolutions": {
+        "title": "E-Commerce Solutions",
+        "descriptions": {
+          "description1": "AI-Driven Online Stores",
+          "description2": "Personalized Shopping Experiences"
+        }
+      },
+      "mobileAppSolutions": {
+        "title": "Mobile App Solutions",
+        "descriptions": {
+          "description1": "Native Mobile Apps",
+          "description2": "Cross-Platform Mobile Apps"
+        }
+      }
+    }
+  }
+}

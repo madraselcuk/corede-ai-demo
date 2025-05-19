@@ -1,0 +1,1968 @@
+{
+  "nav": {
+    "landing": {
+      "title": "Ana Sayfa",
+      "blog": {
+        "title": "Blog",
+        "desc": "Blog sayfası",
+        "blog": {
+          "title": "Blog",
+          "list": "Blog Listesi",
+          "listDesc": "Blog listesi sayfası",
+          "create": "Blog Oluştur",
+          "createDesc": "Blog oluşturma sayfası"
+        },
+        "author": {
+          "title": "Yazar",
+          "desc": "Yazar sayfası",
+          "list": "Yazar Listesi",
+          "listDesc": "Yazar listesi sayfası",
+          "create": "Yazar Oluştur",
+          "createDesc": "Yazar oluşturma sayfası"
+        },
+        "blogCategory": {
+          "title": "Blog Kategorisi",
+          "desc": "Blog kategorisi sayfası",
+          "list": "Blog Kategorisi Listesi",
+          "listDesc": "Blog kategorisi listesi sayfası",
+          "create": "Blog Kategorisi Oluştur",
+          "createDesc": "Blog kategorisi oluşturma sayfası",
+          "update": "Blog Kategorisi Güncelle",
+          "updateDesc": "Blog kategorisi güncelleme sayfası",
+          "delete": "Blog Kategorisi Sil",
+          "deleteDesc": "Blog kategorisi silme sayfası"
+        },
+        "blogTargetCategory": {
+          "title": "Blog Hedef Kategorisi",
+          "desc": "Blog hedef kategorisi sayfası",
+          "list": "Blog Hedef Kategorisi Listesi",
+          "listDesc": "Blog hedef kategorisi listesi sayfası",
+          "create": "Blog Hedef Kategorisi Oluştur",
+          "createDesc": "Blog hedef kategorisi oluşturma sayfası",
+          "update": "Blog Hedef Kategorisi Güncelle",
+          "updateDesc": "Blog hedef kategorisi güncelleme sayfası",
+          "delete": "Blog Hedef Kategorisi Sil",
+          "deleteDesc": "Blog hedef kategorisi silme sayfası"
+        }
+      },
+      "form": {
+        "title": "Form",
+        "desc": "Form sayfası",
+        "contactForm": {
+          "title": "İletişim Formu",
+          "desc": "İletişim formu sayfası",
+          "list": "İletişim Formu Listesi",
+          "listDesc": "İletişim formu listesi sayfası",
+          "create": "İletişim Formu Oluştur",
+          "createDesc": "İletişim formu oluşturma sayfası"
+        },
+        "subscriptionForm": {
+          "title": "Abonelik Formu",
+          "desc": "Abonelik formu sayfası",
+          "list": "Abonelik Formu Listesi",
+          "listDesc": "Abonelik formu listesi sayfası",
+          "create": "Abonelik Formu Oluştur",
+          "createDesc": "Abonelik formu oluşturma sayfası"
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "desc": "Sıkça sorulan sorular sayfası",
+        "faq": {
+          "title": "Sıkça Sorulan Sorular",
+          "list": "Sıkça Sorulan Sorular Listesi",
+          "listDesc": "Sıkça sorulan sorular listesi sayfası",
+          "create": "Sıkça Sorulan Sorular Oluştur",
+          "createDesc": "Sıkça sorulan sorular oluşturma sayfası"
+        },
+        "faqCategory": {
+          "title": "SSS Kategorisi",
+          "list": "SSS Kategorisi Listesi",
+          "listDesc": "SSS kategorisi listesi sayfası",
+          "create": "SSS Kategorisi Oluştur",
+          "createDesc": "SSS kategorisi oluşturma sayfası",
+          "update": "SSS Kategorisi Güncelle",
+          "updateDesc": "SSS kategorisi güncelleme sayfası",
+          "delete": "SSS Kategorisi Sil",
+          "deleteDesc": "SSS kategorisi silme sayfası"
+        }
+      },
+      "helpCenter": {
+        "title": "Yardım Merkezi",
+        "desc": "Yardım Merkezi sayfası",
+        "helpCenter": {
+          "title": "Yardım Merkezi",
+          "list": "Yardım Merkezi Listesi",
+          "listDesc": "Yardım Merkezi listesi sayfası",
+          "create": "Yardım Merkezi Oluştur",
+          "createDesc": "Yardım Merkezi oluşturma sayfası"
+        },
+        "helpCenterCategory": {
+          "title": "Yardım Merkezi Kategorisi",
+          "list": "Yardım Merkezi Kategorisi Listesi",
+          "listDesc": "Yardım Merkezi kategorisi listesi sayfası",
+          "create": "Yardım Merkezi Kategorisi Oluştur",
+          "createDesc": "Yardım Merkezi kategorisi oluşturma sayfası"
+        }
+      },
+      "webinar": {
+        "title": "Webinar",
+        "desc": "Webinar sayfası",
+        "webinar": {
+          "title": "Webinar",
+          "list": "Webinar Listesi",
+          "listDesc": "Webinar listesi sayfası",
+          "create": "Webinar Oluştur",
+          "createDesc": "Webinar oluşturma sayfası"
+        }
+      }
+    },
+    "task": {
+      "title": "Görev Yönetimi",
+      "task": {
+        "title": "Görev",
+        "desc": "Görev sayfası",
+        "list": "Görev Listesi",
+        "listDesc": "Görev listesi sayfası",
+        "create": "Görev Oluştur",
+        "createDesc": "Görev oluşturma sayfası"
+      },
+      "project": {
+        "title": "Proje",
+        "desc": "Proje sayfası",
+        "dashboard": "Proje Gösterge Paneli",
+        "list": "Proje Listesi",
+        "listDesc": "Proje listesi sayfası",
+        "create": "Proje Oluştur",
+        "createDesc": "Proje oluşturma sayfası"
+      }
+    },
+    "user": {
+      "title": "Kullanıcı Yönetimi",
+      "desc": "Kullanıcı sayfası",
+      "user": {
+        "title": "Kullanıcı Yönetimi",
+        "desc": "Kullanıcı sayfası",
+        "list": "Kullanıcı Listesi",
+        "listDesc": "Kullanıcı listesi sayfası",
+        "create": "Kullanıcı Oluştur",
+        "createDesc": "Kullanıcı oluşturma sayfası"
+      }
+    },
+    "notification": {
+      "title": "Bildirim Yönetimi",
+      "notification": {
+        "title": "Bildirim Yönetimi",
+        "desc": "Bildirim sayfası",
+        "list": "Bildirim Listesi",
+        "listDesc": "Bildirim listesi sayfası",
+        "create": "Bildirim Oluştur",
+        "createDesc": "Bildirim oluşturma sayfası",
+        "update": "Bildirim Güncelle",
+        "updateDesc": "Bildirim güncelleme sayfası",
+        "delete": "Bildirim Sil",
+        "deleteDesc": "Bildirim silme sayfası"
+      },
+      "notificationHistory": {
+        "title": "Bildirim Geçmişi",
+        "desc": "Bildirim geçmişi sayfası",
+        "list": "Bildirim Geçmişi Listesi",
+        "listDesc": "Bildirim geçmişi listesi sayfası",
+        "detail": "Bildirim Geçmişi Detayı",
+        "detailDesc": "Bildirim geçmişi detayı sayfası"
+      }
+    },
+
+    "dashboard": {
+      "dashboard": "Gösterge Paneli",
+      "ecommerce": "E-Ticaret",
+      "analytic": "Analitik",
+      "project": "Proje",
+      "marketing": "Pazarlama"
+    },
+    "concepts": "Kavramlar",
+    "conceptsAi": {
+      "ai": "Yapay Zeka",
+      "chat": "Sohbet",
+      "image": "Görsel",
+      "aiDesc": "Yapay zeka araçları ve kaynakları",
+      "chatDesc": "Yapay zeka destekli sohbet sistemleri",
+      "imageDesc": "Yapay zeka görsel işleme"
+    },
+    "conceptsCustomers": {
+      "customers": "Müşteri",
+      "customerList": "Liste",
+      "customerEdit": "Düzenle",
+      "customerCreate": "Oluştur",
+      "customerDetails": "Detaylar",
+      "customersDesc": "Müşteri yönetimi",
+      "customerListDesc": "Tüm müşterilerin listesi",
+      "customerEditDesc": "Müşteri bilgilerini düzenle",
+      "customerCreateDesc": "Yeni müşteri ekle",
+      "customerDetailsDesc": "Detaylı müşteri bilgileri"
+    },
+    "conceptsProducts": {
+      "products": "Ürünler",
+      "productList": "Liste",
+      "productEdit": "Düzenle",
+      "productCreate": "Oluştur",
+      "productsDesc": "Ürün envanter yönetimi",
+      "productListDesc": "Tüm ürünler listelendi",
+      "productEditDesc": "Ürün detaylarını düzenle",
+      "productCreateDesc": "Yeni ürün ekle"
+    },
+    "conceptsProjects": {
+      "projects": "Projeler",
+      "projectList": "Liste",
+      "projectDetails": "Detaylar",
+      "projectTasks": "Görevler",
+      "projectIssue": "Sorun",
+      "scrumBoard": "Scrum Panosu",
+      "projectsDesc": "Projeleri yönet ve takip et",
+      "scrumBoardDesc": "Scrum iş akışını yönet",
+      "projectListDesc": "Tüm projeleri düzenle",
+      "projectDetailsDesc": "Proje detaylı bilgileri",
+      "projectTasksDesc": "Proje görevlerini yönet",
+      "projectIssueDesc": "Proje sorunlarını çöz"
+    },
+    "conceptsOrders": {
+      "orders": "Siparişler",
+      "orderList": "Liste",
+      "orderEdit": "Düzenle",
+      "orderDetails": "Detaylar",
+      "orderCreate": "Oluştur",
+      "ordersDesc": "Müşteri siparişleri yönetimi",
+      "orderListDesc": "Tüm müşteri siparişlerini görüntüle",
+      "orderEditDesc": "Sipariş detaylarını düzenle",
+      "orderCreateDesc": "Yeni sipariş oluştur",
+      "orderDetailsDesc": "Detaylı sipariş bilgileri"
+    },
+    "conceptsAccount": {
+      "account": "Hesap",
+      "settings": "Ayarlar",
+      "activityLog": "Aktivite günlüğü",
+      "pricing": "Fiyatlandırma",
+      "rolesPermissions": "Roller ve İzinler",
+      "accountDesc": "Hesap ayarları ve bilgileri",
+      "settingsDesc": "Ayarlarınızı yapılandırın",
+      "activityLogDesc": "Son aktiviteleri görüntüle",
+      "rolesPermissionsDesc": "Roller ve izinleri yönet",
+      "pricingDesc": "Fiyatlandırma planlarını görüntüle"
+    },
+    "conceptsHelpCenter": {
+      "helpCenter": "Yardım Merkezi",
+      "supportHub": "Destek Merkezi",
+      "article": "Makale",
+      "editArticle": "Makale Düzenle",
+      "manageArticle": "Makale Yönet",
+      "faq": "SSS",
+      "helpCenterDesc": "Destek ve makaleler",
+      "supportHubDesc": "Merkezi destek merkezi",
+      "articleDesc": "Destek makalelerini oku",
+      "editArticleDesc": "Makale içeriğini düzenle",
+      "manageArticleDesc": "Makale yönetimi"
+    },
+    "calendar": "Takvim",
+    "fileManager": "Dosya Yöneticisi",
+    "mail": "Posta",
+    "chat": "Sohbet",
+    "uiComponents": "UI Bileşenleri",
+    "calendarDesc": "Program ve etkinlikler",
+    "fileManagerDesc": "Dosya yönetimi",
+    "mailDesc": "E-postalarınızı yönetin",
+    "chatDesc": "Arkadaşlarla sohbet et",
+    "uiComponentsCommon": {
+      "common": "Genel",
+      "grid": "Izgara",
+      "button": "Buton",
+      "typography": "Tipografi",
+      "icons": "İkonlar",
+      "commonDesc": "Genel UI öğeleri",
+      "buttonDesc": "Etkileşimli butonlar",
+      "gridDesc": "Düzen ızgara sistemi",
+      "typographyDesc": "Metin stillendirme araçları",
+      "iconsDesc": "Görsel ikon seti"
+    },
+    "uiComponentsFeedback": {
+      "feedback": "Geri Bildirim",
+      "alert": "Uyarı",
+      "dialog": "İletişim Kutusu",
+      "drawer": "Çekmece",
+      "progress": "İlerleme",
+      "skeleton": "İskelet",
+      "spinner": "Döndürücü",
+      "toast": "Bildirim",
+      "feedbackDesc": "Kullanıcı geri bildirim bileşenleri",
+      "alertDesc": "Bildirim uyarıları",
+      "dialogDesc": "Modal iletişim kutuları",
+      "drawerDesc": "Kenar çekmeceleri",
+      "progressDesc": "İlerleme göstergeleri",
+      "skeletonDesc": "Yükleme iskeletleri",
+      "spinnerDesc": "Yükleme döndürücüleri",
+      "toastDesc": "Bildirim mesajları"
+    },
+    "uiComponentsDataDisplay": {
+      "dataDisplay": "Veri Gösterimi",
+      "avatar": "Avatar",
+      "badge": "Rozet",
+      "calendar": "Takvim",
+      "cards": "Kartlar",
+      "table": "Tablo",
+      "tag": "Etiket",
+      "timeline": "Zaman Çizelgesi",
+      "tooltip": "İpucu",
+      "dataDisplayDesc": "Veri gösterme bileşenleri",
+      "avatarDesc": "Kullanıcı profil resimleri",
+      "badgeDesc": "Durum göstergeleri",
+      "calendarDesc": "Tarih seçiciler",
+      "cardsDesc": "İçerik kartları",
+      "tableDesc": "Veri tabloları",
+      "tagDesc": "Etiket etiketleri",
+      "timelineDesc": "Olay zaman çizelgeleri",
+      "tooltipDesc": "Üzerine gelme ipuçları"
+    },
+    "uiComponentsForms": {
+      "forms": "Formlar",
+      "checkbox": "Onay Kutusu",
+      "datePicker": "Tarih Seçici",
+      "formControl": "Form Kontrolü",
+      "input": "Giriş",
+      "inputGroup": "Giriş Grubu",
+      "radio": "Radyo",
+      "segment": "Segment",
+      "select": "Seçim",
+      "switcher": "Anahtar",
+      "timeInput": "Zaman Girişi",
+      "upload": "Yükleme",
+      "formsDesc": "Form öğeleri",
+      "checkboxDesc": "İşaretlenebilir onay kutuları",
+      "datePickerDesc": "Tarih seç",
+      "formControlDesc": "Form kontrol öğeleri",
+      "inputDesc": "Metin girişleri",
+      "inputGroupDesc": "Gruplanmış girişler",
+      "radioDesc": "Radyo düğmeleri",
+      "segmentDesc": "Giriş segmentleri",
+      "selectDesc": "Açılır seçimler",
+      "switcherDesc": "Geçiş anahtarları",
+      "timeInputDesc": "Zaman girişleri",
+      "uploadDesc": "Dosya yükleyiciler"
+    },
+    "uiComponentsNavigation": {
+      "navigation": "Navigasyon",
+      "dropdown": "Açılır Menü",
+      "menu": "Menü",
+      "pagination": "Sayfalama",
+      "steps": "Adımlar",
+      "tabs": "Sekmeler",
+      "navigationDesc": "Navigasyon öğeleri",
+      "dropdownDesc": "Açılır menüler",
+      "menuDesc": "Menü navigasyonu",
+      "paginationDesc": "Sayfalama kontrolleri",
+      "stepsDesc": "Sıralı adımlar",
+      "tabsDesc": "Sekme navigasyonu"
+    },
+    "uiComponentsGraph": {
+      "graph": "Grafik",
+      "charts": "Grafikler",
+      "maps": "Haritalar",
+      "graphDesc": "Grafiksel öğeler",
+      "chartsDesc": "Çeşitli grafikler",
+      "mapsDesc": "Coğrafi haritalar"
+    },
+    "pages": {
+      "pages": "Sayfalar",
+      "welcome": "Hoş Geldiniz",
+      "accessDenied": "Erişim Reddedildi"
+    },
+    "authentication": {
+      "authentication": "Kimlik Doğrulama",
+      "signIn": "Giriş Yap",
+      "signInSimple": "Basit",
+      "signInSide": "Yan",
+      "signInSplit": "Bölünmüş",
+      "signUp": "Kayıt Ol",
+      "signUpSimple": "Basit",
+      "signUpSide": "Yan",
+      "signUpSplit": "Bölünmüş",
+      "forgotPassword": "Şifremi Unuttum",
+      "forgotPasswordSimple": "Basit",
+      "forgotPasswordSide": "Yan",
+      "forgotPasswordSplit": "Bölünmüş",
+      "resetPassword": "Şifre Sıfırla",
+      "resetPasswordSimple": "Basit",
+      "resetPasswordSide": "Yan",
+      "resetPasswordSplit": "Bölünmüş",
+      "otpVerification": "OTP Doğrulama",
+      "otpVerificationSimple": "Basit",
+      "otpVerificationSide": "Yan",
+      "otpVerificationSplit": "Bölünmüş"
+    },
+    "guide": {
+      "guide": "Kılavuz",
+      "documentation": "Dokümantasyon",
+      "sharedComponentDoc": "Paylaşılan Bileşen",
+      "utilsDoc": "Yardımcı Programlar",
+      "changeLog": "Değişiklik Günlüğü"
+    }
+  },
+  "enums": {
+    "language_name": "Dil",
+    "language": {
+      "en": "İngilizce",
+      "tr": "Türkçe",
+      "de": "Almanca",
+      "fr": "Fransızca",
+      "es": "İspanyolca",
+      "it": "İtalyanca",
+      "pt": "Portekizce",
+      "ru": "Rusça"
+    },
+    "gender_name": "Cinsiyet",
+    "gender": {
+      "male": "Erkek",
+      "female": "Kadın",
+      "other": "Diğer"
+    }
+  },
+  "common": {
+    "entityCreateSuccessTitle": "{{entity}} oluşturuldu",
+    "entityCreateSuccessMessage": "{{entity}} oluşturuldu",
+    "entityCreateErrorTitle": "{{entity}} oluşturulamadı",
+    "entityCreateErrorMessage": "{{entity}} oluşturulamadı",
+    "entityUpdateSuccessTitle": "{{entity}} güncellendi",
+    "entityUpdateSuccessMessage": "{{entity}} güncellendi",
+    "entityUpdateErrorTitle": "{{entity}} güncellenemedi",
+    "entityUpdateErrorMessage": "{{entity}} güncellenemedi",
+    "entityDeleteSuccessTitle": "{{entity}} silindi",
+    "entityDeleteSuccessMessage": "{{entity}} silindi",
+    "entityDeleteErrorTitle": "{{entity}} silinemedi",
+    "entityDeleteErrorMessage": "{{entity}} silinemedi",
+    "noData": "Veri yok",
+    "invalidFormFieldMessage": "Geçersiz değer",
+    "selectPlaceholder": "Bir seçenek seçin",
+    "selectGender": "Cinsiyet seçin",
+    "searchPlaceholder": "Ara...",
+    "noResultPlaceholder": "Sonuç bulunamadı",
+    "unknownError": "Bilinmeyen hata",
+    "error": "Hata",
+    "from": "Başlangıç",
+    "to": "Bitiş",
+    "apply": "Uygula",
+    "code": "Kod",
+    "name": "Ad",
+    "requiredNameMessage": "Ad zorunludur",
+    "surname": "Soyad",
+    "email": "E-posta",
+    "legalName": "Resmi Ad",
+    "website": "Web Sitesi",
+    "phone": "Telefon",
+    "invalidEmailMessage": "E-posta geçersiz",
+    "requiredEmailMessage": "E-posta zorunludur",
+    "password": "Şifre",
+    "passwordAgain": "Şifre Tekrar",
+    "invalidPasswordMessage": "Şifre geçersiz",
+    "requiredPasswordMessage": "Şifre zorunludur",
+    "invalidPasswordAgainMessage": "Şifreler eşleşmiyor",
+    "language": "Dil",
+    "selectLanguage": "Dil seçin",
+    "country": "Ülke",
+    "selectCountry": "Ülke seçin",
+    "countrySelectionIsRequired": "Lütfen bir ülke seçin",
+    "state": "Eyalet",
+    "selectState": "Eyalet seçin",
+    "stateSelectionIsRequired": "Lütfen bir eyalet seçin",
+    "city": "Şehir",
+    "selectCity": "Şehir seçin",
+    "phoneNumber": "Telefon Numarası",
+    "invalidPhoneNumberMessage": "Telefon numarası geçersiz",
+    "birthDate": "Doğum Tarihi",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "deleting": "Siliniyor...",
+    "deleteEntity": "Öğeyi Sil",
+    "deleteEntitySuccessTitle": "Başarıyla Silindi",
+    "deletedEntitySuccessfully": "Öğe başarıyla silindi",
+    "deleteEntityErrorTitle": "Silme Başarısız",
+    "deletedEntityFailed": "Öğe silinemedi",
+    "deleteEntityDescription": "Silmek istediğinizden emin misiniz",
+    "thisEntity": "bu öğeyi",
+    "loading": "Yükleniyor",
+    "createdAt": "Oluşturulma Tarihi",
+    "connectionError": "Bağlantı hatası oluştu. Lütfen daha sonra tekrar deneyin.",
+    "submit": "Gönder",
+    "title": "Başlık",
+    "description": "Açıklama",
+    "content": "İçerik",
+    "type": "Tür",
+    "quota": "Kota",
+    "lastApplicationDate": "Son Başvuru Tarihi",
+    "startDate": "Başlangıç Tarihi",
+    "duration": "Süre",
+    "participationLink": "Katılım Linki",
+    "status": "Durum",
+    "socialLinks": "Sosyal Medya Linkleri",
+    "submitting": "Gönderiliyor...",
+    "icon": "İkon",
+    "subscription": "Abonelik",
+    "create": "Oluştur",
+    "createNew": "Yeni Oluştur",
+    "preferences": "Tercihler",
+    "success": "Başarılı",
+    "successfullyCreated": "Başarıyla oluşturuldu",
+    "page": "Sayfa",
+    "reference": "Referans",
+    "url": "URL",
+    "news": "Haberler",
+    "blog": "Blog",
+    "products": "Ürünler",
+    "offers": "Teklifler",
+    "subscribe": "Abone Ol",
+    "fullName": "Tam Ad",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "source": "Kaynak",
+    "userType": "Kullanıcı Tipi",
+    "newsTopic": "Haber Konusu",
+    "blogTopic": "Blog Konusu",
+    "productTopic": "Ürün Konusu",
+    "offerTopic": "Teklif Konusu",
+    "subscribed": "Abone Olundu",
+    "notSubscribed": "Abone Olunmadı",
+    "update": "Güncelle",
+    "successfullyUpdated": "Başarıyla güncellendi",
+    "yes": "Evet",
+    "no": "Hayır",
+    "helpCenter": "Yardım Merkezi",
+    "helpCenterCategory": "Yardım Merkezi Kategorisi",
+    "translations": "Çeviriler",
+    "enterTranslation": "{{language}} çevirisini girin",
+    "selectLanguageFirst": "Önce bir dil seçin",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "x": "X",
+    "createdBy": "Oluşturan",
+    "lastUpdated": "Son Güncelleme",
+    "statusHistory": "Durum Geçmişi",
+    "note": "Not",
+    "updatedAt": "Güncellenme Tarihi",
+    "prevStatus": "Önceki Durum",
+    "newStatus": "Yeni Durum",
+    "back": "Geri",
+    "cancel": "İptal",
+    "user": "Kullanıcı",
+    "relatedUser": "İlgili Kullanıcı",
+    "today": "Bugün",
+    "last3Days": "Son 3 Gün",
+    "thisWeek": "Bu Hafta",
+    "thisMonth": "Bu Ay",
+    "pickDateRange": "Tarih aralığı seçin",
+    "dateRangePlaceholder": "Tarih aralığı seçin",
+    "reset": "Sıfırla",
+    "columns": "Sütunlar",
+    "question": "Soru",
+    "answer": "Cevap",
+    "readingTime": "Okuma Süresi",
+    "category": "Kategori"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "loginSuccess": "Başarıyla giriş yapıldı",
+    "loginFailed": "Giriş yapılamadi",
+    "backToLogin": "Girişe Dön",
+    "signIn": "Giriş Yap",
+    "signOut": "Çıkış Yap",
+    "signOutSuccess": "Başarıyla çıkış yapıldı",
+    "signOutFailed": "Çıkış yapılamadi",
+    "signUp": "Kayıt ol",
+    "signupSuccess": "Başarıyla kayıt olundu",
+    "signupFailed": "Kayıt yapılamadi",
+    "signupSuccessfulTitle": "Başarıyla kayıt olundu!",
+    "signupSuccessfulDescription": "Hesabınızı onaylamak için lütfen e-postanızı kontrol edin.",
+    "signupVerifySuccessfulDescription": "Hesabınız başarılı bir şekilde onaylandı!",
+    "forgotPassword": "Şifreni mi unuttun?",
+    "requestResetPasswordSuccess": "Şifre Sıfırlama Talebi Başarıyla Gönderildi",
+    "requestResetPasswordFailed": "Sifre sifirlama istegi basarisiz",
+    "rememberPassword": "Şifrenizi hatırladınız mı?",
+    "didNotReceiveCode": "Kodu almadınız mı?",
+    "resendCode": "Kodu tekrar gönder",
+    "confirmRegistrationFailed": "Kayit dogrulama basarisiz",
+    "confirmRegistrationSuccess": "Kayit dogrulama basarili",
+    "confirmRegistrationByUserFailed": "Kayit dogrulama basarisiz",
+    "confirmRegistrationByUserSuccess": "Kayit dogrulama basarili",
+    "resetPasswordFailed": "Şifre yenileme başarısız",
+    "resetPasswordSuccess": "Şifre yenileme başarılı",
+    "resetPasswordAfterRequestFailed": "Şifre yenileme isteği başarısız",
+    "oldPassword": "Eski Şifre",
+    "confirmPassword": "Yeni şifreyi tekrarla",
+    "confirmTwoFactorLoginFailed": "2FA hatali",
+    "twoFactVerifyTitle": "İki Faktörlü Doğrulama",
+    "twoFactVerifyDescription": "Lütfen e-postanıza gönderilen kodu girin.",
+    "resendConfirmationTitle": "Onaylama Kodunu Tekrar Gönder",
+    "resendConfirmationDescription": "Lütfen e-posta adresinizi giriniz.",
+    "resendConfirmation": "Onaylama Kodunu Gönder",
+    "goToSignIn": "Giriş Yap",
+    "invalidCode": "Kod gecersiz",
+    "somethingWentWrong": "Bir şeyler yanlış gitti!",
+    "signinText": "Hadi giriş yapalım.",
+    "emailAddress": "E-posta adresi",
+    "emailInputPlaceholder": "E-posta adresinizi girin",
+    "password": "Şifre",
+    "passwordInputPlaceholder": "Şifrenizi girin",
+    "continueWith": "veya devam et",
+    "noAccount": "Hesabınız yok mu?",
+    "logoAlt": "logo",
+    "growYourBusiness": "İşinizi Büyütmek için ",
+    "business": "Her Şey",
+    "manageYourBusiness": "İşletmenizi verimli bir şekilde yönetin, satışlarınızı artırın, potansiyel müşterilere ulaşın ve topluluğa katılarak kendinizi güçlendirin.",
+    "bgPattern": "arka plan deseni",
+    "johnDoe": "John Doe",
+    "ceoCompany": "CEO, Şirket Test",
+    "passwordResetSuccess": "Şifreniz başarıyla sıfırlandı!",
+    "resetPasswordTitle": "Şifreyi Sıfırla",
+    "enterNewPassword": "Lütfen yeni şifrenizi girin.",
+    "passwordAgain": "Şifreyi Tekrar Girin",
+    "resetPassword": "Şifreyi Sıfırla",
+    "alreadyHaveAccount": "Zaten bir hesabınız var mı?",
+    "forgotPasswordTitle": "Şifremi Unuttum",
+    "resetPasswordInstructions": "E-posta adresinizi girerek şifrenizi sıfırlayabilirsiniz.",
+    "userConfirmedSuccess": "Kullanıcı başarıyla onaylandı!",
+    "emailConfirmationTitle": "E-posta Onayı",
+    "enterOtp": "E-postanıza gönderilen OTP'yi girin.",
+    "submit": "Gönder",
+    "resendCodeTitle": "Onaylama Kodunu Tekrar Gönder",
+    "enterEmailToResend": "Onaylama kodunu almak için lütfen e-posta adresinizi girin.",
+    "email": "E-posta",
+    "close": "Kapat",
+    "send": "Gönder",
+    "letsRegister": "Sizi kaydedelim.",
+    "name": "İsim",
+    "surname": "Soyisim",
+    "iAccept": "Kabul ediyorum",
+    "and": "ve",
+    "with": "ile",
+    "termsAndConditions": "Şartlar ve Koşullar",
+    "privacyPolicy": "Gizlilik Politikası",
+    "explicitConsent": "Açık Rıza Metni",
+    "kvkkPolicy": "KVKK Aydınlatma Metni",
+    "orContinueWith": "veya devam et",
+    "createPassword": "Şifre Oluştur",
+    "createPasswordTitle": "Şifre Oluştur",
+    "resendConfirmationSuccessTitle": "E-posta onayı tekrar gönderildi!",
+    "resendConfirmationSuccessText": "E-posta onayı tekrar gönderildi. E-postanızı kontrol edin.",
+    "resendConfirmationRequiredTitle": "Onay Kodu Tekrar Gönder",
+    "resendConfirmationRequiredText": "Lütfen e-posta kutunuzu kontrol edin. Onay kodunu almadıysanız, yeni bir kod talep edebilirsiniz.",
+    "resentCodeSuccess": "Onaylama kodu tekrar gönderdi!",
+    "quote1": "En mutsuz müşterileriniz, öğrenme için en büyük kaynağınızdır.",
+    "quoteName1": "Bill Gates",
+    "quoteCompany1": "Microsoft",
+    "quoteImage1": "Bill-Gates",
+    "quote2": "Müşteri hizmetleri bir departman olmamalıdır. Tüm şirket olmalıdır.",
+    "quoteName2": "Tony Hsieh",
+    "quoteCompany2": "Zappos",
+    "quoteImage2": "Tony-Hsieh",
+    "quote3": "İşimizde var olmamızın tek nedeni, müşterilerimizin hayatını daha az zor hale getirmektir.",
+    "quoteName3": "Matthew Odgers",
+    "quoteCompany3": "Odgers Law Group",
+    "quoteImage3": "Matthew-Odgers",
+    "quote4": "Eğer müşterinize bakmıyorsanız, rakibiniz bakacaktır.",
+    "quoteName4": "Bob Hooey",
+    "quoteCompany4": "Ideaman",
+    "quoteImage4": "Bob-Hooey",
+    "quote5": "Satışta, bir referans direnç kapısının anahtarıdır.",
+    "quoteName5": "Bo Bennett",
+    "quoteCompany5": "Archieboy",
+    "quoteImage5": "Bo-Bennett",
+    "quote6": "Her zaman elinizden gelenin en iyisini yapın. Şimdi ektiğinizi, sonra biçeceksiniz.",
+    "quoteName6": "Og Mandino",
+    "quoteCompany6": "Yazar",
+    "quoteImage6": "Og-Mandino",
+    "quote7": "Birine verebileceğiniz en büyük hediyelerden biri, ona dikkatinizi vermektir.",
+    "quoteName7": "Jim Rohn",
+    "quoteCompany7": "Yazar",
+    "quoteImage7": "Jim-Rohn",
+    "quote8": "Yaptığınız işi öyle iyi yapın ki, tekrar görmek ve arkadaşlarını getirmek istesinler.",
+    "quoteName8": "Walt Disney",
+    "quoteCompany8": "Disney",
+    "quoteImage8": "Walt-Disney",
+    "acceptAllPolicies": "Lütfen tüm politikaları onaylayınız!",
+    "alreadyRegisteredError": "Hesabınız zaten kayıtlı!",
+    "userNotFoundError": "Kullanıcı bulunamadı!",
+    "proposal": "Teklif",
+    "estimate": "Tahmin",
+    "invoice": "Fatura",
+    "startDate": "Başlangıc Tarihi",
+    "expireDate": "Bitiş Tarihi",
+    "deadline": "Bitis Tarihi",
+    "proposalInformation": "Teklif Bilgileri",
+    "estimateInformation": "Tahmin Bilgileri",
+    "invoiceInformation": "Fatura Bilgileri",
+    "billTo": "Faturalanacak",
+    "bankName": "Banka Adi",
+    "country": "Ülke",
+    "iban": "IBAN",
+    "currency": "Para Birimi",
+    "productDescription": "Ürün Aciklamasi",
+    "qty": "QTY",
+    "rate": "Oran",
+    "tax": "Vergi",
+    "amount": "Tutar",
+    "projectTimeline": "Proje Zaman Çizelgesi",
+    "timeline": "Zaman Çizelgesi",
+    "accept": "Kabul Et",
+    "decline": "Reddet",
+    "download": "İndir",
+    "comments": "Yorumlar",
+    "documents": "Dökümanlar",
+    "uploadDocument": "Döküman Yükle",
+    "addDocument": "Döküman Ekle",
+    "estimateAccepted": "Tahmin kabul edildi",
+    "estimateDeclined": "Tahmin reddedildi",
+    "proposalAccepted": "Teklif kabul edildi",
+    "proposalDeclined": "Teklif reddedildi",
+    "invoiceAccepted": "Fatura kabul edildi",
+    "invoiceDeclined": "Fatura reddedildi",
+    "declineReason": "Reddetme Nedeni",
+    "declineReasonPlaceholder": "Lütfen reddetme nedeninizi giriniz.",
+    "backToHomePage": "Anasayfaya Dön",
+    "checkYourInbox": "E-postanızı kontrol edin",
+    "resetPasswordAfterSuccess1": "E-posta adresinize bir bağlantı gönderdik. Lütfen gelen kutunuzu kontrol edin.",
+    "resetPasswordAfterSuccess2": "Şifrenizi sıfırlamak için e-posta adresinize bir bağlantı göndereceğiz. Bağlantının süresi 30 dakika içinde doluyor.",
+    "signInNow": "Giriş Yap",
+    "signInSubtitle": "Kayıt ol ve işlerinizi başlatın.",
+    "signUpNow": "Kayıt Ol",
+    "signUpSubtitle": "Kayıt ol ve işlerinizi başlatın.",
+    "dontHaveAnAccount": "Hala bir hesabınız yok mu?",
+    "alreadyHaveAnAccount": "Zaten bir hesabınız var mı?",
+    "continueWithLinkedIn": "LinkedIn ile devam et",
+    "continueWithGoogle": "Google ile devam et",
+    "orSignUpWithEmail": "veya e-posta adresinizi kullanarak kayıt olun",
+    "orSignInWithEmail": "veya e-posta ile giriş yapın",
+    "welcomeToInternIF": "InternIF'e Hoşgeldiniz!",
+    "verifyYourEmail": "E-postanızı Onaylayın",
+    "confirmationIsSuccessful1": "Geleceğinizdeki bir sonraki adımı keşfetmeye başlayalım",
+    "confirmationIsSuccessful2": "Ellenrose@gmail.com adresine 6 karakterlik kod gönderdik. Kodun süresi kısa süre içinde dolacak, bu nedenle lütfen kodu kısa süre içinde girin.",
+    "confirmationIsSuccessful3": "Tebrikler! Yeni dünyanızı keşfedin.",
+    "letsGetStarted": "Hadi Başlayalım",
+    "changePassword": "Şifreyi Değiştir",
+    "changingPassword": "Şifre Değiştiriliyor",
+    "auth_nav_title": "Kimlik Doğrulama",
+    "nav_signIn": "Giriş Yap",
+    "nav_sub_signIn": "Giriş Yap",
+    "nav_signUp": "Kayıt Ol",
+    "nav_sub_signUp": "Kayıt Ol",
+    "nav_forgetPassword": "Şifremi Unuttum",
+    "nav_sub_forgetPassword": "Şifremi Unuttum",
+    "nav_resetPassword": "Şifreyi Sıfırla",
+    "nav_sub_resetPassword": "Şifreyi Sıfırla",
+    "twoFactorLoginFailed": "2FA hatasi"
+  },
+  "user": {
+    "enums": {
+      "roleType_name": "Rol Tipi",
+      "roleType": {
+        "default": "Varsayılan",
+        "organizationDefault": "Organizasyon Varsayılanı",
+        "cocrmDefault": "COCRM Varsayılanı"
+      },
+      "permissionAction_name": "İzin İşlemi",
+      "permissionAction": {
+        "read": "Okuma",
+        "create": "Oluşturma",
+        "update": "Güncelleme",
+        "delete": "Silme",
+        "manage": "Yönetme"
+      },
+      "permissionCategory_name": "İzin Kategori",
+      "permissionCategory": {
+        "admin": "Yönetici",
+        "user": "Kullanıcı",
+        "content": "İçerik",
+        "system": "Sistem"
+      }
+    },
+    "profile": "Profil",
+    "myAccount": "Hesabım",
+    "myProfile": "Profilim",
+    "profilePicture": "Profil Resmi",
+    "name": "İsim",
+    "surname": "Soyisim",
+    "birthDate": "Doğum Tarihi",
+    "gender": "Cinsiyet",
+    "update": "Güncelle",
+    "changeImage": "Resmi Değiştir",
+    "removeImage": "Resmi Kaldır",
+    "allowedImageTypes": "İzin verilen resim türleri: jpg, jpeg, png",
+    "selectImage": "Resim seçmek için tıklayın.",
+    "change": "Değiştir",
+    "updateProfileSuccess": "Profil güncellendi",
+    "updateProfileSuccessDescription": "Profil bilgileriniz başarıyla güncellendi.",
+    "updateProfilePictureSuccess": "Profil resmi güncellendi",
+    "updateProfilePictureSuccessDescription": "Profil resminiz başarıyla güncellendi.",
+    "country": "Ülke",
+    "countries": "Ülkeler",
+    "selectCountry": "Ülke Seç",
+    "city": "Şehir",
+    "cities": "Şehirler",
+    "selectCity": "Şehir Seç",
+    "phoneNumber": "Telefon Numarası",
+    "signatureImage": "İmza Resmi",
+    "noUserFound": "Kullanıcı bulunamadı",
+    "question": "Soru",
+    "answer": "Cevap",
+    "readingTime": "Okuma Süresi",
+    "createdSuccessfully": "Kullanıcı başarıyla oluşturuldu",
+    "userSearchByNamePlaceholder": "İsime göre ara",
+    "userListDateRangePlaceholder": "Tarihe göre filtrele",
+    "category": "Kategori",
+    "userCategorySearchPlaceholder": "Kategori adına göre ara",
+    "userCategoryListDateRangePlaceholder": "Tarihe göre filtrele",
+    "selectUserCategory": "Kullanıcı Kategori Seç",
+    "errorLoadingUserDetail": "Kullanıcı detayları yüklenirken hata oluştu",
+    "errorLoadingUserCategoryDetail": "Kullanıcı kategori detayları yüklenirken hata oluştu"
+  },
+  "blog": {
+    "title": "Başlık",
+    "content": "İçerik",
+    "description": "Tanım",
+    "image": "Görüntü",
+    "readingTime": "Okuma Süresi",
+    "tags": "Etiketler",
+    "references": "Referanslar",
+    "relatedVideo": "İlgili Video",
+    "nav_title": "Blog",
+    "nav_sub_blogList": "Blog Listesi",
+    "nav_sub_blogCategoryList": "Blog Kategori Listesi",
+    "nav_sub_blogTargetCategoryList": "Blog Hedef Kategori List",
+    "nav_sub_authorList": "Yazar Listesi",
+    "bio": "Bio",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "x": "X",
+    "blogTargetCategory": "Hedef Blog Kategori",
+    "blogTargetCategories": "Hedef Blog Kategoriler",
+    "createCreateBlogTargetCategory": "Hedef Kategori Oluştur",
+    "updateBlogTargetCategory": "Hedef Kategori Güncelle",
+    "deleteBlogTargetCategory": "Hedef Kategori Sil",
+    "viewBlogTargetCategory": "Hedef Kategori görüntüle",
+    "listBlogTargetCategory": "Heder Kategori Listele",
+    "selectBlogTargetCategory": "Hedef Kategori Seç",
+    "selectTags": "Etiket Seç",
+    "selectReferences": "Referans Seç",
+    "selectAuthor": "Yazar Seç",
+    "selectTargetCategory": "Hedef Kategori Seç",
+    "selectCategory": "Kategori Seç",
+    "blogCreatedSuccessfully": "Blog Oluşturma Başarılı",
+    "blogUpdatedSuccessfully": "Blog Güncelleme Başarılı",
+    "authorCreatedSuccessfully": "Yazar Oluşturma Başarılı",
+    "authorUpdatedSuccessfully": "Yazar Güncelleme Başarılı",
+    "blogCategoryCreatedSuccessfully": "Kategori Oluşturma Başarılı",
+    "blogCategoryUpdatedSuccessfully": "Kategori Güncelleme Başarılı",
+    "blogCategoryDeletedSuccessfully": "Kategori Silme Başarılı",
+    "blogTargetCategoryCreatedSuccessfully": "Hedef Kategori Oluşturma Başarılı",
+    "blogTargetCategoryUpdatedSuccessfully": "Hedef Kategori Güncelleme Başarılı",
+    "searchByNamePlaceholder": "Yazar adına göre ara",
+    "noAuthorFound": "Yazar bulunamadı",
+    "authorDetail": "Yazar Detayı",
+    "author": "Yazar",
+    "authorCreate": "Yazar Oluştur",
+    "icon": "İkon",
+    "createCategory": "Kategori Oluştur",
+    "noCategoryFound": "Kategori bulunamadı",
+    "blogCategory": "Blog Kategorisi",
+    "translatedName": "Çevrilmiş İsim",
+    "parentCategory": "Üst Kategori",
+    "targetCategory": "Hedef Kategori",
+    "searchPlaceholder": "Blog başlığına göre ara",
+    "deleteBlogCategory": "Blog Kategorisini Sil",
+    "blogCategoryDeleteDescription": "Silmek istediğinizden emin misiniz",
+    "thisBlogCategory": "Bu Blog Kategorisi",
+    "authorDeletedSuccessfully": "Yazar Silme Başarılı",
+    "deleteAuthor": "Yazarı Sil",
+    "authorDeleteDescription": "Silmek istediğinizden emin misiniz",
+    "thisAuthor": "Bu Yazar",
+    "blogDeletedSuccessfully": "Blog Silme Başarılı",
+    "deleteBlog": "Blogı Sil",
+    "blogDeleteDescription": "Silmek istediğinizden emin misiniz",
+    "thisBlog": "Bu Blog",
+    "blogTargetCategoryDeletedSuccessfully": "Hedef Kategori Silme Başarılı",
+    "blogTargetCategoryDeleteDescription": "Silmek istediğinizden emin misiniz",
+    "thisBlogTargetCategory": "Bu Hedef Kategori",
+    "blogCreateError": "Blog oluşturma başarısız",
+    "createBlogSuccess": "Blog başarıyla oluşturuldu",
+    "createBlogError": "Blog oluşturma başarısız",
+    "errorLoadingBlogDetails": "Blog detayları yüklenirken hata oluştu",
+    "errorLoadingBlogs": "Bloglar yüklenirken hata oluştu",
+    "slug": "SEO Bağlantısı",
+    "blogUpdateError": "Blog güncelleme başarısız",
+    "blogUpdateSuccess": "Blog başarıyla güncellendi",
+    "tryAgainLater": "Lütfen daha sonra tekrar deneyin",
+    "toRead": "okuma",
+    "viewed": "görüntülendi",
+    "similarBlogs": "Benzer Bloglar",
+    "clearFilters": "Filtreleri Temizle"
+  },
+  "form": {
+    "enums": {
+      "contactFormType_name": "İletişim Formu Tipi",
+      "contactFormType": {
+        "contact": "İletişim",
+        "request": "Talep",
+        "waitlist": "Kuyruk"
+      },
+      "contactFormSource_name": "İletişim Formu Kaynağı",
+      "contactFormSource": {
+        "web": "Web",
+        "leadPlus": "Lead Plus",
+        "marketing": "Pazarlama",
+        "window": "Pencere",
+        "community": "Topluluk"
+      },
+      "contactFormStatus_name": "İletişim Formu Durumu",
+      "contactFormStatus": {
+        "new": "Yeni",
+        "inProgress": "İşlemde",
+        "awaitingResponse": "Beklemede",
+        "escalated": "Yükseltilmiş",
+        "closed": "Kapalı",
+        "spam": "Spam"
+      },
+      "subscriptionFormCreateUserType_name": "Abonelik Formu Kullanıcı Tipi",
+      "subscriptionFormCreateUserType": {
+        "individual": "Bireysel",
+        "business": "Kurumsal"
+      },
+      "subscriptionFormUserType_name": "Abonelik Formu Kullanıcı Tipi",
+      "subscriptionFormUserType": {
+        "anonymous": "Gizli",
+        "individual": "Bireysel",
+        "business": "Kurumsal"
+      },
+      "subscriptionFormStatus_name": "Abonelik Formu Durumu",
+      "subscriptionFormStatus": {
+        "subscribed": "Abone",
+        "unsubscribed": "Abonelikten Çıkarıldı"
+      }
+    },
+    "contactForm": "İletişim Formu",
+    "contactFormCreate": "İletişim Formu Oluştur",
+    "contactFormCreated": "İletişim formu başarıyla gönderildi",
+    "contactFormError": "İletişim formu gönderilemedi",
+    "contactFormType": "İletişim Formu Tipi",
+    "contactFormSource": "İletişim Formu Kaynağı",
+    "contactFormDetail": "İletişim Formu Detayları",
+    "noContactFormFound": "İletişim formu bulunamadı",
+    "contactFormUpdatedSuccessfully": "İletişim formu başarıyla güncellendi",
+    "escalatedUser": "Yönlendirilen Kullanıcı",
+    "responsibleUser": "Sorumlu Kullanıcı",
+    "contactFormUpdate": "İletişim Formunu Güncelle",
+    "contactFormListSearchPlaceholder": "E-postaya göre ara",
+    "contactFormListDateRangePlaceholder": "Oluşturma tarihine göre filtrele",
+    "subscriptionForm": "Abonelik Formu",
+    "subscriptionFormCreate": "Abonelik Formu Oluştur",
+    "subscriptionFormCreated": "Abonelik formu başarıyla gönderildi",
+    "subscriptionFormError": "Abonelik formu gönderilemedi",
+    "subscriptionFormType": "Abonelik Formu Tipi",
+    "subscriptionFormSource": "Abonelik Formu Kaynağı",
+    "subscriptionFormDetail": "Abonelik Formu Detayları",
+    "noSubscriptionFormFound": "Abonelik formu bulunamadı",
+    "subscriptionFormUpdatedSuccessfully": "Abonelik formu başarıyla güncellendi",
+    "subscriptionFormUpdate": "Abonelik Formunu Güncelle",
+    "newsTopicSubscribed": "Haber Konusu",
+    "blogTopicSubscribed": "Blog Konusu",
+    "productTopicSubscribed": "Ürün Konusu",
+    "offerTopicSubscribed": "Teklif Konusu",
+    "subscriptionFormListSearchPlaceholder": "E-postaya göre ara",
+    "subscriptionFormListDateRangePlaceholder": "Oluşturma tarihine göre filtrele",
+    "sendContactForm": "İletişim Formu Gönder"
+  },
+  "webinar": {
+    "webinarCreate": "Webinar Oluştur",
+    "webinarUpdatedSuccessfully": "Webinar başarıyla güncellendi",
+    "noWebinarFound": "Webinar bulunamadı",
+    "searchByNamePlaceholder": "Webinar adına göre ara"
+  },
+  "helpCenter": {
+    "helpCenter": "Yardım Merkezi",
+    "helpCenters": "Yardım Merkezleri",
+    "create": "Yardım Merkezi Oluştur",
+    "update": "Yardım Merkezi Güncelle",
+    "delete": "Yardım Merkezi Sil",
+    "view": "Yardım Merkezi Görüntüle",
+    "list": "Yardım Merkezlerini Listele",
+    "createdSuccessfully": "Yardım Merkezi başarıyla oluşturuldu",
+    "updatedSuccessfully": "Yardım Merkezi başarıyla güncellendi",
+    "deleteConfirm": "Bu Yardım Merkezini silmek istediğinizden emin misiniz?",
+    "deletedSuccessfully": "Yardım Merkezi başarıyla silindi",
+    "category": "Kategori",
+    "targetCategory": "Hedef Kategori",
+    "language": "Dil",
+    "pleaseEnterTags": "Lütfen etiketleri girin",
+    "title": "Başlık",
+    "content": "İçerik",
+    "description": "Açıklama",
+    "tags": "Etiketler",
+    "question": "Soru",
+    "answer": "Cevap",
+    "readingTime": "Okuma Süresi",
+    "filters": "Filtreler",
+    "searchPlaceholder": "Yardım Merkezlerinde ara...",
+    "noHelpCentersFound": "Yardım Merkezi bulunamadı",
+    "status": "Durum",
+    "active": "Aktif",
+    "inactive": "Pasif",
+    "createNew": "Yeni Yardım Merkezi Oluştur",
+    "lastUpdated": "Son Güncelleme",
+    "actions": "İşlemler",
+    "selectHelpCenterCategory": "Yardım Merkezi Kategorisi Seç",
+    "helpCenterCategory": "Yardım Merkezi Kategorisi",
+    "helpCenterCategoryUpdatedSuccessfully": "Yardım Merkezi kategorisi başarıyla güncellendi",
+    "helpCenterCategoryName": "Yardım Merkezi Kategori Adı",
+    "helpCenterCategorySearchByNamePlaceholder": "Kategori adına göre ara",
+    "helpCenterSearchByQuestionPlaceholder": "Sorulara göre ara",
+    "helpCenterListDateRangePlaceholder": "Tarih aralığına göre filtrele",
+    "helpCenterCategoryCreatedSuccessfully": "Yardım Merkezi kategorisi başarıyla oluşturuldu",
+    "helpCenterUpdatedSuccessfully": "Yardım Merkezi başarıyla güncellendi",
+    "helpCenterDeletedSuccessfully": "Yardım Merkezi başarıyla silindi",
+    "helpCenterDeleteConfirm": "Bu Yardım Merkezini silmek istediğinizden emin misiniz?",
+    "helpCenterCreateSuccess": "Yardım Merkezi başarıyla oluşturuldu",
+    "helpCenterUpdateSuccess": "Yardım Merkezi başarıyla güncellendi",
+    "helpCenterDetailTitle": "Yardım Merkezi Detayları",
+    "helpCenterListTitle": "Yardım Merkezi Listesi",
+    "helpCenterCreateTitle": "Yardım Merkezi Oluştur",
+    "helpCenterUpdateTitle": "Yardım Merkezi Güncelle",
+    "helpCenterCategoryCreateTitle": "Yardım Merkezi Kategorisi Oluştur",
+    "helpCenterCategoryUpdateTitle": "Yardım Merkezi Kategorisi Güncelle",
+    "helpCenterCategoryDetailTitle": "Yardım Merkezi Kategori Detayları",
+    "helpCenterCategoryListTitle": "Yardım Merkezi Kategori Listesi",
+    "helpCenterCreateFormTitle": "Yardım Merkezi Oluşturma Formu",
+    "helpCenterUpdateFormTitle": "Yardım Merkezi Güncelleme Formu",
+    "helpCenterCategoryCreateFormTitle": "Yardım Merkezi Kategorisi Oluşturma Formu",
+    "helpCenterCategoryUpdateFormTitle": "Yardım Merkezi Kategorisi Güncelleme Formu",
+    "helpCenterDeleteDialogTitle": "Yardım Merkezi Sil",
+    "helpCenterCategoryDeleteDialogTitle": "Yardım Merkezi Kategorisi Sil",
+    "helpCenterCategorySelectorLabel": "Yardım Merkezi Kategorisi",
+    "helpCenterCategorySelectorPlaceholder": "Bir kategori seçin",
+    "helpCenterCategorySelectorNoResults": "Kategori bulunamadı",
+    "helpCenterFormQuestionLabel": "Soru",
+    "helpCenterFormAnswerLabel": "Cevap",
+    "helpCenterFormReadingTimeLabel": "Okuma Süresi",
+    "helpCenterFormSubmitButton": "Gönder",
+    "helpCenterFormCancelButton": "İptal",
+    "helpCenterFormLoadingMessage": "Yükleniyor...",
+    "helpCenterDetailQuestionLabel": "Soru",
+    "helpCenterDetailAnswerLabel": "Cevap",
+    "helpCenterDetailReadingTimeLabel": "Okuma Süresi",
+    "helpCenterDetailCategoryLabel": "Kategori",
+    "helpCenterDetailLanguageLabel": "Dil",
+    "createHelpCenter": "Yardım Merkezi Oluştur",
+    "updateHelpCenter": "Yardım Merkezi Güncelle",
+    "helpCenterDetail": "Yardım Merkezi Detayı",
+    "helpCenterDetails": "Yardım Merkezi Detayları",
+    "helpCenterList": "Yardım Merkezi Listesi",
+    "createCategory": "Kategori Oluştur",
+    "updateCategory": "Kategori Güncelle",
+    "categoryDetail": "Kategori Detayı",
+    "categoryDetails": "Kategori Detayları",
+    "categoryList": "Kategori Listesi",
+    "categoryCreatedSuccessfully": "Kategori başarıyla oluşturuldu",
+    "categoryUpdatedSuccessfully": "Kategori başarıyla güncellendi",
+    "categoryDeletedSuccessfully": "Kategori başarıyla silindi",
+    "errorLoadingHelpCenters": "Yardım Merkezleri yüklenirken hata oluştu",
+    "errorLoadingCategoryDetails": "Kategori detayları yüklenirken hata oluştu",
+    "errorLoadingHelpCenterDetails": "Yardım Merkezi detayları yüklenirken hata oluştu",
+    "noHelpCenterFound": "Yardım Merkezi bulunamadı",
+    "noCategoryFound": "Kategori bulunamadı",
+    "failedToDeleteCategory": "Kategori silinemedi",
+    "deleteCategory": "Kategori Sil",
+    "deleteCategoryConfirmation": "{{name}} kategorisini silmek istediğinizden emin misiniz?",
+    "thisCategory": "bu kategori",
+    "thisHelpCenter": "bu Yardım Merkezi"
+  },
+  "file": {
+    "imageUploadFailed": "Görsel yükleme başarısız",
+    "invalidImageType": "Geçersiz görsel türü. Lütfen geçerli bir görsel dosyası yükleyin",
+    "fileTooLarge": "Dosya çok büyük. Lütfen daha küçük bir dosya yükleyin",
+    "imageProcessingError": "Görsel işlenirken hata oluştu. Lütfen tekrar deneyin",
+    "imageUploadError": "Görsel yüklenirken hata oluştu"
+  },
+  "taskManagement": {
+    "nav_title": "Görev Yönetimi",
+    "nav_sub_taskList": "Görev Listesi",
+    "nav_sub_projectList": "Proje Listesi",
+    "tasks": "Görevler",
+    "create": "Görev Oluştur",
+    "update": "Görevi Güncelle",
+    "delete": "Görevi Sil",
+    "view": "Görevi Görüntüle",
+    "list": "Görevleri Listele",
+    "createdSuccessfully": "Görev başarıyla oluşturuldu",
+    "updatedSuccessfully": "Görev başarıyla güncellendi",
+    "deleteConfirm": "Bu görevi silmek istediğinizden emin misiniz?",
+    "deletedSuccessfully": "Görev başarıyla silindi",
+    "category": "Kategori",
+    "targetCategory": "Hedef Kategori",
+    "language": "Dil",
+    "pleaseEnterTags": "Lütfen etiketleri girin",
+    "title": "Başlık",
+    "content": "İçerik",
+    "description": "Açıklama",
+    "tags": "Etiketler",
+    "question": "Soru",
+    "answer": "Cevap",
+    "readingTime": "Okuma Süresi",
+    "filters": "Filtreler",
+    "searchPlaceholder": "SSS'larda ara...",
+    "noFaqsFound": "SSS bulunamadı",
+    "status": "Durum",
+    "active": "Aktif",
+    "inactive": "Pasif",
+    "createNew": "Yeni Görev Oluştur",
+    "lastUpdated": "Son Güncelleme",
+    "actions": "İşlemler",
+    "selectTaskCategory": "Görev Kategorisi Seç",
+    "project": "Proje",
+    "projectUpdatedSuccessfully": "Proje başarıyla güncellendi",
+    "projectName": "Proje Adı",
+    "projectSearchByNamePlaceholder": "Proje Adına Göre Ara",
+    "projectSearchByQuestionPlaceholder": "Soruya göre ara",
+    "projectDeletedSuccessfully": "Proje başarıyla silindi",
+    "taskDeleteConfirm": "Bu görevi silmek istediğinizden emin misiniz?",
+    "taskDeletedSuccessfully": "Görev başarıyla silindi",
+    "thisTask": "bu görev",
+    "taskCreateSuccess": "Görev başarıyla oluşturuldu",
+    "taskUpdateSuccess": "Görev başarıyla güncellendi",
+    "taskDetailTitle": "Görev Detayları",
+    "taskListTitle": "Görev Listesi",
+    "taskCreateTitle": "Görev Oluştur",
+    "taskUpdateTitle": "Görevi Güncelle",
+    "projectCreateTitle": "Proje Oluştur",
+    "projectUpdateTitle": "Projeyi Güncelle",
+    "projectDetailTitle": "Proje Detayları",
+    "projectListTitle": "Proje Listesi"
+  },
+  "faq": {
+    "faqListTitle": "SSS Listesi",
+    "faqCreateTitle": "SSS Oluştur",
+    "faqUpdateTitle": "SSS Güncelle",
+    "faqDetailTitle": "SSS Detayları",
+    "faqCategoryListTitle": "SSS Kategorisi Listesi",
+    "faqCategoryCreateTitle": "SSS Kategorisi Oluştur",
+    "faqCategoryUpdateTitle": "SSS Kategorisi Güncelle",
+    "faqCategoryCreatedSuccessfully": "SSS Kategorisi başarıyla oluşturuldu",
+    "faqCategoryUpdatedSuccessfully": "SSS Kategorisi başarıyla güncellendi",
+    "noFaqFound": "SSS bulunamadı",
+    "noFaqCategoryFound": "SSS Kategorisi bulunamadı",
+    "faqCategory": "SSS Kategorisi",
+    "faqCategoryDetailTitle": "SSS Kategorisi",
+    "question": "Soru",
+    "answer": "Cevap",
+    "readingTime": "Okuma Süresi",
+    "popular": "Popüler",
+    "createdSuccessfully": "SSS başarıyla oluşturuldu",
+    "updatedSuccessfully": "SSS başarıyla güncellendi",
+    "faqSearchByQuestionPlaceholder": "Sorulara göre ara",
+    "faqListDateRangePlaceholder": "Tarih aralığına göre filtrele",
+    "category": "Kategori",
+    "faqCategorySearchPlaceholder": "Kategori adına göre ara",
+    "faqCategoryListDateRangePlaceholder": "Tarih aralığına göre filtrele",
+    "selectFaqCategory": "SSS Kategorisi Seçin",
+    "errorLoadingFaqDetail": "SSS detayları yüklenirken hata oluştu",
+    "errorLoadingFaqCategoryDetail": "SSS kategori detayları yüklenirken hata oluştu"
+  },
+
+  "notification": {
+    "enums": {
+      "notificationType_name": "Bildirim Tipi",
+      "notificationType": {
+        "authentication": "Kimlik Doğrulama",
+        "user": "Kullanıcı",
+        "announcement": "Duyuru",
+        "form": "Form",
+        "alert": "Uyarı",
+        "reminder": "Hatırlatma",
+        "info": "Bilgi",
+        "custom": "Özel"
+      },
+      "notificationChannelType_name": "Bildirim Kanal Tipi",
+      "notificationChannelType": {
+        "email": "Email",
+        "sms": "SMS",
+        "push": "Push",
+        "web": "Web"
+      }
+    },
+    "notification": "Bildirim",
+    "notifications": "Bildirimler",
+    "create": "Bildirim Oluştur",
+    "createDesc": "Yeni bir bildirim oluşturun",
+    "createSuccess": "Bildirim başarıyla oluşturuldu",
+    "createError": "Bildirim oluşturulurken hata oluştu",
+    "update": "Bildirim Güncelle",
+    "updateDesc": "Bildirimi güncelleyin",
+    "updateSuccess": "Bildirim başarıyla güncellendi",
+    "updateError": "Bildirim güncellenirken hata oluştu",
+    "delete": "Bildirim Sil",
+    "deleteDesc": "Bildirimi silin",
+    "deleteSuccess": "Bildirim başarıyla silindi",
+    "deleteError": "Bildirim silinirken hata oluştu",
+    "list": "Bildirimleri Listele",
+    "listDesc": "Tüm bildirimleri listele",
+    "listSuccess": "Bildirimler başarıyla listelendi",
+    "listError": "Bildirimler listelenirken hata oluştu",
+    "listDateRangePlaceholder": "Tarih aralığına göre filtrele",
+    "channels": "Kanallar",
+    "domain": "Alan",
+    "email": "Email",
+    "sms": "SMS",
+    "push": "Push",
+    "web": "Web",
+    "createdSuccessfully": "Bildirim başarıyla oluşturuldu",
+    "notificationSearchByNamePlaceholder": "Bildirim adına göre ara",
+    "notificationListDateRangePlaceholder": "Tarih aralığına göre filtrele",
+    "category": "Kategori",
+    "selectNotificationCategory": "Bildirim Kategorisi Seç",
+    "errorLoadingNotificationDetail": "Bildirim detayları yüklenirken hata oluştu",
+    "noNotificationFound": "Bildirim bulunamadı",
+    "noNotificationHistoryFound": "Bildirim geçmişi bulunamadı",
+    "notificationHistoryDetails": "Bildirim Geçmişi Detayları",
+    "notificationHistoryDeliveryDetails": "Bildirim Geçmişi Teslimat Detayları",
+    "notificationHistoryTimestamps": "Bildirim Geçmişi Zaman Damgaları",
+    "notificationHistoryResults": "Bildirim Geçmişi Sonuçları",
+    "notificationHistoryVariables": "Bildirim Geçmişi Değişkenleri",
+    "notificationName": "Bildirim Adı",
+    "channelType": "Kanala Göre",
+    "isSentToTopic": "Konuya Gönderildi",
+    "sentTopic": "Konu",
+    "senderUser": "Gönderen Kullanıcı",
+    "sentUser": "Alıcı Kullanıcı"
+  },
+
+  "navigation": {
+    "home": "Ana Sayfa",
+    "aboutUs": "Hakkımızda",
+    "aboutUsDesc": "Dünya genelinde müşterilerimizle çalışıyoruz",
+    "contactUs": "İletişim",
+    "blog": "Blog",
+    "help": "Yardım",
+    "support": "Destek",
+    "aiSolutions": "Yapay Zeka Çözümleri",
+    "aiForBusiness": "İşletmeler İçin Yapay Zeka",
+    "aiAgents": "Yapay Zeka Ajanları",
+    "getStarted": "Başlayalım",
+    "goToDashboard": "Panele Git"
+  },
+  "subscription": {
+    "title": "Geleceği Birlikte Şekillendirelim",
+    "description": "İşletmenize özel yapay zeka çözümlerini keşfetmeye hazır mısınız? Sorularınız, işbirliği fırsatları veya demo planlamak için bizimle iletişime geçin. Dijital dönüşüm yolculuğunuzda size destek olmak için buradayız.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "subscribeButton": "Abone Ol"
+  },
+  "footer": {
+    "termsOfService": "Kullanım Koşulları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "cookiesPolicy": "Çerez Politikası",
+    "salesAgreement": "Satış Sözleşmesi",
+    "refundPolicy": "İade Politikası",
+    "links": "BAĞLANTILAR",
+    "support": "DESTEK",
+    "legal": "YASAL",
+    "faq": "SSS",
+    "language": "Dil",
+    "companyDescription": "Corede AI, yapay zeka çözümleri ile işletmenizi geleceğe taşıyan inovatif bir teknoloji platformudur.",
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "meta": {
+    "global": {
+      "title": "Corede AI",
+      "description": "İşletmeniz için yapay zeka tabanlı çözümler"
+    },
+    "pages": {
+      "home": {
+        "title": "Home METADATA",
+        "description": "Welcome to our homepage METADATA",
+        "content": "Homepage content will be placed here METADATA"
+      },
+      "aboutUs": {
+        "title": "Hakkımızda",
+        "description": "Şirketimiz, misyonumuz ve ekibimiz hakkında bilgi edinin",
+        "content": "Şirketimizin yolculuğunu keşfedin, ekibimizle tanışın ve misyon ve değerlerimiz hakkında bilgi edinin."
+      },
+      "aiForBusiness": {
+        "title": "İşletmeler İçin Yapay Zeka",
+        "description": "Kurumlar için gelişmiş yapay zeka çözümleri",
+        "content": "Yapay zeka çözümlerimizin işletme operasyonlarınızı nasıl dönüştürebileceğini ve verimliliği artırabileceğini keşfedin."
+      },
+      "aiSolutions": {
+        "title": "Yapay Zeka Çözümleri",
+        "description": "Çeşitli ihtiyaçlar için yenilikçi yapay zeka çözümleri",
+        "content": "İşletmelerin ve bireylerin çeşitli ihtiyaçlarını karşılamak için tasarlanmış yapay zeka çözümlerimizi keşfedin."
+      },
+      "aiAgents": {
+        "title": "Yapay Zeka Ajanları",
+        "description": "Canlı bir demo ile AI Ajanlarımızın sizin iş akışınıza nasıl  entegre olduğunu görün, sorularınızı uzmanlarımızla çözün.",
+        "content": "AI Ajanlarımızın sizin iş akışınıza nasıl entegre olduğunu görün, sorularınızı uzmanlarımızla çözün."
+      },
+      "contactUs": {
+        "title": "İletişim",
+        "description": "Ekibimizle iletişime geçin",
+        "content": "İletişim içeriği burada yer alacak."
+      },
+      "cookiesPolicy": {
+        "title": "Çerez Politikası",
+        "description": "Bu politikayı okuyun, çerezlerimizin nasıl kullanıldığını öğrenin.",
+        "content": "Çerez politikası içeriği burada yer alacak."
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "description": "Sorularınıza cevap bulun",
+        "content": "En yaygın sorulara yanıtlar ve daha fazla bilgi için aşağıdaki bölümü inceleyin."
+      },
+      "helpCenter": {
+        "title": "Yardım Merkezi",
+        "description": "Sorularınıza cevap bulun",
+        "content": "En yaygın sorulara yanıtlar ve daha fazla bilgi için aşağıdaki bölümü inceleyin."
+      },
+      "privacyPolicy": {
+        "title": "Gizlilik Politikası",
+        "description": "Bu politikayı okuyun, verilerinizin nasıl kullanıldığını öğrenin.",
+        "content": "Gizlilik politikası içeriği burada yer alacak."
+      },
+      "refundPolicy": {
+        "title": "İade Politikası",
+        "description": "Bu politikayı okuyun, iade haklarınızı öğrenin.",
+        "content": "İade politikası içeriği burada yer alacak."
+      },
+      "salesAgreement": {
+        "title": "Satış Sözleşmesi",
+        "description": "Bu sözleşmeyi okuyun, satış haklarınızı öğrenin.",
+        "content": "Satış sözleşmesi içeriği burada yer alacak."
+      },
+      "termsOfService": {
+        "title": "Kullanım Koşulları",
+        "description": "Bu koşulları okuyun, kullanım haklarınızı öğrenin.",
+        "content": "Kullanım koşulları içeriği burada yer alacak."
+      },
+      "blog": {
+        "title": "Blog",
+        "description": "Bu blogu okuyun, yeni haberleri ve makaleleri öğrenin.",
+        "content": "Blog içeriği burada yer alacak."
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Ana Sayfa",
+      "description": "Ana sayfamıza hoş geldiniz",
+      "content": "Ana sayfa içeriği burada yer alacak.",
+      "hero": {
+        "upperTitle": "Corede.AI'a Hoş Geldiniz",
+        "title": "Teknolojinin Geleceğiyle Tanışın",
+        "subtitle": "İşletmenizi En Son Yapay Zeka Çözümleriyle Güçlendirin",
+        "description": "Corede.AI'da, ileri düzey yapay zeka ve otomasyon çözümleriyle dijital dönüşümünüzü hızlandırıyoruz. Sağlam teknolojimiz ve uzman ekibimiz, yolun her adımında güvenilir ve yenilikçi destek sağlar.",
+        "requestDemo": "Demo Talebi",
+        "learnMore": "Daha Fazla Bilgi"
+      },
+      "aboutUs": {
+        "title": "Yenilik, Güven ve Mükemmellik",
+        "description": "Corede.AI, süreçleri optimize eden ve karar vermeyi geliştiren çözümler sunan yapay zeka teknolojisinde liderdir. Misyonumuz, veri odaklı stratejiler ve kişiselleştirilmiş yenilikler aracılığıyla işletme büyümesini desteklemektir. Deneyimli uzmanlardan oluşan ekibimiz ve güçlü geçmişimizle, her projede güvenilirlik ve profesyonellik sunuyoruz."
+      },
+      "ourSolutions": {
+        "aiAgentSolutions": {
+          "title": "Yapay Zeka Ajan Çözümleri",
+          "titlePart1": "Yapay Zeka Ajan",
+          "titlePart2": "Çözümleri",
+          "description": "Operasyonlarınızı akıllı karar desteği, dinamik veri görselleştirme ve sorunsuz otomasyon ile güçlendirin. Yapay Zeka Ajanlarımız, uygulanabilir içgörüler sağlar ve iş akışınızı kolaylaştırır."
+        },
+        "dataVisualization": {
+          "title": "Veri Görselleştirme",
+          "titlePart1": "Veri",
+          "titlePart2": "Görselleştirme",
+          "description": "Karmaşık verileri, veri görselleştirme araçlarımızla net ve uygulanabilir içgörülere dönüştürün. Sezgisel gösterge panellerimiz ve etkileşimli grafiklerimiz, modelleri ortaya çıkarmanıza, KPI'ları izlemenize ve güvenle veri odaklı kararlar almanıza yardımcı olur."
+        },
+        "messagingAutomation": {
+          "title": "Mesajlaşma Otomasyonu",
+          "titlePart1": "Mesajlaşma",
+          "titlePart2": "Otomasyonu",
+          "description": "İletişim iş akışlarınızı akıllı mesajlaşma çözümleriyle otomatikleştirin. Yapay zeka destekli platformumuz, müşteri katılımını ve operasyonel verimliliği artıran zamanında ve kişiselleştirilmiş etkileşimler sağlar."
+        },
+        "decisionSupport": {
+          "title": "Karar Desteği",
+          "titlePart1": "Karar",
+          "titlePart2": "Desteği",
+          "description": "Yapay zeka destekli analizlerimizle bilinçli kararlar alın. Karmaşık iş zorluklarını güvenle aşmanıza yardımcı olan gerçek zamanlı içgörüler, tahmine dayalı modeller ve uygulanabilir öneriler elde edin."
+        },
+        "customSolutions": {
+          "title": "Özel Çözümler",
+          "titlePart1": "Özel",
+          "titlePart2": "Çözümler",
+          "description": "İşletmenizin ihtiyaçları için özel olarak tasarlanmış çözümler. Ekibimiz, benzersiz zorluklarınızı ele alan ve rekabet avantajınızı en üst düzeye çıkaran çözümler geliştirmek ve uygulamak için sizinle yakın çalışır."
+        }
+      },
+      "whyChoose": {
+        "title": "İnovasyonda Güvenilir İş Ortağınız",
+        "features": [
+          {
+            "title": "Uzmanlık ve Deneyim",
+            "description": "Uzmanlarımız, vizyonunuzu hassasiyet ve mükemmellikle hayata geçiriyor."
+          },
+          {
+            "title": "Kişiselleştirilmiş Yaklaşım",
+            "description": "Her projede size özel yaklaşımımızla benzersiz çözümler sunuyoruz."
+          },
+          {
+            "title": "Son Teknoloji",
+            "description": "En son teknolojileri kullanarak inovasyonda öncü çözümler geliştiriyoruz."
+          },
+          {
+            "title": "Kanıtlanmış Başarı",
+            "description": "Müşterilerimizle başarı hikayelerimiz bizim en büyük referansımızdır."
+          }
+        ]
+      },
+      "testimonials": {
+        "header": {
+          "title": "Dünya genelinde önde gelen ekipler",
+          "counter": "110k"
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "subtitle": "Sorularınıza cevap bulun",
+        "description": "En yaygın sorulara yanıtlar ve daha fazla bilgi için aşağıdaki bölümü inceleyin.",
+        "questions": [
+          {
+            "question": "Corede AI'ın sunduğu temel hizmetler nelerdir?",
+            "answer": "Corede AI olarak yapay zeka ajanları, veri görselleştirme, mesajlaşma otomasyonu, karar destek sistemleri ve işletmenize özel çözümler sunuyoruz."
+          },
+          {
+            "question": "Yapay zeka çözümleriniz hangi sektörlere uygun?",
+            "answer": "Çözümlerimiz finans, sağlık, perakende, üretim, lojistik ve daha pek çok sektöre uyarlanabilir şekilde tasarlanmıştır."
+          },
+          {
+            "question": "Hizmetleriniz küçük işletmeler için uygun mu?",
+            "answer": "Evet, her ölçekteki işletme için ölçeklenebilir çözümler sunuyoruz. Küçük işletmelerin ihtiyaçlarına ve bütçelerine göre özel paketlerimiz mevcuttur."
+          },
+          {
+            "question": "Corede AI ile nasıl çalışmaya başlayabilirim?",
+            "answer": "Bizimle iletişime geçerek ücretsiz demo talebinde bulunabilir veya danışmanlarımızla bir değerlendirme toplantısı ayarlayabilirsiniz."
+          },
+          {
+            "question": "Yapay zeka çözümlerini entegre etmek ne kadar sürer?",
+            "answer": "Entegrasyon süresi, projenin karmaşıklığına ve kapsamına göre değişir. Basit çözümler birkaç hafta içinde, daha kapsamlı projeler ise 2-3 ay içinde hayata geçirilebilir."
+          },
+          {
+            "question": "Verilerimizin güvenliği nasıl sağlanıyor?",
+            "answer": "En son güvenlik protokollerini ve şifreleme teknolojilerini kullanıyor, veri gizliliği ve güvenliği konusunda uluslararası standartlara uyuyoruz."
+          }
+        ],
+        "askButtonText": "Soru Sor",
+        "showMoreText": "Daha Fazla Göster",
+        "hideText": "Gizle",
+        "noQuestionsFound": "Henüz soru bulunmamaktadır.",
+        "askYourOwnQuestion": "Kendi sorunuzu sorun?",
+        "typeYourQuestion": "Sorunuzu buraya yazın...",
+        "cancel": "İptal",
+        "submit": "Gönder",
+        "viewQuestions": "Soruları Görüntüle",
+        "back": "Geri"
+      }
+    },
+    "aboutUs": {
+      "title": "Hakkımızda",
+      "description": "Şirketimiz ve misyonumuz hakkında daha fazla bilgi edinin",
+      "learnMore": "Daha Fazla Bilgi",
+      "ourMission": {
+        "title": "Misyonumuz",
+        "description1": "Lorem ipsum dolor sit amet consectetur. Consectetur nulla mattis ut ut purus. Velit blandit diam varius elementum leo non cursus ut nunc. Morbi sapien quis tellus a. Cursus penatibus euismod suspendisse dui tellus maecenas egestas mi porttitor. Sit tempor suspendisse fusce tortor facilisis condimentum pharetra.",
+        "description2": "Mi viverra eu quis a tempor diam proin at mattis. Erat neque fringilla lacus velit ultricies fringilla integer amet. Ante pretium est varius egestas elementum malesuada in volutpat. Dolor fringilla lectus arcu sed. Elementum et facilisis at congue tellus ut. Eget enim duis accumsan risus at."
+      },
+      "companyHistory": {
+        "title": "Şirket Tarihi",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod.",
+        "title-1": "Lorem ipsum nunc",
+        "title-2": "Lorem ipsum nunc",
+        "title-3": "Lorem ipsum nunc",
+        "title-4": "Lorem ipsum nunc",
+        "content-1": "Lorem ipsum dolor sit amet consectetur. Adipiscing eu magna sit vitae eget nulla in gravida. Vestibulum magna et fermentum tempor diam. Duis amet arcu pellentesque.",
+        "content-2": "Lorem ipsum dolor sit amet consectetur. Egestas lectus et odio lectus lobortis et enim. Viverra massa iaculis dis id egestas fermentum fringilla urna. Pharetra scelerisque neque erat lacus at  urna. Elementum sociis hac proin ut aliquet aliquet faucibus felis. Orci porta ut est aliquam viverra orci donec nunc eu. Mauris volutpat vel dignissim pellentesque sociis velit faucibus. Vulputate commodo.",
+        "content-3": "Lorem ipsum dolor sit amet consectetur. Rhoncus in nascetur auctor  euismod ultricies ut tortor. Sagittis sed vitae arcu in ornare  posuere vel consectetur ut. Morbi dignissim consectetur quisque  amet. Sit faucibus adipiscing neque neque justo ut. Donec odio sed  neque semper aliquam tortor malesuada. Ut odio egestas diam et vitae  mauris cras urna. Donec venenatis sodales pellentesque aliquam donec  amet vel posuere. Tortor ac montes ut ac nam dolor urna. Lacus augue  ac sed a ornare morbi arcu feugiat aliquam. Ipsum mauris egestas  euismod convallis ac enim dictum.",
+        "content-4": "Lorem ipsum dolor sit amet consectetur. Pellentesque risus porttitor  lobortis in. Enim adipiscing eu tempus nunc vitae. Donec scelerisque  cursus vitae sit. Nec arcu dignissim neque integer elit.  Pellentesque ut pulvinar porta vel. Arcu a eu fringilla luctus vitae  dignissim at sed pellentesque. Gravida rhoncus eget nisl potenti  fringilla morbi. Ut quisque sagittis diam varius aenean. Sed vel  congue nec et euismod commodo aliquam placerat id. Venenatis nec  lectus tincidunt ornare sollicitudin justo accumsan nec in. Quis  ornare luctus dignissim integer et varius nunc. Feugiat quisque  faucibus dignissim id fermentum id sit diam. Sed in orci integer  urna posuere venenatis. In neque nec."
+      },
+      "theTeam": {
+        "title": "Ekip",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      },
+      "mediaPress": {
+        "title": "Medya & Basın",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      }
+    },
+    "blog": {
+      "hero": {
+        "title": "Corede Blog",
+        "description": "Lorem ipsum dolor sit amet consectetur. Etiam ut ullamcorper ipsum in. Eget consequat aliquet faucibus tortor auctor lectus consequat. Eget at euismod sollicitudin cras sapien."
+      },
+      "filteredPosts": {
+        "allPosts": "Tüm Yazılar",
+        "noPosts": "Bu kategori içinde yazı bulunamadı."
+      },
+      "editorsChoice": {
+        "title": "Editörün Seçtikleri"
+      },
+      "allBlogs": {
+        "title": "Tüm Bloglar",
+        "viewAll": "Tümünü Görüntüle"
+      },
+      "categories": {
+        "title": "Kategoriler",
+        "noCategories": "Kategori bulunamadı."
+      },
+      "popularBlogs": {
+        "title": "Popüler Bloglar"
+      }
+    },
+    "contactUs": {
+      "title": "İletişim",
+      "description": "Ekibimizle iletişime geçin",
+      "content": "İletişim içeriği burada yer alacak.",
+      "hero": {
+        "title": "İletişim",
+        "description": "Herhangi bir soru veya endişeniz varsa lütfen bizimle iletişime geçmekten çekinmeyin.",
+        "button": "İletişim"
+      },
+      "form": {
+        "fullName": "İsim Soyisim",
+        "fullNamePlaceholder": "Adınız Soyadınız",
+        "email": "E-posta Adresi",
+        "emailPlaceholder": "ornek@email.com",
+        "subject": "Konu",
+        "subjectPlaceholder": "Mesajınızın konusu",
+        "message": "Mesaj",
+        "messagePlaceholder": "Bize iletmek istediğiniz mesajı yazın...",
+        "submit": "Mesajı Gönder",
+        "submitting": "Gönderiliyor...",
+        "successMessage": "Formunuz başarıyla gönderildi. En kısa sürede sizinle iletişime geçeceğiz."
+      },
+      "contactInfo": {
+        "email": {
+          "label": "E-posta",
+          "value": "info@example.com"
+        },
+        "phone": {
+          "label": "Telefon",
+          "value": "+90 212 123 45 67"
+        },
+        "address": {
+          "label": "Adres",
+          "value": "İstanbul, Türkiye"
+        }
+      }
+    },
+    "help": {
+      "title": "Yardım",
+      "description": "Sorularınız için yardım ve destek bulun",
+      "content": "Yardım içeriği burada yer alacak."
+    },
+    "support": {
+      "title": "Destek",
+      "description": "Hizmetlerimiz için destek alın",
+      "content": "Destek içeriği burada yer alacak."
+    },
+    "termsOfService": {
+      "title": "Kullanım Koşulları",
+      "description": "Kullanım koşullarımızı okuyun",
+      "content": "Kullanım koşulları içeriği burada yer alacak."
+    },
+    "privacyPolicy": {
+      "title": "Gizlilik Politikası",
+      "description": "Gizlilik politikamızı okuyun",
+      "content": "Gizlilik politikası içeriği burada yer alacak."
+    },
+    "cookiesPolicy": {
+      "title": "Çerez Politikası",
+      "description": "Çerez politikamızı okuyun",
+      "content": "Çerez politikası içeriği burada yer alacak."
+    },
+    "salesAgreement": {
+      "title": "Satış Sözleşmesi",
+      "description": "Satış sözleşmemizi okuyun",
+      "content": "Satış sözleşmesi içeriği burada yer alacak."
+    },
+    "refundPolicy": {
+      "title": "İade Politikası",
+      "description": "İade politikamızı okuyun",
+      "content": "İade politikası içeriği burada yer alacak."
+    },
+    "faq": {
+      "frequentlyAskedQuestions": "Sıkça Sorulan Sorular",
+      "generalQuestions": "Genel Sorular",
+      "pricing": "Fiyatlandırma",
+      "technicalQuestions": "Teknik Sorular",
+      "security": "Güvenlik",
+      "hero": {
+        "title": "Sıkça Sorulan Sorular",
+        "description": "Lorem ipsum dolor sit amet consectetur. Amet eget gravida amet amet  facilisis ullamcorper vitae id consequat. Faucibus dolor diam nulla  mauris. Eleifend turpis eu amet tincidunt.",
+        "button": "Sorulara Git"
+      }
+    },
+    "helpCenter": {
+      "hero": {
+        "title": "Sıkça Sorulan Sorular",
+        "description": "İhtiyacınız olan tüm bilgileri kategorilere göre düzenlenmiş şekilde  bulabilirsiniz. Aşağıdan ilgili konuyu seçerek başlayabilirsiniz.",
+        "button": "Kategorilere Git"
+      }
+    },
+    "aiAgents": {
+      "title": "Yapay Zeka Ajanları",
+      "hero": {
+        "title": "COREDE.AI ile Süreçlerinizi Hemen Otomatikleştirin",
+        "description": "Canlı bir demo ile AI Ajanlarımızın sizin iş akışınıza nasıl entegre olduğunu görün, sorularınızı uzmanlarımızla çözün.",
+        "requestDemoButton": "Ücretsiz Demo Talep Et"
+      },
+      "overview": {
+        "title": "Genel Bakış ve Faydaları",
+        "description": "COREDE.AI \"AI Agents\" çözümleri, işletmenizin kritik iş süreçlerini otomatikleştirerek operasyonel maliyetleri, karar alma hızını ve ekip verimliliğini bir arada iyileştirir.",
+        "statistics": {
+          "processAcceleration": {
+            "label": "Süreç Hızlanması"
+          },
+          "costSaving": {
+            "label": "Maliyet Tasarrufu"
+          },
+          "infrastructure": {
+            "label": "Çalışılabilir Altyapı Hizmeti"
+          }
+        }
+      },
+      "contentAutomation": {
+        "title": "İçerik Otomasyonu",
+        "feature1Title": "İçerik Üretimi:",
+        "feature1Description": "Önceden tanımlı şablon ve tonlama ile nokta atışı makale, post veya e-posta gövdesi üretimi sağlar.",
+        "feature2Title": "Kürasyon & Özetleme:",
+        "feature2Description": "Uzun metinleri analiz edip özetler, en alakalı bölümleri seçip yeniden düzenler.",
+        "feature3Title": "Dil ve Stil Ayarı:",
+        "feature3Description": "Hedef kitleye göre dil seviyesi, yapı ve anahtar kelime stratejisi otomatik uyumu oluşturur.",
+        "feature4Title": "SEO Entegrasyonu:",
+        "feature4Description": "Anahtar kelime önerisi ve başlık optimizasyonu ile arama görünürlüğünü artırır.",
+        "description": "Otomatik içerik üretimi ve kürasyonu yaparak; blog yazılarından sosyal medya paylaşımlarına, ürün açıklamalarından haber bültenlerine kadar tüm metin bazlı çıktıları yapay zekâ destekli olarak oluşturur ve optimize eder."
+      },
+      "messagingAutomation": {
+        "title": "Mesajlaşma Otomasyonu",
+        "description": "E-posta, chat ve sosyal medya mesajlaşma kanallarında 7/24 otomatik yanıt ve etkileşim sağlayan akıllı botlar.",
+        "feature1Title": "Chat Bots:",
+        "feature1Description": "Web sitenizde gerçek zamanlı kullanıcı sohbeti; sık sorulan soruları anında yanıtlar.",
+        "feature2Title": "Mail Bots:",
+        "feature2Description": "Kişiselleştirilmiş e-posta akışları; tetikleyici olaylara göre follow-up oluşturur.",
+        "feature3Title": "Çoklu Kanal Desteği:",
+        "feature3Description": "WhatsApp, Messenger, Telegram gibi platformlarla entegre, tek panelden yönetim sağlar.",
+        "feature4Title": "Analitik & Raporlama:",
+        "feature4Description": "Cevap oranları, memnuniyet skorları ve en sık gündeme gelen konular hakkında geri bildirim almanıza yardımcı olur."
+      },
+      "voiceAutomation": {
+        "title": "Ses Otomasyonu",
+        "description": "Müşteri aramalarını karşılayan ve yönlendiren IVR sistemleri ile konuşma tabanlı asistanlar; çağrı hacmini hafifletir ve self-servis oranını yükseltir.",
+        "feature1Title": "Voice Assistants:",
+        "feature1Description": "Doğal dil işleme (NLP) ile sesli komut algılama ve yanıt üretme desteği sağlar.",
+        "feature2Title": "IVR Sistemleri:",
+        "feature2Description": "Çok katmanlı menü ve konuşma bazlı yönlendirme, gerektiğinde canlı operatöre aktarma sağlar.",
+        "feature3Title": "Sesli Analiz & Duygu Tespiti:",
+        "feature3Description": "Konuşma akışındaki duygu durumunu analiz ederek kritik çağrıları işaretler.",
+        "feature4Title": "Otomatik Kayıt & Transkript:",
+        "feature4Description": "Çağrı kayıtlarını metne dönüştürerek arama analitiği oluşturur."
+      },
+      "whyAiAgents": {
+        "title": "Neden Yapay Zeka Ajanları?",
+        "feature1": "Kesintisiz Çalışma: 7×24 canlı destek gerektirmeden işlerinizi sürdürür.",
+        "feature2": "Esnek Entegrasyon: Mevcut CRM, ERP veya veri ambarı altyapınıza kolayca bağlanır.",
+        "feature3": "Ölçeklenebilirlik: İhtiyaca göre hızla yeni ajanlar ekleyip iş yükünü dağıtabilir.",
+        "aiDecisionAgents": {
+          "title": "AI Karar Verme Ajanları",
+          "description": "Karmaşık karar süreçlerinizi, verileriniz ışığında otomatik algılayıp öneri ve yönlendirmeler sunan akıllı ajanlardır.",
+          "bullet1": "İnsan hatalarını minimize eder.",
+          "bullet2": "Karar alma döngüsünü %40'a kadar kısaltır.",
+          "bullet3": "Sürekli öğrenme ile zamanla performansı iyileştirir."
+        },
+        "dataVisualization": {
+          "title": "Veri Görselleştirme",
+          "description": "İş zekâsı verilerinizi etkileşimli grafikler ve dashboard'larla bir araya getirerek tüm paydaşların anlık durumu kolayca izlemesini sağlar.",
+          "bullet1": "Karar süreçlerinde bilgi eksikliğini ortadan kaldırır.",
+          "bullet2": "Kritik göstergelerde %50'ye varan görünürlük artışı sunar."
+        }
+      },
+      "getOffer": {
+        "headline": "TEKLİF ALIN",
+        "title": "Projeniz İçin Hemen Teklif Alın",
+        "description": "Kısa bir form doldurarak, işin kapsamına ve ölçeğinize uygun ayrıntılı teklifimize hemen ulaşın.",
+        "requestOfferButton": "Teklif Talep Et",
+        "faqButton": "Sık Sorulan Sorular"
+      },
+      "featuredSectors": {
+        "title": "Öne Çıkan Sektörler",
+        "section-1": "Araç Bakım Süreci",
+        "section-1-description": "Araç bakım sürecinin otomatik planlanması ve stok yönetimi sistemi, sensör verilerinden gerçek zamanlı arıza tahmini yaparak olası sorunları önceden tespit eder, yedek parça ihtiyaç analizleriyle gerekli siparişleri otomatik olarak oluşturur ve servis randevularını planlayarak bakım süreçlerini kesintisiz yönetir. Bu sayede arıza kaynaklı duruş süreleri %35 oranında azaltılırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-2": "E-Ticaret",
+        "section-2-description": "E-ticaret süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-3": "Finans",
+        "section-3-description": "Finansal süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-4": "Üretim",
+        "section-4-description": "Üretim süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-5": "Lojistik",
+        "section-5-description": "Lojistik süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-6": "Perakende",
+        "section-6-description": "Perakende süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-7": "Telekomünikasyon",
+        "section-7-description": "Telekomünikasyon süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-8": "Eğitim",
+        "section-8-description": "Eğitim süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır.",
+        "section-9": "Otomotiv",
+        "section-9-description": "Otomotiv süreçlerinin otomatik planlanması ve stok yönetimi sistemi, AI-driven analytics ile müşteri ihtiyaçlarını anlayarak, en uygun ürün ve hizmetlere yönlendirir. Bu sayede müşteri memnuniyetini %30'a kadar artırırken, stok fazlalığına bağlı maliyetlerde %20'lik bir düşüş sağlanır."
+      }
+    },
+    "aiSolutions": {
+      "hero": {
+        "title": "Ölçeklenebilir, zeka odaklı yazılımlar; hassasiyet ve ölçülebilir etkiyle sunulur.",
+        "description": "",
+        "button-1": "Demo İsteyin",
+        "button-2": "Projeyi Görüşelim",
+        "statistics": {
+          "statistic-1": "Ortalama Lansman Süresi Azaltıldı",
+          "statistic-2": "Bulut Kullanılabilirliği",
+          "statistic-3": "2. Tip Uyumlu"
+        }
+      },
+      "whyAiPowered": {
+        "title": "Neden \"AI‑Powered\"?",
+        "description": "Yapay zekâ yalnızca son ürüne eklenen bir özellik değildir; geliştirme hattımızın bizzat kendisinde çalışır. Corede.AI, yazılım yaşam döngüsünün her adımında büyük dil modelleri ve öngörücü analitiği kullanır:",
+        "list-1": "AI Eş‑Kodlama: GPT destekli çift pilotla kod satırlarının ortalama %30’u otomatik üretilir; kod incelemesinde yakalanan hata sayısı %25 azalır.",
+        "list-2": "Otomatik Test & Güvenlik: Model tabanlı test vaka üretimi, dinamik CVE taraması ve anında düzeltme önerileri sayesinde sürüm kalitesi artar.",
+        "list-3": "Sprint Optimizasyonu: Backlog önceliklendirmesini tahmin modellerine emanet ederek ekip odağını stratejik inovasyona kaydırır.",
+        "feature-1": "Daha Hızlı İterasyon",
+        "feature-2": "Daha Düşük Teknik Borç ",
+        "feature-3": "Pazara Girişte Kısalma"
+      },
+      "aiPoweredSolutions": {
+        "title": "AI‑Powered Yazılım Geliştirme Çözümleri",
+        "section-1-title": "Web Çözümleri",
+        "section-1-description": "Ölçeklenebilir özel web uygulamaları, mikroservis mimarisi ve LLM destekli içerikle güçlendirilir. Etkileşimli panolar, gerçek zamanlı analiz ve Slack/Teams entegrasyonlarıyla hızlı karar desteği sunar. Açılış sayfaları, statik üretim ve edge önbellekleme ile <1s LCP ve yüksek SEO uyumu sağlar. AI destekli arayüzler, doğal dil navigasyonu ve kişiselleştirilmiş içerikle tam erişilebilirlik sunar.",
+        "section-2-title": "Mobil Uygulama Çözümleri",
+        "section-2-description": "Swift ve Kotlin ile yerel mobil uygulamalar, cihaz içi ML sayesinde düşük gecikme ve çevrimdışı çalışır. React Native veya Flutter ile geliştirilen çapraz platform uygulamalar, paylaşımlı AI SDK ile iOS ve Android'de birlikte öğrenir.",
+        "section-3-title": "E-Ticaret Çözümleri",
+        "section-3-description": "Akıllı çevrimiçi mağazalar, dinamik fiyatlama, stok tahmini ve çok kanallı POS entegrasyonuyla kârlılığı artırır. Kişiselleştirilmiş alışveriş deneyimi, görsel arama, anlık öneriler ve GPT destekli segmentasyonla güçlendirilir."
+      },
+      "whyChoose": {
+        "title": "Bizi Farklı Kılan Unsurlar",
+        "feature-1": "Radikal Profesyonellik",
+        "feature-2": "Zamana Odaklı Teslimat",
+        "feature-3": "Tamamlanmış Ürün Yaklaşımı",
+        "description-1": "Kıdemli mühendis ve sertifikalı AI mimar kadrosu; tanımlı SLA ve haftalık ilerleme raporları",
+        "description-2": "Kullanıcılarınızın ihtiyaçlarına uygun, ölçeklenebilir ve güvenli çözümler",
+        "description-3": "Ürünün tamamlanmasına kadar süreç boyunca alınan sürekli geri bildirimler"
+      },
+      "successStories": {
+        "title": "Başarı Öyküleri",
+        "story-1": "TalentPulse (HR Tech) – AI tabanlı özgeçmiş tarama ve otomatik görüşme planlama ile işe alım süresi 35 günden 19 güne indi; aday memnuniyeti %94’e yükseldi.",
+        "story-2": "BrightLearn (EdTech) – Uyarlanabilir öğrenme motoru sayesinde kurs tamamlama oranı %65’ten %92’ye çıktı; eğitmen geri bildirim süresi yarıya indi.",
+        "story-3": "PeopleFirst Consulting (HR Analytics) – Öngörücü işten ayrılma panoları ile yıllık personel devir oranında %17 azalma sağlandı.",
+        "moreStory": "Daha Fazla Örnek İçin"
+      },
+      "technologiesUsed": {
+        "title": "Kullanılan Teknolojiler",
+        "description": "Corede.AI, yapay zekâ yazılımı geliştirme sürecinde en iyi uygulamaları kullanır. Bu sayede, müşterilerimizin yazılım geliştirme süreçlerini optimize edebilirler.",
+        "feature-1": "Programlama Dilleri",
+        "description-1": "TypeScript, Python, Kotlin, Swift",
+        "feature-2": "Web Çatısı",
+        "description-2": "React, Next.js, FastAPI",
+        "feature-3": "Mobil Çatısı",
+        "description-3": "React Native, Flutter",
+        "feature-4": "Bulut & DevOps",
+        "description-4": "AWS (EKS, Lambda), Azure DevOps, Docker, Kubernetes",
+        "feature-5": "Veri & AI",
+        "description-5": "PostgreSQL, Redis, Apache Kafka, OpenAI GPT‑4o, Hugging Face",
+        "feature-6": "Güvenlik & Uyumluluk",
+        "description-6": "OAuth 2.0, OpenID Connect, SOC 2, GDPR Consent SDK"
+      }
+    },
+    "aiForBusiness": {
+      "hero": {
+        "title": "Şirketinizi yapay zekâ ile güçlendirin: Strateji, eğitim ve otomasyon çözümleri tek bir sayfada.",
+        "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in.",
+        "button-1": "Demo Talep Et",
+        "button-2": "Teklif İste"
+      },
+      "ourSolutions": {
+        "slide-1": {
+          "title": "Atölye Çalışmaları / Workshops",
+          "titlePart1": "Atölçe Çalışmaları",
+          "titlePart2": "Workshops",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        },
+        "slide-2": {
+          "title": "Standart Seminerler",
+          "titlePart1": "Standart",
+          "titlePart2": "Seminerler",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        },
+        "slide-3": {
+          "title": "Özel Seminerler",
+          "titlePart1": "Özel",
+          "titlePart2": "Seminerler",
+          "description": "Lorem ipsum dolor sit amet consectetur. Sed enim nec sed adipiscing. Egestas purus mauris maecenas ac quis tellus. At consequat in consequat hac ut. Felis interdum elementum aliquam in."
+        }
+      },
+      "aiTransformation": {
+        "title": "AI Dönüşüm Danışmanlığı",
+        "section-1": {
+          "title": "Strateji & Uygulama",
+          "item-1": "AI Readiness Assessment: Dijital olgunluk, veri altyapısı ve yetkinlik analizi.",
+          "item-2": "Yol Haritası: Hedef OKR/KPI seti, PoC → MVP → kurumsal yayılım planı.",
+          "item-3": "Uygulama Yönetimi: Çevik proje yönetimi, değişim yönetimi ve ROI izleme."
+        },
+        "section-2": {
+          "title": "İş Süreçleri Otomasyonu",
+          "item-1": "RPA + LLM destekli karar motorları ile uçtan uca otomasyon.",
+          "item-2": "ERP/CRM entegrasyon konnektörleri (SAP, Salesforce, MS Dynamics).",
+          "item-3": "Gerçek‑zamanlı performans izleme panoları ve uyarı sistemi."
+        },
+        "section-3": {
+          "title": "Eğitim & Destek",
+          "item-1": "Kurumsal AI Centre of Excellence kurulumu.",
+          "item-2": "LMS tabanlı sürekli eğitim, sertifika programları.",
+          "item-3": "Teknik hesap yöneticisi ve 7/24 destek hattı."
+        }
+      },
+      "successStories": {
+        "title": "Başarı Öyküleri",
+        "story-1": {
+          "title": "Perakende Sektörü",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Augue interdum commodo massa urna nisl.",
+          "description": "Talep tahminindeki isabetsizlik, stok yönetiminde zorluklara yol açıyordu. Bu soruna çözüm olarak, LLM tabanlı bir stok öngörü modeli geliştirilmiş ve bu model sayesinde envanter maliyetlerinde %18 azalma sağlanmıştır."
+        },
+        "story-2": {
+          "title": "Finans Sektörü",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Augue interdum commodo massa urna nisl.",
+          "description": "Talep tahminindeki isabetsizlik, stok yönetiminde zorluklara yol açıyordu. Bu soruna çözüm olarak, LLM tabanlı bir stok öngörü modeli geliştirilmiş ve bu model sayesinde envanter maliyetlerinde %18 azalma sağlanmıştır."
+        },
+        "story-3": {
+          "title": "Lojistik Sektörü",
+          "content": "Lorem ipsum dolor sit amet consect. Dignissim et egestas consectetur vitae sollicitudin. Massa neque at augue in. Augue interdum commodo massa urna nisl.",
+          "description": "Talep tahminindeki isabetsizlik, stok yönetiminde zorluklara yol açıyordu. Bu soruna çözüm olarak, LLM tabanlı bir stok öngörü modeli geliştirilmiş ve bu model sayesinde envanter maliyetlerinde %18 azalma sağlanmıştır."
+        }
+      }
+    }
+  },
+  "menu": {
+    "aiAgents": {
+      "overviewAndBenefits": {
+        "title": "Genel Bakış ve Faydaları",
+        "descriptions": {
+          "description1": "AI Karar Verme Ajanları",
+          "description2": "Veri Görselleştirme"
+        }
+      },
+      "messagingAutomation": {
+        "title": "Mesajlaşma Otomasyonu",
+        "descriptions": {
+          "description1": "Chatbots",
+          "description2": "Mail Otomasyonu"
+        }
+      },
+      "voiceAutomation": {
+        "title": "Ses Otomasyonu",
+        "descriptions": {
+          "description1": "Sesli Asistanlar",
+          "description2": "IVR Sistemleri"
+        }
+      },
+      "contentAutomation": {
+        "title": "İçerik Otomasyonu",
+        "descriptions": {
+          "description1": "İçerik Oluşturma",
+          "description2": "İçerik Düzenleme"
+        }
+      },
+      "industryDemos": {
+        "title": "Endüstri Demo'ları",
+        "descriptions": {
+          "description1": "Sağlık",
+          "description2": "E-ticaret",
+          "description3": "Finans",
+          "description4": "Üretim",
+          "description5": "Lojistik",
+          "description6": "Perakende",
+          "description7": "Telekomünikasyon",
+          "description8": "Eğitim",
+          "description9": "Otomotiv"
+        }
+      }
+    },
+    "aiForBusiness": {
+      "seminars": {
+        "title": "Seminars",
+        "descriptions": {
+          "description1": "Standart Seminerler",
+          "description2": "Özel Seminerler",
+          "description3": "Workshop'lar"
+        }
+      },
+      "processAutomation": {
+        "title": "İş Süreçleri Otomasyonu",
+        "descriptions": {
+          "workflowAutomation": "İş akışı otomasyonu",
+          "businessProcesses": "İş süreçleri optimizasyonu"
+        }
+      },
+      "aiTransformationConsultancy": {
+        "title": "AI Dönüşüm Danışmanlığı",
+        "descriptions": {
+          "description1": "Strateji & Uygulama",
+          "description2": "İş Süreci Otomasyonu",
+          "description3": "Eğitim & Destek"
+        }
+      },
+      "caseStudies": {
+        "title": "Vaka Çalışmaları"
+      },
+      "predictiveAnalytics": {
+        "title": "Öngörüsel Analitik",
+        "descriptions": {
+          "forecasting": "İşletme tahmini",
+          "trendAnalysis": "Trend analizi"
+        }
+      },
+      "workflowAutomation": {
+        "title": "İş Akışı Otomasyonu",
+        "descriptions": {
+          "processOptimization": "Süreç optimizasyonu",
+          "automatedWorkflows": "Otomatikleştirilmiş iş akışları"
+        }
+      }
+    },
+    "aiSolutions": {
+      "webSolutions": {
+        "title": "Web Çözümleri",
+        "descriptions": {
+          "description1": "Özel Web Uygulamaları",
+          "description2": "Dashboard Geliştirme",
+          "description3": "Hızlı Landing Sayfaları",
+          "description4": "Yapay Zeka İyileştirilmiş UI"
+        }
+      },
+      "eCommerceSolutions": {
+        "title": "E-Ticaret Çözümleri",
+        "descriptions": {
+          "description1": "AI Destekli Çevrimiçi Mağazalar",
+          "description2": "Kişiselleştirilmiş Alışveriş Deneyimleri"
+        }
+      },
+      "mobileAppSolutions": {
+        "title": "Mobile App Solutions",
+        "descriptions": {
+          "description1": "Native Mobil Uygulamalar",
+          "description2": "Çapraz Platform Mobil Uygulamalar"
+        }
+      }
+    }
+  }
+}

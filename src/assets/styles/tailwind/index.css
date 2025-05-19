@@ -1,0 +1,156 @@
+@import 'tailwindcss';
+
+@config '../../../../tailwind.config.ts';
+
+@layer theme {
+	:root {
+		--neutral: #ffffff;
+		--primary: #00E5FF;
+		--primary-deep: #0087B7;
+		--primary-mild: #66FFF5;
+		--primary-subtle: #00E5FF1a;
+		--secondary: #8A2BE2;
+		--secondary-deep: #5015A2;
+		--secondary-mild: #C97EF6;
+		--secondary-subtle: #8A2BE21a;
+		--tertiary: #FF007F;
+		--tertiary-deep: #B70080;
+		--tertiary-mild: #FF6693;
+		--tertiary-subtle: #FF007F1a;
+		--error: #ff6a55;
+		--error-subtle: #ff6a551a;
+		--success: #10b981;
+		--success-subtle: #05eb7624;
+		--info: #2a85ff;
+		--info-subtle: #2a85ff1a;
+		--warning: #f59e0b;
+		--warning-subtle: #ffd40045;
+		--gray-50: #fafafa;
+		--gray-100: #f5f5f5;
+		--gray-200: #e5e5e5;
+		--gray-300: #d4d4d4;
+		--gray-400: #a3a3a3;
+		--gray-500: #737373;
+		--gray-600: #525252;
+		--gray-700: #404040;
+		--gray-800: #262626;
+		--gray-900: #171717;
+		--gray-950: #0a0a0a;
+		--bg-light: #f5f5f5;
+		--bg-dark: #06061B;
+	}
+
+	.dark {
+		--neutral: #ffffff;
+		--primary: #00E5FF;
+		--primary-deep: #0087B7;
+		--primary-mild: #66FFF5;
+		--primary-subtle: #00E5FF1a;
+		--secondary: #8A2BE2;
+		--secondary-deep: #5015A2;
+		--secondary-mild: #C97EF6;
+		--secondary-subtle: #8A2BE21a;
+		--tertiary: #FF007F;
+		--tertiary-deep: #B70080;
+		--tertiary-mild: #FF6693;
+		--tertiary-subtle: #FF007F1a;
+		--error: #ff6a55;
+		--error-subtle: #ff6a551a; 
+		--success: #10b981;
+		--success-subtle: #05eb7624;
+		--info: #2a85ff;
+		--info-subtle: #2a85ff1a;
+		--warning: #f59e0b;
+		--warning-subtle: #ffd40045;
+		--gray-50: #fafafa;
+		--gray-100: #f5f5f5;
+		--gray-200: #e5e5e5;
+		--gray-300: #d4d4d4;
+		--gray-400: #a3a3a3;
+		--gray-500: #737373;
+		--gray-600: #525252;
+		--gray-700: #404040;
+		--gray-800: #262626;
+		--gray-900: #171717;
+		--gray-950: #0a0a0a;
+		--bg-light: #f5f5f5;
+		--bg-dark: #06061B;
+	}
+}
+
+@layer base {
+	*,
+	::after,
+	::before,
+	::backdrop,
+	::file-selector-button {
+		border-color: var(--color-gray-200, currentColor);
+	}
+
+	button, [role=button] {
+		cursor: pointer;
+	}
+
+	body {
+		@apply text-gray-500 dark:text-gray-400 text-sm bg-[var(--bg-light)] dark:bg-[var(--bg-dark)] leading-normal font-medium;
+		-webkit-font-smoothing: antialiased;
+	}
+
+	h1,
+	.h1 {
+		@apply text-4xl font-bold text-gray-900 dark:text-gray-100;
+	}
+
+	h2,
+	.h2 {
+		@apply text-3xl font-bold text-gray-900 dark:text-gray-100;
+	}
+
+	h3,
+	.h3 {
+		@apply text-2xl font-bold text-gray-900 dark:text-gray-100;
+	}
+
+	h4,
+	.h4 {
+		@apply text-xl font-bold text-gray-900 dark:text-gray-100;
+	}
+
+	h5,
+	.h5 {
+		@apply text-lg font-bold text-gray-900 dark:text-gray-100;
+	}
+
+	h6,
+	.h6 {
+		@apply text-base font-semibold text-gray-900 dark:text-gray-100;
+	}
+
+	hr {
+		@apply border-gray-200 dark:border-gray-600;
+	}
+}
+
+@layer components {
+	.heading-text {
+		@apply text-gray-900 dark:text-gray-100 text-lg
+	}
+}
+
+@layer utilities {
+	@keyframes gradient-rotate {
+		0% {
+			background-position: 0% 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0% 50%;
+		}
+	}
+
+	.animate-gradient-rotate {
+		animation: gradient-rotate 3s ease infinite;
+	}
+}

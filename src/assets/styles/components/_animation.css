@@ -1,0 +1,56 @@
+/* Hero Animasyonları */
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in-late {
+  0%, 30% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 1s forwards;
+}
+
+.animate-slide-in-late {
+  animation: slide-in-late 1.5s forwards;
+} 
+
+
+
+
+/* ... existing code ... */
+
+@keyframes slideIn {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Bu animasyonu gecikmeli olarak kullan */
+.opacity-0 {
+  opacity: 0;
+}
+
+/* Kategorilerin geçiş animasyonu */
+.border-secondary {
+  transition: all 0.3s ease;
+} 

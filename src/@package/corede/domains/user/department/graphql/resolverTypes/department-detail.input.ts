@@ -1,0 +1,3 @@
+import { IEntity } from '@common_package';
+
+export interface IDepartmentDetailInput extends IEntity {}

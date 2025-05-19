@@ -1,0 +1,15 @@
+export enum DocumentTargetType {
+  Lead = "Lead",
+  Customer = "Customer",
+  Estimate = "Estimate",
+  Proposal = "Proposal",
+  Invoice = "Invoice",
+  Task = "Task",
+  Organization = "Organization",
+  User = "User",
+  Ticket = "Ticket",
+  Expense = "Expense",
+  Project = "Project",
+  Appointment = "Appointment",
+  Contract = "Contract",
+}

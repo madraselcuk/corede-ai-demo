@@ -1,0 +1,8 @@
+export const ROOT = '/'
+export const HOME_PREFIX_PATH = '/app/home'
+export const LANDING_PREFIX_PATH = '/app/landing'
+export const TASK_MANAGEMENT_PREFIX_PATH = '/app/task-management'
+export const AUTH_PREFIX_PATH = '/auth'
+export const FAQ_PREFIX_PATH = '/app/faq'
+export const USER_PREFIX_PATH = '/app/user'
+export const NOTIFICATION_PREFIX_PATH = '/app/notification'

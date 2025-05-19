@@ -1,0 +1,17 @@
+export enum DocumentFolder {
+  lead = "lead",
+  customer = "customer",
+  estimate = "estimate",
+  proposal = "proposal",
+  invoice = "invoice",
+  invoicePayment = "invoicePayment",
+  invoiceReturn = "invoiceReturn",
+  task = "task",
+  organization = "organization",
+  user = "user",
+  ticket = "ticket",
+  expense = "expense",
+  project = "project",
+  appointment = "appointment",
+  contract = "contract",
+}

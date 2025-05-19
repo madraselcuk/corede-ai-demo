@@ -1,0 +1,10 @@
+export * from './faqCategory-detail.query'
+export * from './faqCategory-list.query'
+export * from './faqCategory-create.mutation'
+export * from './faqCategory-update.mutation'
+export * from './faqCategory-delete.mutation'
+
+export * from '../fragments/faqCategory-detail.result.fragment'
+export * from '../fragments/faqCategory-list.item.result.fragment'
+export * from '../fragments/faqCategory.fragment'
+export * from './faqCategory-list-public.query'
