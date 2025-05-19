@@ -2,7 +2,7 @@ import {
   IBaseGraphqlResponse,
   IGraphqlVariables,
   IBaseGraphqlError,
-} from '@repo/common'
+} from '@common_package'
 
 export interface IEndpointQueryDefinition<
   TRequest,

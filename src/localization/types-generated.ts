@@ -1505,6 +1505,8 @@ export type Subscription = {
   description: string
   emailPlaceholder: string
   subscribeButton: string
+  subscribeSuccess: string
+  subscribeError: string
 }
 
 export type Footer = {
@@ -1809,14 +1811,14 @@ export type PagesAboutUsOurMission = {
 export type PagesAboutUsCompanyHistory = {
   title: string
   description: string
-  title-1: string
-  title-2: string
-  title-3: string
-  title-4: string
-  content-1: string
-  content-2: string
-  content-3: string
-  content-4: string
+  title1: string
+  title2: string
+  title3: string
+  title4: string
+  content1: string
+  content2: string
+  content3: string
+  content4: string
 }
 
 export type PagesAboutUsTheTeam = {
@@ -1840,91 +1842,10 @@ export type PagesAboutUs = {
   mediaPress: PagesAboutUsMediaPress
 }
 
-export type PagesBlogHero = {
-  title: string
-  description: string
-}
-
-export type PagesBlogFilteredPosts = {
-  allPosts: string
-  noPosts: string
-}
-
-export type PagesBlogEditorsChoice = {
-  title: string
-}
-
-export type PagesBlogAllBlogs = {
-  title: string
-  viewAll: string
-}
-
-export type PagesBlogCategories = {
-  title: string
-  noCategories: string
-}
-
-export type PagesBlogPopularBlogs = {
-  title: string
-}
-
-export type PagesBlog = {
-  hero: PagesBlogHero
-  filteredPosts: PagesBlogFilteredPosts
-  editorsChoice: PagesBlogEditorsChoice
-  allBlogs: PagesBlogAllBlogs
-  categories: PagesBlogCategories
-  popularBlogs: PagesBlogPopularBlogs
-}
-
-export type PagesContactUsHero = {
-  title: string
-  description: string
-  button: string
-}
-
-export type PagesContactUsForm = {
-  fullName: string
-  fullNamePlaceholder: string
-  email: string
-  emailPlaceholder: string
-  subject: string
-  subjectPlaceholder: string
-  message: string
-  messagePlaceholder: string
-  submit: string
-  submitting: string
-  successMessage: string
-}
-
-export type PagesContactUsContactInfoEmail = {
-  label: string
-  value: string
-}
-
-export type PagesContactUsContactInfoPhone = {
-  label: string
-  value: string
-}
-
-export type PagesContactUsContactInfoAddress = {
-  label: string
-  value: string
-}
-
-export type PagesContactUsContactInfo = {
-  email: PagesContactUsContactInfoEmail
-  phone: PagesContactUsContactInfoPhone
-  address: PagesContactUsContactInfoAddress
-}
-
 export type PagesContactUs = {
   title: string
   description: string
   content: string
-  hero: PagesContactUsHero
-  form: PagesContactUsForm
-  contactInfo: PagesContactUsContactInfo
 }
 
 export type PagesHelp = {
@@ -1934,6 +1855,12 @@ export type PagesHelp = {
 }
 
 export type PagesSupport = {
+  title: string
+  description: string
+  content: string
+}
+
+export type PagesAiSolutions = {
   title: string
   description: string
   content: string
@@ -2045,24 +1972,8 @@ export type PagesAiAgentsGetOffer = {
 
 export type PagesAiAgentsFeaturedSectors = {
   title: string
-  section-1: string
-  section-1-description: string
-  section-2: string
-  section-2-description: string
-  section-3: string
-  section-3-description: string
-  section-4: string
-  section-4-description: string
-  section-5: string
-  section-5-description: string
-  section-6: string
-  section-6-description: string
-  section-7: string
-  section-7-description: string
-  section-8: string
-  section-8-description: string
-  section-9: string
-  section-9-description: string
+  demoTitle: string
+  demoDescription: string
 }
 
 export type PagesAiAgents = {
@@ -2075,179 +1986,6 @@ export type PagesAiAgents = {
   whyAiAgents: PagesAiAgentsWhyAiAgents
   getOffer: PagesAiAgentsGetOffer
   featuredSectors: PagesAiAgentsFeaturedSectors
-}
-
-export type PagesAiSolutionsHeroStatistics = {
-  statistic-1: string
-  statistic-2: string
-  statistic-3: string
-}
-
-export type PagesAiSolutionsHero = {
-  title: string
-  description: string
-  button-1: string
-  button-2: string
-  statistics: PagesAiSolutionsHeroStatistics
-}
-
-export type PagesAiSolutionsWhyAiPowered = {
-  title: string
-  description: string
-  list-1: string
-  list-2: string
-  list-3: string
-  feature-1: string
-  feature-2: string
-  feature-3: string
-}
-
-export type PagesAiSolutionsAiPoweredSolutions = {
-  title: string
-  section-1-title: string
-  section-1-description: string
-  section-2-title: string
-  section-2-description: string
-  section-3-title: string
-  section-3-description: string
-}
-
-export type PagesAiSolutionsWhyChoose = {
-  title: string
-  feature-1: string
-  feature-2: string
-  feature-3: string
-  description-1: string
-  description-2: string
-  description-3: string
-}
-
-export type PagesAiSolutionsSuccessStories = {
-  title: string
-  story-1: string
-  story-2: string
-  story-3: string
-  moreStory: string
-}
-
-export type PagesAiSolutionsTechnologiesUsed = {
-  title: string
-  description: string
-  feature-1: string
-  description-1: string
-  feature-2: string
-  description-2: string
-  feature-3: string
-  description-3: string
-  feature-4: string
-  description-4: string
-  feature-5: string
-  description-5: string
-  feature-6: string
-  description-6: string
-}
-
-export type PagesAiSolutions = {
-  hero: PagesAiSolutionsHero
-  whyAiPowered: PagesAiSolutionsWhyAiPowered
-  aiPoweredSolutions: PagesAiSolutionsAiPoweredSolutions
-  whyChoose: PagesAiSolutionsWhyChoose
-  successStories: PagesAiSolutionsSuccessStories
-  technologiesUsed: PagesAiSolutionsTechnologiesUsed
-}
-
-export type PagesAiForBusinessHero = {
-  title: string
-  description: string
-  button-1: string
-  button-2: string
-}
-
-export type PagesAiForBusinessOurSolutionsSlide-1 = {
-  title: string
-  titlePart1: string
-  titlePart2: string
-  description: string
-}
-
-export type PagesAiForBusinessOurSolutionsSlide-2 = {
-  title: string
-  titlePart1: string
-  titlePart2: string
-  description: string
-}
-
-export type PagesAiForBusinessOurSolutionsSlide-3 = {
-  title: string
-  titlePart1: string
-  titlePart2: string
-  description: string
-}
-
-export type PagesAiForBusinessOurSolutions = {
-  slide-1: PagesAiForBusinessOurSolutionsSlide-1
-  slide-2: PagesAiForBusinessOurSolutionsSlide-2
-  slide-3: PagesAiForBusinessOurSolutionsSlide-3
-}
-
-export type PagesAiForBusinessAiTransformationSection-1 = {
-  title: string
-  item-1: string
-  item-2: string
-  item-3: string
-}
-
-export type PagesAiForBusinessAiTransformationSection-2 = {
-  title: string
-  item-1: string
-  item-2: string
-  item-3: string
-}
-
-export type PagesAiForBusinessAiTransformationSection-3 = {
-  title: string
-  item-1: string
-  item-2: string
-  item-3: string
-}
-
-export type PagesAiForBusinessAiTransformation = {
-  title: string
-  section-1: PagesAiForBusinessAiTransformationSection-1
-  section-2: PagesAiForBusinessAiTransformationSection-2
-  section-3: PagesAiForBusinessAiTransformationSection-3
-}
-
-export type PagesAiForBusinessSuccessStoriesStory-1 = {
-  title: string
-  content: string
-  description: string
-}
-
-export type PagesAiForBusinessSuccessStoriesStory-2 = {
-  title: string
-  content: string
-  description: string
-}
-
-export type PagesAiForBusinessSuccessStoriesStory-3 = {
-  title: string
-  content: string
-  description: string
-}
-
-export type PagesAiForBusinessSuccessStories = {
-  title: string
-  story-1: PagesAiForBusinessSuccessStoriesStory-1
-  story-2: PagesAiForBusinessSuccessStoriesStory-2
-  story-3: PagesAiForBusinessSuccessStoriesStory-3
-}
-
-export type PagesAiForBusiness = {
-  hero: PagesAiForBusinessHero
-  ourSolutions: PagesAiForBusinessOurSolutions
-  aiTransformation: PagesAiForBusinessAiTransformation
-  successStories: PagesAiForBusinessSuccessStories
 }
 
 export type PagesTermsOfService = {
@@ -2280,48 +2018,28 @@ export type PagesRefundPolicy = {
   content: string
 }
 
-export type PagesFaqHero = {
-  title: string
-  description: string
-  button: string
-}
-
 export type PagesFaq = {
   frequentlyAskedQuestions: string
   generalQuestions: string
   pricing: string
   technicalQuestions: string
   security: string
-  hero: PagesFaqHero
-}
-
-export type PagesHelpCenterHero = {
-  title: string
-  description: string
-  button: string
-}
-
-export type PagesHelpCenter = {
-  hero: PagesHelpCenterHero
 }
 
 export type Pages = {
   home: PagesHome
   aboutUs: PagesAboutUs
-  blog: PagesBlog
   contactUs: PagesContactUs
   help: PagesHelp
   support: PagesSupport
-  aiAgents: PagesAiAgents
   aiSolutions: PagesAiSolutions
-  aiForBusiness: PagesAiForBusiness
+  aiAgents: PagesAiAgents
   termsOfService: PagesTermsOfService
   privacyPolicy: PagesPrivacyPolicy
   cookiesPolicy: PagesCookiesPolicy
   salesAgreement: PagesSalesAgreement
   refundPolicy: PagesRefundPolicy
   faq: PagesFaq
-  helpCenter: PagesHelpCenter
 }
 
 export type MenuAiAgentsOverviewAndBenefitsDescriptions = {
@@ -2464,4 +2182,3 @@ export type Menu = {
   aiForBusiness: MenuAiForBusiness
   aiSolutions: MenuAiSolutions
 }
-
