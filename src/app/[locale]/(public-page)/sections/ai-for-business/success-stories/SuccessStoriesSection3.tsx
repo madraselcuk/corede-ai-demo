@@ -1,7 +1,6 @@
 'use client'
 import React from 'react'
 import { useTranslations } from 'next-intl'
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 
